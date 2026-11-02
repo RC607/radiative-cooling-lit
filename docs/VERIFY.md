@@ -26,12 +26,12 @@ Cloudflare Pages 会对 HTML/CSS/JS/JSON/SVG 自动使用 Brotli（不支持时�
 
 | 文件 | 原始 | gzip | brotli |
 | --- | --- | --- | --- |
-| `literature.json` | 916 KB | 276 KB | 191 KB |
-| `index.json` | 363 KB | 67 KB | 50 KB |
-| `meta.json` | 80 KB | 15 KB | 13 KB |
-| `citations.json` | 635 KB | 172 KB | 121 KB |
+| `literature.json` | 959 KB | 288 KB | 199 KB |
+| `index.json` | 380 KB | 69 KB | 50 KB |
+| `meta.json` | 82 KB | 16 KB | 13 KB |
+| `citations.json` | 656 KB | 177 KB | 124 KB |
 | `style.css` | 33 KB | 7 KB | 6 KB |
-| `search.js` | 22 KB | 7 KB | 6 KB |
+| `search.js` | 29 KB | 9 KB | 8 KB |
 
 缓存策略（`public/_headers`）：
 
@@ -76,7 +76,7 @@ Cloudflare Pages 会对 HTML/CSS/JS/JSON/SVG 自动使用 Brotli（不支持时�
 | 页面 | 请求数 | 传输量 | 加载 |
 | --- | --- | --- | --- |
 | 首页 | 2 | 约 10 KB | 80 ms |
-| 检索页（结构色） | 4 | 约 210 KB（检索数据 191 KB） | 约 150 ms |
+| 检索页（结构色） | 4 | 约 240 KB（检索数据 199 KB） | 约 220 ms |
 | 检索耗时 | — | — | 1–5 ms |
 
 线上经 Cloudflare CDN 后通常更快。
