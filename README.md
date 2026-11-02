@@ -161,5 +161,6 @@ Cloudflare Pages 连接本仓库，详细步骤见 [`docs/DEPLOY-CLOUDFLARE.md`]
 ## 文档
 
 - [Cloudflare Pages 部署](docs/DEPLOY-CLOUDFLARE.md)
+- [Git 日常维护](docs/GIT-WORKFLOW.md)
 - [验证清单与性能数据](docs/VERIFY.md)
 - [运维、回滚与故障排查](docs/OPERATIONS.md)
