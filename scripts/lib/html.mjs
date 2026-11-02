@@ -4,7 +4,7 @@ export const SITE = {
   name: '辐射制冷文献检索系统',
   short: '辐射制冷文献库',
   tagline: '白色、彩色与透明辐射制冷',
-  version: '3.0',
+  version: '3.1',
   repo: 'rc-lit-portal',
 };
 
@@ -153,7 +153,7 @@ export function layout({
 <meta name="theme-color" content="#0f766e">
 ${noindex ? '<meta name="robots" content="noindex, follow">' : ''}
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style.css?v=${SITE.version}">
 </head>
 <body${bodyClass ? ` class="${bodyClass}"` : ''}>
 <a class="skip-link" href="#main">跳到正文</a>
@@ -169,8 +169,8 @@ ${topbar(active)}
   <span class="footer-dim">公开只读站点 · 题录元数据经 OpenAlex 开放元数据接口校核；中文简介由编者整理，供检索与选题参考 · <a href="/about/">关于本站</a></span></footer>
 <div id="modal-root"></div>
 <div id="toast" class="toast" hidden></div>
-<script src="/assets/js/site.js" defer></script>
-${scripts.map((s) => `<script src="${s}" defer></script>`).join('\n')}
+<script src="/assets/js/site.js?v=${SITE.version}" defer></script>
+${scripts.map((s) => `<script src="${s}${s.includes('?') ? '&' : '?'}v=${SITE.version}" defer></script>`).join('\n')}
 </body>
 </html>
 `;

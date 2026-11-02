@@ -129,11 +129,9 @@ for (const file of files.filter((f) => f.endsWith('.js'))) {
   }
 }
 
-/* ── Pagefind 索引 ─────────────────────────────────────────────────── */
-for (const file of ['pagefind.js', 'pagefind-entry.json']) {
-  if (!fs.existsSync(path.join(DIST, 'pagefind', file))) {
-    problems.push(`缺少 Pagefind 索引文件 pagefind/${file}`);
-  }
+/* ── 检索数据 ─────────────────────────────────────────────────────── */
+if (!fs.existsSync(path.join(DIST, 'data', 'literature.json'))) {
+  problems.push('缺少检索数据 data/literature.json');
 }
 
 /* ── sitemap ───────────────────────────────────────────────────────── */

@@ -10,15 +10,15 @@
 - **只读**：没有任何管理后台、导入接口或写操作；站点由维护者在本地 / GitHub Actions 更新。
 - **静态**：全部页面与数据是构建产物，无服务端、无数据库、无第三方 API。
 - **自动更新**：GitHub Actions 每日定时拉取新文献 → 重建 → 部署。
-- **检索**：Pagefind 构建期全文索引，纯前端检索，不请求外部 API。
+- **检索**：浏览器端精确子串匹配，中文不拆字；纯前端，不请求外部 API。
 
 ## 快速开始
 
 ```bash
-npm install        # 安装 Pagefind（构建期生成检索索引）
-npm run build      # 校验数据 → 生成 dist/ → 生成 Pagefind 索引
+npm install        # 安装依赖（当前无运行时依赖）
+npm run build      # 校验数据 → 生成 dist/ 与检索数据
 npm run preview    # http://127.0.0.1:4321/
-npm run check      # 断链 / 写操作残留 / 密钥特征 / Pagefind / sitemap 自检
+npm run check      # 断链 / 写操作残留 / 密钥特征 / 检索数据 / sitemap 自检
 ```
 
 构建前可设置 `SITE_URL`（如 `https://your-domain.com`），用于生成 canonical、og:url 与 sitemap；
@@ -42,7 +42,7 @@ scripts/
   lib/html.mjs               页面外壳、侧栏、卡片、分页
   lib/pages.mjs              各页面渲染
   build-data.mjs             导出 public/data/*.json 与下载文件
-  build.mjs                  生成 dist/（页面、资源、sitemap、robots、Pagefind 索引）
+  build.mjs                  生成 dist/（页面、资源、sitemap、robots）
   update-data.mjs            从 OpenAlex 增量更新 imported.json
   serve.mjs                  本地静态预览
   check.mjs                  构建产物自检
@@ -74,24 +74,26 @@ dist/                        构建产物（已 gitignore）
 ```
 data/*.json ──loadCorpus()──> 校验/去重/派生 ──┬──> 静态页面（dist/**/index.html）
                                              ├──> public/data/literature.json（全量）
-                                             ├──> public/data/index.json（检索轻量索引）
+                                             ├──> public/data/index.json（收藏夹轻量索引）
                                              ├──> public/data/citations.json（按需加载）
                                              ├──> public/download/*.bib|ris
-                                             └──> dist/pagefind/（Pagefind 检索索引）
+                                             └──> public/data/manifest.json（加载说明）
 ```
 
 `data/` 是唯一事实来源；`public/data/` 是导出产物，构建时重新生成，不应手工编辑。
 
-## 检索索引
+## 检索
 
-`npm run build` 的最后一步会调用 Pagefind，对 `dist/paper/*/index.html` 建立全文索引，输出到 `dist/pagefind/`：
+检索页加载 `/data/literature.json`，在浏览器内对题名（中英）、作者、期刊、关键词、中文简介、英文摘要做**精确子串匹配**：
 
-- 只索引文献详情页（当前库全部文献），分类页、列表页、检索页不进入索引；
-- 中文按分词索引、英文按词索引；`6` 个筛选维度（方向、细分、类型、年份、期刊、关键词）和 `1` 个排序键（发表时间）；
-- 检索页只请求本地 `data/meta.json` 与 `/pagefind/*`，不访问任何外部 API；
-- 调试静态页面时可加 `--no-pagefind` 跳过索引（此时 `npm run check` 会提示缺少索引）。
+- 中文按完整词语匹配：`水泥` 只命中包含“水泥”的记录，不会拆分“水”“泥”；同时自动匹配英文等价术语 `cement` / `cementitious`；
+- 空格分隔多个词时为 AND：`水泥 涂料` 需同时出现；
+- 英文不区分大小写，化学式（`BaSO4`、`SiO2`）可直接检索；
+- 题名 / 关键词命中权重高于摘要；支持相关度、发表时间排序；
+- 6 个筛选维度（方向、细分、类型、年份、期刊、关键词）全部在前端完成；
+- 检索数据随站点发布，不访问任何外部 API。
 
-Pagefind 作为 `dependencies` 安装，Cloudflare Pages 构建时会自动安装。
+当前全量数据约 916 KB（Brotli 191 KB），一次加载后查询在毫秒级完成。
 
 ## 自动更新
 

@@ -26,7 +26,7 @@
 | Build command | `npm run build` |
 | Build output directory | `dist` |
 
-构建过程：`npm install/ci` → 生成静态页 → Pagefind 索引 → 输出 `dist/`。首次构建约 1–2 分钟（依赖安装占大部分）。
+构建过程：`npm install/ci` → 生成静态页与检索数据 → 输出 `dist/`。首次构建约 1–2 分钟（依赖安装占大部分）。
 
 ## 3. 环境变量
 
@@ -34,12 +34,12 @@
 
 | 变量 | 值 | 说明 |
 | --- | --- | --- |
-| `NODE_VERSION` | `20` | 与 `.nvmrc` 一致；Pagefind 需要 Node 18+ |
+| `NODE_VERSION` | `20` | 与 `.nvmrc` 一致 |
 | `SITE_URL` | `https://radiative-cooling-lit.pages.dev` | 用于 canonical、og:url、sitemap；绑定自定义域名后改成正式域名 |
 
 注意事项：
 
-- Pagefind 已放在 `dependencies`，即使构建环境省略 devDependencies 也能安装；仍建议**不要**设置 `NODE_ENV=production`；
+- 构建不依赖原生二进制或额外检索服务；`npm ci` 后直接 `npm run build`；
 - 不需要在该项目里放任何 API Key / Token；OpenAlex 的更新只在 GitHub Actions 中运行；
 - `SITE_URL` 只参与构建，不会作为密钥暴露。
 
@@ -50,7 +50,7 @@
 验证：
 
 - 首页、`/search/`、任一文献详情页可打开；
-- `/search/?q=结构色` 有结果（说明 Pagefind 索引已生成）；
+- `/search/?q=结构色` 有结果（说明检索数据已生成）；
 - 任意不存在的路径返回站内 404；
 - `_headers` 生效（可查看响应头里的 CSP）。
 
@@ -78,7 +78,7 @@
 | 构建次数 | 500 次/月 | 每天 1 次 ≈ 30 次/月 |
 | 并发构建 | 1 | 足够 |
 | 构建超时 | 20 分钟 | 本站约 1–2 分钟 |
-| 站点文件数 | 20,000 | 约 1,200 个（含 Pagefind） |
+| 站点文件数 | 20,000 | 约 670 个 |
 | 单文件大小 | 25 MiB | 最大约 0.9 MB |
 | 自定义域名 | 100 个/项目 | 1 个 |
 | 静态请求 / 带宽 | 静态资源不按请求数计费 | 日访问 5,000 次无压力 |
@@ -96,9 +96,8 @@
 
 | 现象 | 排查 |
 | --- | --- |
-| 构建时找不到 `pagefind` | 确认 `package-lock.json` 已提交；Pagefind 在 `dependencies` 中，`npm ci` 应安装 |
-| `npm ci` 报 lockfile 不同步 | 本地 `npm install` 后提交新的 `package-lock.json` |
-| 构建成功但搜索无结果 | 检查构建日志是否有 Pagefind 步骤；确认 `/pagefind/pagefind.js` 可访问 |
+| 构建成功但搜索无结果 | 检查 `/data/literature.json` 是否可访问；确认 `search.js` 已更新 |
+| 搜索把“水泥”拆成“水/泥” | 浏览器缓存了旧 `search.js`，强刷或等待缓存过期 |
 | canonical / sitemap 指向 `*.pages.dev` 随机域名 | 设置 `SITE_URL` 并重新部署 |
 | 404 页面不生效 | 确认 `dist/404.html` 存在（构建自动生成） |
 | 构建超时 | 检查是否误把 `dist/` 或大文件提交进仓库 |

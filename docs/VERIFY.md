@@ -4,9 +4,9 @@
 
 ```bash
 npm ci
-npm run build          # 静态页 + Pagefind 索引
+npm run build          # 静态页 + 检索数据
 npm run preview        # http://127.0.0.1:4321/
-npm run check          # 断链 / 写操作 / 密钥 / PDF / 安全头 / Pagefind / sitemap
+npm run check          # 断链 / 写操作 / 密钥 / PDF / 安全头 / 检索数据 / sitemap
 npm run update-data -- --dry-run
 ```
 
@@ -16,9 +16,9 @@ npm run update-data -- --dry-run
 | --- | --- |
 | 文献 | 484 篇 |
 | HTML 页面 | 654 |
-| 产物文件 | 1,180（含 Pagefind） |
+| 产物文件 | 670 左右 |
 | 内部链接 | 62,524，0 断链 |
-| 构建耗时 | 约 3 秒（含 Pagefind） |
+| 构建耗时 | 约 1–2 秒 |
 
 ## 压缩与缓存
 
@@ -35,17 +35,15 @@ Cloudflare Pages 会对 HTML/CSS/JS/JSON/SVG 自动使用 Brotli（不支持时�
 
 缓存策略（`public/_headers`）：
 
-- `/assets/*`：7 天
+- `/assets/*`：7 天（URL 带 `?v=3.1` 版本参数，更新后自动破缓存）
 - `/data/*`、`/download/*`：1 小时
-- `/pagefind/*`：1 小时；`pagefind-entry.json` 5 分钟
 - HTML：5 分钟
 
 ## 数据加载策略
 
-- **检索**：Pagefind 分片索引，按查询只加载需要的 fragment；查询 `结构色` 实测只请求约 135 KB。
-- **收藏夹**：只加载精简 `index.json`（363 KB，无摘要），不再加载全量文献。
+- **检索**：首次加载 `/data/literature.json`（916 KB，Brotli 191 KB），在浏览器内精确匹配；后续查询毫秒级。
+- **收藏夹**：只加载精简 `index.json`（363 KB，无摘要），不加载全量文献。
 - **题录/导出**：`citations.json` 点击时才加载。
-- **全量数据**：`literature.json` 仅外部消费时下载，页面不加载。
 - **分片阈值**：文献超过 2,000 篇时，`build-data` 会自动生成 `literature.white/colored/transparent.json` 分片并写入 `manifest.json`。
 - 当前 `public/data/manifest.json` 记录各文件用途与分片状态。
 
@@ -78,8 +76,8 @@ Cloudflare Pages 会对 HTML/CSS/JS/JSON/SVG 自动使用 Brotli（不支持时�
 | 页面 | 请求数 | 传输量 | 加载 |
 | --- | --- | --- | --- |
 | 首页 | 2 | 约 10 KB | 80 ms |
-| 检索页（结构色） | 29 | 约 164 KB（Pagefind 135 KB） | 84 ms |
-| 检索耗时 | — | — | 62 ms |
+| 检索页（结构色） | 4 | 约 210 KB（检索数据 191 KB） | 约 150 ms |
+| 检索耗时 | — | — | 1–5 ms |
 
 线上经 Cloudflare CDN 后通常更快。
 
@@ -90,12 +88,13 @@ Cloudflare Pages 会对 HTML/CSS/JS/JSON/SVG 自动使用 Brotli（不支持时�
 1. `https://<域名>/` 首页正常，数据总量、三大方向、最新文献显示正确；
 2. `https://<域名>/search/` 空查询显示 484 篇；
 3. `https://<域名>/search/?q=结构色` 有结果，作者行显示；
-4. `https://<域名>/search/?q=BaSO4` 有结果；关键词筛选 `结构色` 为 7 篇；
-5. `https://<域名>/search/?cat=transparent` 为 24 篇；
-6. 任一详情页 `/paper/RC-W-001/` 题录、DOI、收藏、题录弹窗正常；
-7. 随机不存在路径返回 404 页面；
-8. 移动端（DevTools 360 px）无横向滚动；
-9. `curl -I https://<域名>/` 含 `content-security-policy`、`x-content-type-options`；
-10. `curl -H 'Accept-Encoding: br' -I https://<域名>/data/literature.json` 含 `content-encoding: br`（Cloudflare 自动）；
-11. `https://<域名>/sitemap.xml`、`robots.txt` 可访问；
-12. GitHub Actions 的 **Update data** 手动运行一次，确认提交后 Pages 自动部署。
+4. `https://<域名>/search/?q=水泥` 只出现题名/摘要/关键词中完整包含“水泥”或英文等价词 cement / cementitious 的文献，不应只含“水”或“泥”；
+5. `https://<域名>/search/?q=BaSO4` 有结果；关键词筛选 `结构色` 为 7 篇；
+6. `https://<域名>/search/?cat=transparent` 为 24 篇；
+7. 任一详情页 `/paper/RC-W-001/` 题录、DOI、收藏、题录弹窗正常；
+8. 随机不存在路径返回 404 页面；
+9. 移动端（DevTools 360 px）无横向滚动；
+10. `curl -I https://<域名>/` 含 `content-security-policy`、`x-content-type-options`；
+11. `curl -H 'Accept-Encoding: br' -I https://<域名>/data/literature.json` 含 `content-encoding: br`（Cloudflare 自动）；
+12. `https://<域名>/sitemap.xml`、`robots.txt` 可访问；
+13. GitHub Actions 的 **Update data** 手动运行一次，确认提交后 Pages 自动部署。

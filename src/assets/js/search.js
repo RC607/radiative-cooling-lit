@@ -1,5 +1,6 @@
-/* 检索页：Pagefind 构建期索引 + 纯前端筛选。
- * 不请求任何外部 API；索引文件随站点发布。
+/* 检索页：客户端精确子串匹配 + 筛选。
+ * 数据来自 /data/literature.json；不请求任何外部 API，也不依赖分词引擎。
+ * 中文查询按完整词语匹配（“水泥”不会拆成“水”“泥”），多词为 AND。
  */
 'use strict';
 
@@ -14,6 +15,86 @@ const CATS = [
   { key: 'transparent', name: '透明辐射制冷', chip: 'cat-transparent' },
 ];
 const TYPE_NAMES = { research: '研究型论文', review: '综述' };
+
+/* 中英文术语等价：只扩展完整术语，绝不拆成单字。
+ * 例如“水泥”会匹配 cement / cementitious，但不会匹配只含“水”或“泥”的文献。
+ */
+const SYNONYMS = {
+  '水泥': ['cement', 'cementitious', 'concrete'],
+  'cement': ['水泥', 'cementitious', 'concrete'],
+  '混凝土': ['concrete', 'cementitious', 'cement'],
+  'concrete': ['混凝土', 'cementitious', 'cement'],
+  '水泥基': ['cementitious', 'cement-based'],
+  '织物': ['textile', 'fabric', 'cloth'],
+  '纺织品': ['textile', 'fabric'],
+  '面料': ['fabric', 'textile'],
+  'textile': ['织物', '纺织品', 'fabric'],
+  'fabric': ['织物', '面料', 'textile'],
+  '涂料': ['coating', 'paint'],
+  '涂层': ['coating', 'paint'],
+  'coating': ['涂料', '涂层'],
+  'paint': ['涂料', '涂层'],
+  '薄膜': ['film', 'membrane'],
+  'film': ['薄膜', 'membrane'],
+  'membrane': ['薄膜'],
+  '陶瓷': ['ceramic'],
+  'ceramic': ['陶瓷'],
+  '聚合物': ['polymer', 'polymeric'],
+  '高分子': ['polymer', 'polymeric'],
+  'polymer': ['聚合物', '高分子'],
+  '无机': ['inorganic'],
+  'inorganic': ['无机'],
+  '自适应': ['adaptive', 'switchable'],
+  'adaptive': ['自适应', 'switchable'],
+  'switchable': ['自适应', '可切换'],
+  '彩色': ['colored', 'colour', 'color'],
+  'colored': ['彩色'],
+  'color': ['彩色'],
+  'colour': ['彩色'],
+  '透明': ['transparent', 'transparency'],
+  'transparent': ['透明'],
+  '辐射制冷': ['radiative cooling'],
+  '辐射冷却': ['radiative cooling'],
+  'radiative cooling': ['辐射制冷', '辐射冷却'],
+  '被动辐射制冷': ['passive radiative cooling'],
+  '被动辐射冷却': ['passive radiative cooling'],
+  'passive radiative cooling': ['被动辐射制冷', '被动辐射冷却'],
+  '日间辐射制冷': ['daytime radiative cooling'],
+  'daytime radiative cooling': ['日间辐射制冷'],
+  '彩色辐射制冷': ['colored radiative cooling'],
+  'colored radiative cooling': ['彩色辐射制冷'],
+  '透明辐射制冷': ['transparent radiative cooling'],
+  'transparent radiative cooling': ['透明辐射制冷'],
+  '结构色': ['structural color', 'structural colour'],
+  'structural color': ['结构色'],
+  'structural colour': ['结构色'],
+  '被动': ['passive'],
+  'passive': ['被动'],
+  '日间': ['daytime'],
+  'daytime': ['日间'],
+  '建筑': ['building', 'architecture'],
+  'building': ['建筑'],
+  '可穿戴': ['wearable'],
+  'wearable': ['可穿戴'],
+  '气凝胶': ['aerogel'],
+  'aerogel': ['气凝胶'],
+  '多孔': ['porous'],
+  'porous': ['多孔'],
+  '颜料': ['pigment'],
+  'pigment': ['颜料'],
+  '染料': ['dye'],
+  'dye': ['染料'],
+  '荧光': ['fluorescent', 'fluorescence', 'photoluminescent'],
+  'fluorescent': ['荧光'],
+  '发射率': ['emissivity'],
+  'emissivity': ['发射率'],
+  '太阳': ['solar'],
+  'solar': ['太阳'],
+  '智能窗': ['smart window', 'thermochromic'],
+  'smart window': ['智能窗'],
+  '热致变色': ['thermochromic'],
+  'thermochromic': ['热致变色'],
+};
 
 const state = {
   q: '',
@@ -30,8 +111,7 @@ const state = {
 
 let META = null;
 let OPTIONS = { categories: [], types: [], years: [], journals: [], keywords: [] };
-let pagefind = null;
-let pagefindPromise = null;
+let CORPUS = [];
 let RESULTS = [];
 let LAST = { total: 0, took: 0, q: '' };
 let PAGE_IDS = [];
@@ -63,6 +143,60 @@ function termsOf(q) {
   return [...new Set(String(q || '').trim().split(/\s+/).filter(Boolean))];
 }
 
+/* 归一化：大小写、全半角、标点统一为空格；保留所有文字与数字。 */
+function norm(value) {
+  return String(value == null ? '' : value)
+    .normalize('NFKC')
+    .toLowerCase()
+    .replace(/[’‘]/g, '')
+    .replace(/[^\p{L}\p{N}]+/gu, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function queryTerms(q) {
+  return [...new Set(norm(q).split(' ').filter(Boolean))];
+}
+
+function variantsOf(term) {
+  const key = String(term || '').toLowerCase();
+  return [...new Set([key, ...(SYNONYMS[key] || []).map(norm)].filter(Boolean))];
+}
+
+/* 整句优先：已知术语/短语作为一个匹配组；否则按空格拆分，多词 AND。 */
+function buildGroups(q) {
+  const phrase = norm(q);
+  if (phrase && SYNONYMS[phrase]) return [{ original: phrase, variants: variantsOf(phrase) }];
+  return queryTerms(q).map((term) => ({ original: term, variants: variantsOf(term) }));
+}
+
+function countOf(haystack, needle) {
+  if (!needle) return 0;
+  let count = 0;
+  let pos = 0;
+  while ((pos = haystack.indexOf(needle, pos)) !== -1) {
+    count += 1;
+    pos += needle.length;
+  }
+  return count;
+}
+
+/* 中文用子串匹配；拉丁字母/数字按词边界匹配，避免 cement 命中 placement/replacement。 */
+const CJK_RE = /\p{Script=Han}/u;
+
+function includesTerm(haystack, term) {
+  if (!term) return false;
+  if (CJK_RE.test(term)) return haystack.includes(term);
+  return new RegExp(`(^| )${escapeReg(term)}( |$)`).test(haystack);
+}
+
+function countTerm(haystack, term) {
+  if (!term) return 0;
+  if (CJK_RE.test(term)) return countOf(haystack, term);
+  const re = new RegExp(`(?:^| )${escapeReg(term)}(?= |$)`, 'g');
+  return (haystack.match(re) || []).length;
+}
+
 function toast(msg) {
   const el = $('#toast');
   if (!el) return;
@@ -72,11 +206,17 @@ function toast(msg) {
   toast._t = setTimeout(() => { el.hidden = true; }, 2200);
 }
 
-/* ── 元数据与 Pagefind 加载 ─────────────────────────────────────────── */
-async function loadMeta() {
-  const res = await fetch('/data/meta.json', { headers: { Accept: 'application/json' } });
-  if (!res.ok) throw new Error(`元数据加载失败（HTTP ${res.status}）`);
-  META = await res.json();
+/* ── 数据加载 ───────────────────────────────────────────────────────── */
+async function loadData() {
+  const [metaRes, corpusRes] = await Promise.all([
+    fetch('/data/meta.json', { headers: { Accept: 'application/json' } }),
+    fetch('/data/literature.json', { headers: { Accept: 'application/json' } }),
+  ]);
+  if (!metaRes.ok) throw new Error(`元数据加载失败（HTTP ${metaRes.status}）`);
+  if (!corpusRes.ok) throw new Error(`文献数据加载失败（HTTP ${corpusRes.status}）`);
+
+  META = await metaRes.json();
+  CORPUS = await corpusRes.json();
   const s = META.stats;
   OPTIONS = {
     categories: s.categories || [],
@@ -85,50 +225,63 @@ async function loadMeta() {
     journals: s.journals_list || [],
     keywords: s.keywords || [],
   };
-}
 
-async function getPagefind() {
-  if (pagefind) return pagefind;
-  if (!pagefindPromise) {
-    pagefindPromise = import('/pagefind/pagefind.js').then(async (mod) => {
-      if (typeof mod.init === 'function') await mod.init();
-      pagefind = mod;
-      return mod;
-    }).catch((err) => {
-      pagefindPromise = null;
-      throw new Error(`检索索引加载失败：${err.message}。请先运行 npm run build 生成 Pagefind 索引。`);
-    });
+  for (const rec of CORPUS) {
+    const zhAbstract = /^（网络收录/.test(String(rec.abstract_zh || '')) ? '' : rec.abstract_zh;
+    rec._title = norm(`${rec.title_zh || ''} ${rec.title_en || ''}`);
+    rec._authors = norm((rec.authors || []).join(' '));
+    rec._journal = norm(rec.journal || '');
+    rec._keywords = norm((rec.keywords || []).join(' '));
+    rec._abstract = norm(`${zhAbstract || ''} ${rec.abstract_en || ''}`);
+    rec._all = [rec._title, rec._authors, rec._journal, rec._keywords, rec._abstract].filter(Boolean).join(' ');
   }
-  return pagefindPromise;
 }
 
-/* ── 查询与筛选 ─────────────────────────────────────────────────────── */
-function buildFilters() {
-  const filters = {};
-  if (state.cat) filters.category = state.cat;
-  if (state.sub) filters.sub = state.sub;
-  if (state.type) filters.type = state.type;
-  if (state.journal) filters.journal = state.journal;
-  if (state.keywords.length) filters.keyword = state.keywords.slice();
-  const years = yearValues();
-  if (years) filters.year = { any: years };
-  return filters;
-}
-
-function yearValues() {
+/* ── 筛选与检索 ─────────────────────────────────────────────────────── */
+function passesFilters(rec) {
+  if (state.cat && rec.category !== state.cat) return false;
+  if (state.sub && rec.sub !== state.sub) return false;
+  if (state.type) {
+    const key = rec.type === '综述' ? 'review' : 'research';
+    if (key !== state.type) return false;
+  }
+  if (state.journal && rec.journal !== state.journal) return false;
+  if (state.keywords.length) {
+    const set = new Set(rec.keywords || []);
+    if (!state.keywords.every((k) => set.has(k))) return false;
+  }
+  const year = Number(rec.year);
   const from = parseInt(state.yearFrom, 10);
   const to = parseInt(state.yearTo, 10);
-  if (!Number.isFinite(from) && !Number.isFinite(to)) return null;
-  const all = OPTIONS.years.map((y) => Number(y.year)).filter(Number.isFinite);
-  if (!all.length) return null;
-  let start = Number.isFinite(from) ? from : Math.min(...all);
-  let end = Number.isFinite(to) ? to : Math.max(...all);
-  if (start > end) [start, end] = [end, start];
-  start = Math.max(1900, start);
-  end = Math.min(2100, end);
-  const out = [];
-  for (let y = start; y <= end; y += 1) out.push(String(y));
-  return out;
+  if (Number.isFinite(from) && year < from) return false;
+  if (Number.isFinite(to) && year > to) return false;
+  return true;
+}
+
+function scoreRecord(rec, groups) {
+  let score = 0;
+  for (const group of groups) {
+    for (const term of group.variants) {
+      if (includesTerm(rec._title, term)) score += 100 + Math.min(40, countTerm(rec._title, term) * 8);
+      if (includesTerm(rec._keywords, term)) score += 60 + Math.min(20, countTerm(rec._keywords, term) * 4);
+      if (includesTerm(rec._authors, term)) score += 50;
+      if (includesTerm(rec._journal, term)) score += 40;
+      if (includesTerm(rec._abstract, term)) score += 12 + Math.min(12, countTerm(rec._abstract, term) * 2);
+    }
+    if (group.original && includesTerm(rec._title, group.original)) score += 20;
+  }
+  return score;
+}
+
+function sortResults(mode) {
+  const byDate = (a, b) => String(a.rec.published || a.rec.year || '').localeCompare(String(b.rec.published || b.rec.year || ''));
+  if (mode === 'relevance') {
+    RESULTS.sort((a, b) => b.score - a.score || byDate(b, a) || String(a.rec.title_zh).localeCompare(String(b.rec.title_zh), 'zh-CN'));
+  } else if (mode === 'date_asc') {
+    RESULTS.sort((a, b) => byDate(a, b));
+  } else {
+    RESULTS.sort((a, b) => byDate(b, a));
+  }
 }
 
 function setStatus(html) {
@@ -136,45 +289,56 @@ function setStatus(html) {
   if (el) el.innerHTML = html;
 }
 
-async function runSearch() {
+function runSearch() {
   const seq = ++searchSeq;
   setStatus('正在检索…');
   const root = $('#results');
   if (root) root.innerHTML = '<div class="loading"><span class="spinner"></span>正在检索…</div>';
 
   try {
-    const pf = await getPagefind();
     const q = state.q.trim();
-    const filters = buildFilters();
-    const options = {};
-    if (Object.keys(filters).length) options.filters = filters;
-
-    const effectiveSort = !q && state.sort === 'relevance' ? 'date_desc' : state.sort;
-    if (effectiveSort === 'date_desc') options.sort = { published: 'desc' };
-    else if (effectiveSort === 'date_asc') options.sort = { published: 'asc' };
-
+    const groups = buildGroups(q);
+    const hasQuery = groups.length > 0;
+    const synonymTerms = [...new Set(
+      groups.flatMap((group) => group.variants.filter((term) => term !== group.original)),
+    )].slice(0, 3);
     const t0 = performance.now();
-    const search = await pf.search(q || null, options);
-    if (seq !== searchSeq) return;
-    RESULTS = search.results || [];
-    LAST = { total: RESULTS.length, took: Math.round(performance.now() - t0), q };
+
+    let list = CORPUS.filter(passesFilters);
+    if (hasQuery) {
+      list = list.filter((rec) => groups.every((group) => group.variants.some((term) => includesTerm(rec._all, term))));
+    }
+
+    RESULTS = list.map((rec) => ({ rec, score: hasQuery ? scoreRecord(rec, groups) : 0 }));
+    const mode = state.sort === 'relevance' && hasQuery ? 'relevance' : state.sort === 'date_asc' ? 'date_asc' : 'date_desc';
+    sortResults(mode);
+
+    LAST = {
+      total: RESULTS.length,
+      took: Math.round(performance.now() - t0),
+      q,
+      groups,
+      highlight: [...new Set(groups.flatMap((group) => group.variants))],
+      hasSynonym: synonymTerms.length > 0,
+      synonymLabel: synonymTerms.join(' / '),
+    };
     state.page = Math.min(state.page, Math.max(1, Math.ceil(RESULTS.length / PAGE_SIZE)));
-    await renderPage(seq);
+    if (seq !== searchSeq) return;
+    renderPage(seq);
   } catch (err) {
     if (seq !== searchSeq) return;
     setStatus(`<b>检索失败</b>：${esc(err.message)}`);
-    const root = $('#results');
     if (root) {
-      root.innerHTML = `<div class="empty"><h3>检索索引不可用</h3>
+      root.innerHTML = `<div class="empty"><h3>检索数据不可用</h3>
         <p>${esc(err.message)}</p>
-        <p style="margin-top:8px">本地预览请先运行 <code>npm install &amp;&amp; npm run build</code>。</p></div>`;
+        <p style="margin-top:8px">本地预览请先运行 <code>npm run build</code>。</p></div>`;
     }
     const pager = $('#search-pager');
     if (pager) pager.innerHTML = '';
   }
 }
 
-async function renderPage(seq = searchSeq) {
+function renderPage(seq = searchSeq) {
   const pages = Math.max(1, Math.ceil(LAST.total / PAGE_SIZE));
   const page = Math.min(Math.max(1, state.page), pages);
   const slice = RESULTS.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
@@ -187,6 +351,7 @@ async function renderPage(seq = searchSeq) {
   else if (filtered) bits.push(`筛选出 <b>${LAST.total}</b> 篇`);
   else bits.push(`全部 <b>${LAST.total}</b> 篇`);
   bits.push(`用时 ${LAST.took > 0 ? LAST.took : '<1'} ms`);
+  if (LAST.hasSynonym) bits.push(`含术语等价：${esc(LAST.synonymLabel)}`);
   const active = [];
   if (state.cat) active.push(CATS.find((c) => c.key === state.cat)?.name);
   if (state.type) active.push(TYPE_NAMES[state.type]);
@@ -199,46 +364,58 @@ async function renderPage(seq = searchSeq) {
   if (!root) return;
 
   if (!slice.length) {
+    const hint = LAST.q
+      ? `没有文献的题名、作者、期刊、关键词或摘要完整包含“${esc(LAST.q)}”或对应英文术语。`
+      : '当前筛选条件下没有文献。';
     root.innerHTML = `<div class="empty"><h3>没有匹配的文献</h3>
-      <p>可尝试更短的关键词（如“结构色”“BaSO4”“织物”），或清除年份、期刊与关键词筛选。</p>
+      <p>${hint}</p>
+      <p>可尝试更短的词、减少限定词，或使用右侧的关键词筛选。</p>
       <p style="margin-top:12px"><button class="btn" type="button" id="clear-all">清除全部筛选</button></p></div>`;
     const pager = $('#search-pager');
     if (pager) pager.innerHTML = '';
     return;
   }
 
-  const terms = termsOf(LAST.q);
-  const items = await Promise.all(
-    slice.map((r) => r.data().then((d) => ({ ...d, _id: idFromUrl(d.url) })).catch(() => null)),
-  );
-  if (seq !== searchSeq) return;
-  const valid = items.filter(Boolean);
-  PAGE_IDS = valid.map((d) => d._id);
-
-  root.innerHTML = valid.map((d) => cardHtml(d, terms)).join('');
+  const terms = LAST.highlight || [];
+  PAGE_IDS = slice.map((x) => x.rec.id);
+  root.innerHTML = slice.map((x) => cardHtml(x.rec, terms)).join('');
   renderPager(page, pages);
 }
 
-function idFromUrl(url) {
-  const parts = String(url || '').split('/').filter(Boolean);
-  return decodeURIComponent(parts[parts.length - 1] || '');
+function excerptOf(rec, terms) {
+  let text = String(rec.abstract_zh || '').trim();
+  if (!text || text.startsWith('（网络收录')) text = String(rec.abstract_en || '').trim();
+  if (!text) text = `${rec.title_zh || ''} ${rec.title_en || ''}`.trim();
+
+  let pos = -1;
+  for (const term of terms) {
+    if (!term) continue;
+    let hit = -1;
+    if (CJK_RE.test(term)) hit = text.toLowerCase().indexOf(term.toLowerCase());
+    else {
+      const m = text.match(new RegExp(`\\b${escapeReg(term)}\\b`, 'i'));
+      hit = m ? m.index : -1;
+    }
+    if (hit >= 0 && (pos < 0 || hit < pos)) pos = hit;
+  }
+  if (pos < 0) pos = 0;
+  const start = Math.max(0, pos - 70);
+  const end = Math.min(text.length, start + 240);
+  const snippet = text.slice(start, end).replace(/\s+/g, ' ').trim();
+  return `${start > 0 ? '…' : ''}${hl(snippet, terms)}${end < text.length ? '…' : ''}`;
 }
 
-function cardHtml(d, terms) {
-  const m = d.meta || {};
-  const id = d._id;
-  const cat = (d.filters && d.filters.category && d.filters.category[0]) || '';
-  const catChip = cat === 'white' ? 'cat-white' : cat === 'colored' ? 'cat-colored' : 'cat-transparent';
-  const typeLabel = m.type_label || '';
-  const typeKey = typeLabel === '综述' ? 'review' : 'research';
-  const title = m.title || '';
-  const authors = m.authors_short || m.authors || '';
-  const journal = m.journal || '';
-  const year = m.year || '';
-  const published = m.published || year;
-  const doi = m.doi || '';
-  const keywords = (m.keywords || '').split('、').map((x) => x.trim()).filter(Boolean).slice(0, 4);
-  const excerpt = d.excerpt || '';
+function cardHtml(rec, terms) {
+  const id = rec.id;
+  const catChip = rec.category === 'white' ? 'cat-white' : rec.category === 'colored' ? 'cat-colored' : 'cat-transparent';
+  const typeKey = rec.type === '综述' ? 'review' : 'research';
+  const title = rec.title_zh || rec.title_en || '';
+  const authors = rec.authors_short || (rec.authors || []).join('；');
+  const journal = rec.journal || '';
+  const published = rec.published || rec.year || '';
+  const doi = rec.doi || '';
+  const keywords = (rec.keywords || []).slice(0, 4);
+  const excerpt = excerptOf(rec, terms);
   return `
   <article class="paper" data-id="${esc(id)}">
     <div class="paper-top">
@@ -247,10 +424,10 @@ function cardHtml(d, terms) {
         <a class="paper-title" href="/paper/${esc(id)}/">${hl(title, terms)}</a>
         ${authors ? `<div class="paper-authors">${esc(authors)}</div>` : ''}
         <div class="paper-meta">
-          <span class="chip ${catChip}">${esc(m.category_name || '')}</span>
-          <span class="chip">${esc(m.sub_name || '')}</span>
-          <span class="chip ${typeKey === 'review' ? 'type' : 'type-academic'}">${esc(typeLabel)}</span>
-          ${m.source && m.source !== '内置库' ? `<span class="chip source">${esc(m.source)}</span>` : ''}
+          <span class="chip ${catChip}">${esc(rec.category_name || '')}</span>
+          <span class="chip">${esc(rec.sub_name || '')}</span>
+          <span class="chip ${typeKey === 'review' ? 'type' : 'type-academic'}">${esc(rec.type || '')}</span>
+          ${rec.source && rec.source !== '内置库' ? `<span class="chip source">${esc(rec.source)}</span>` : ''}
           <span class="sep">·</span><span class="jrn">${hl(journal, terms)}</span>
           <span class="sep">·</span><span>${esc(published)}</span>
           ${doi ? `<span class="sep">·</span><span class="doi">${esc(doi)}</span>` : ''}
@@ -617,16 +794,16 @@ function bind() {
 
 async function boot() {
   readURL();
-  setStatus('正在加载检索索引…');
+  setStatus('正在加载检索数据…');
   try {
-    await loadMeta();
+    await loadData();
   } catch (err) {
-    setStatus(`<b>元数据加载失败</b>：${esc(err.message)}`);
+    setStatus(`<b>数据加载失败</b>：${esc(err.message)}`);
     return;
   }
   renderFilters();
   bind();
-  await runSearch();
+  runSearch();
 }
 
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot);

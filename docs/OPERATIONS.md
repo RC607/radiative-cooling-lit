@@ -21,7 +21,7 @@ rc-lit-portal/
 │  ├─ data/                                  literature/index/meta/citations/manifest
 │  └─ download/                              全库 BibTeX / RIS / GB/T
 ├─ scripts/
-│  ├─ build.mjs                              静态页 + Pagefind
+│  ├─ build.mjs                              静态页与检索数据
 │  ├─ build-data.mjs                         导出 JSON、题录、manifest
 │  ├─ update-data.mjs                        OpenAlex 增量更新
 │  ├─ check.mjs                              构建产物自检
@@ -99,29 +99,27 @@ git push
 | `update-data` 退出码 1 | 所有 OpenAlex 请求失败。查看日志中的 HTTP 状态；稍后手动重跑。失败时不会改动数据 |
 | `git push` 被拒绝 | 分支保护未允许 Actions，或权限不是 `contents: write` |
 | `npm ci` 报 lockfile 不同步 | 本地 `npm install` 后提交新的 `package-lock.json` |
-| `npm run build` 失败 | 看日志中的 Pagefind/Node 错误；本地复现 `npm run build` |
-| `npm run check` 失败 | 按输出修复断链、缺失索引或安全项；失败时不会提交 |
+| `npm run build` 失败 | 看日志中的 Node/数据错误；本地复现 `npm run build` |
+| `npm run check` 失败 | 按输出修复断链、缺失检索数据或安全项；失败时不会提交 |
 | 定时任务没触发 | GitHub 的 schedule 可能延迟；用 workflow_dispatch 手动跑。确认在默认分支上 |
 
 ### Cloudflare 构建失败
 
 | 现象 | 处理 |
 | --- | --- |
-| 找不到 `pagefind` | 确认 `package-lock.json` 已提交；Pagefind 在 `dependencies` |
-| `npm ci` 失败 | 检查 lockfile；确认 Node 20 |
 | 构建超时 | 检查是否误提交 `dist/`、`node_modules/` 或大文件 |
-| 文件数超限 | 免费层 20,000 文件；当前约 1,180，若文献量级增长需拆分或清理 Pagefind |
+| 文件数超限 | 免费层 20,000 文件；当前约 670 |
 | 构建成功但页面旧 | 检查是否推送到生产分支；Pages 只部署生产分支到主域名 |
 | canonical 指向随机 `*.pages.dev` | 设置 `SITE_URL` 并重新部署 |
 
-### 搜索无结果
+### 搜索无结果 / 不精确
 
-1. 构建日志是否有 `Indexed N pages`；没有则 Pagefind 步骤失败；
-2. 直接访问 `https://<域名>/pagefind/pagefind.js` 是否为 JS；
-3. 浏览器控制台是否有 CSP 报错（需 `wasm-unsafe-eval`、`worker-src blob:`）；
-4. 强刷页面（Pagefind 会缓存索引，部署后旧缓存可能短暂存在）；
-5. 中文是分词匹配：`结构色` 全文命中较多，但 **关键词筛选** 是精确的；
-6. 若某篇新文献搜不到，确认它已进入 `dist/paper/<id>/` 且构建索引页数增加。
+1. 直接访问 `https://<域名>/data/literature.json`，确认返回 JSON 且包含文献；
+2. 浏览器控制台是否有 `search.js` 或数据加载错误；
+3. 强刷页面（`assets` 缓存 7 天；本站已用 `?v=3.1` 版本参数破缓存，若仍旧可 Ctrl+F5）；
+4. 确认搜索词是**完整子串**：`水泥` 只匹配包含“水泥”的记录，不再拆分“水/泥”；
+5. 多词为 AND：`水泥 涂料` 需要两个词都出现；去掉一个词可扩大结果；
+6. 若某篇新文献搜不到，确认它已进入 `/data/literature.json` 且 `dist/paper/<id>/` 存在。
 
 ### 数据未更新
 
@@ -142,5 +140,5 @@ git push
 - 每月看一次 Actions 运行结果与 `data/sync-state.json`；
 - 新增文献的分类是否正确：抽查 `data/imported.json` 末尾或页面详情；
 - 分类纠错：编辑 `data/classification-review.csv` → `npm run apply-classification` → `npm run build`；
-- 更新依赖：`npm update pagefind` 后本地构建验证，再提交；
+- 更新依赖：`npm update` 后本地构建验证，再提交；
 - 备份：`data/` 在 Git 历史中即可回溯；重要节点打 tag。

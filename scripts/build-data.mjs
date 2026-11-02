@@ -117,7 +117,7 @@ export function buildData({ quiet = false } = {}) {
     sharded,
     shards,
     load_strategy: {
-      search: 'Pagefind 分片索引（/pagefind/），按查询增量加载',
+      search: '客户端精确子串匹配（/data/literature.json），中文不拆字',
       favorites: '/data/index.json（轻量索引，无摘要）',
       export: '/data/citations.json（点击题录或导出时按需加载）',
       full: '/data/literature.json（全量，供外部消费）',

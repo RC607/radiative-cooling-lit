@@ -1,12 +1,11 @@
 /* 静态站点构建：生成全部 HTML 页面 + 数据 + 资源，输出到 dist/。
  *
- * 用法：node scripts/build.mjs [--no-pagefind]
- * 构建结束后自动生成 Pagefind 全文索引（dist/pagefind/）。
+ * 用法：node scripts/build.mjs
+ * 检索使用构建期导出的 /data/literature.json，由浏览器本地精确匹配。
  */
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { execFileSync } from 'node:child_process';
 import { buildData } from './build-data.mjs';
 import { loadCorpus } from './lib/corpus.mjs';
 import { BUILD_STAMP, BASE_URL, SITE } from './lib/html.mjs';
@@ -55,24 +54,6 @@ function buildSitemap(urls) {  const rows = urls
 ${rows}
 </urlset>
 `;
-}
-
-function buildSearchIndex() {
-  if (process.argv.includes('--no-pagefind')) {
-    console.log('[search] 已跳过 Pagefind 索引（--no-pagefind）');
-    return;
-  }
-  const cli = path.join(ROOT, 'node_modules', 'pagefind', 'lib', 'runner', 'bin.cjs');
-  if (!fs.existsSync(cli)) {
-    console.warn('[search] 未安装 pagefind，跳过索引；请先运行 npm install');
-    return;
-  }
-  console.log('[search] 生成 Pagefind 索引…');
-  execFileSync(
-    process.execPath,
-    [cli, '--site', DIST, '--glob', 'paper/**/index.html', '--output-subdir', 'pagefind'],
-    { stdio: 'inherit' },
-  );
 }
 
 function build() {
@@ -153,8 +134,7 @@ function build() {
     'utf8',
   );
 
-  /* 检索索引（只索引文献详情页） */
-  buildSearchIndex();
+  /* 检索数据已由 build-data 导出到 /data/literature.json，浏览器端精确匹配 */
 
   const htmlFiles = generated.filter((p) => p.endsWith('/')).length + generated.filter((p) => p.endsWith('.html')).length;
 

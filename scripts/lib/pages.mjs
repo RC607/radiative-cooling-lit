@@ -528,11 +528,11 @@ export function about(corpus) {
       <section class="doc-card">
         <h2>检索能力</h2>
         <ul>
-          <li><b>全字段检索</b>：题名（中英）、中文简介、英文摘要、关键词、作者、期刊统一建索引，题名与关键词权重更高。</li>
-          <li><b>中英文混合</b>：中文按分词索引、英文按词索引，化学式（如 <code>BaSO4</code>、<code>SiO2</code>）可直接检索。</li>
+          <li><b>全字段检索</b>：题名（中英）、中文简介、英文摘要、关键词、作者、期刊统一参与匹配，题名与关键词权重更高。</li>
+          <li><b>精确匹配</b>：中文按完整词语检索，<code>水泥</code> 不会拆成“水”“泥”，并自动匹配 <code>cement</code> 等等价术语；英文不区分大小写，化学式（如 <code>BaSO4</code>、<code>SiO2</code>）可直接检索。</li>
           <li><b>筛选</b>：按方向 / 细分主题、文献类型（研究型论文 / 综述）、年份区间、期刊与关键词组合筛选。</li>
-          <li><b>排序</b>：检索结果支持相关度、发表时间（新→旧 / 旧→新）与题名排序。</li>
-          <li><b>本地索引</b>：Pagefind 在构建时生成全文索引，检索完全在前端完成，不请求任何外部 API，也不需要后端服务。</li>
+          <li><b>排序</b>：检索结果支持相关度、发表时间（新→旧 / 旧→新）。</li>
+          <li><b>本地检索</b>：构建时导出文献数据，检索完全在浏览器本地完成，不请求任何外部 API，也不需要后端服务。</li>
         </ul>
       </section>
 
@@ -548,7 +548,7 @@ export function about(corpus) {
         <p>内置库题录元数据（题名、作者、期刊、年卷期页、DOI、英文摘要）通过 OpenAlex 开放元数据接口批量校核；
            中文题名、中文简介、关键词与分类归属由编者依据原文内容整理。网络文献来自公开学术数据库的元数据，
            系统仅保存题录与摘要，<b>不存储、不提供论文全文</b>，原文请通过 DOI 跳转至出版方页面获取。</p>
-        <p>数据更新流程：维护者在本地或 GitHub Actions 中运行更新脚本 → 合并新文献并校验 → 重新生成静态页面与检索索引 →
+        <p>数据更新流程：维护者在本地或 GitHub Actions 中运行更新脚本 → 合并新文献并校验 → 重新生成静态页面与检索数据 →
            部署到 Cloudflare Pages。站点每天构建一次，构建失败时保留上一版可用数据。</p>
       </section>
 
@@ -564,7 +564,7 @@ export function about(corpus) {
 
       <section class="doc-card">
         <h2>技术架构</h2>
-        <p>静态站点生成（Node.js，无运行时框架）+ Pagefind 构建的本地全文索引（纯前端检索，不请求外部 API）
+        <p>静态站点生成（Node.js，无运行时框架）+ 浏览器端精确匹配（纯前端检索，不请求外部 API）
            + Cloudflare Pages 托管；无数据库、无服务端 API、无第三方统计脚本、无 Cookie。全站页面可直接缓存与 CDN 分发，日访问 5000 次以内毫无压力。</p>
       </section>
 
@@ -713,14 +713,14 @@ export function searchPage(corpus) {
     ${breadcrumbs([{ label: '首页', href: '/' }, { label: '文献检索' }])}
     <div class="page-head">
       <h1>文献检索</h1>
-      <div class="desc">按题名、作者、期刊、关键词检索全库 ${stats.total} 篇文献；可叠加方向（白色 / 彩色 / 透明）、文献类型（研究型论文 / 综述）、年份、期刊与关键词筛选。
-        检索在浏览器本地完成，不请求第三方接口。</div>
+      <div class="desc">按题名、作者、期刊、关键词与摘要精确匹配全库 ${stats.total} 篇文献；中文按完整词语检索，不会把“水泥”拆成“水”“泥”，并自动匹配 cement 等等价术语。
+        可叠加方向（白色 / 彩色 / 透明）、文献类型（研究型论文 / 综述）、年份、期刊与关键词筛选；检索在浏览器本地完成，不请求第三方接口。</div>
     </div>
 
     <form class="search-main" id="search-form" action="/search/" method="get" role="search">
       <svg class="search-ico" viewBox="0 0 20 20" width="20" height="20" aria-hidden="true"><circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="2"/><path d="M13.5 13.5 18 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
       <input id="search-input" name="q" type="search" autocomplete="off" spellcheck="false"
-             placeholder="输入中英文关键词，如：结构色、BaSO4、radiative cooling paint" aria-label="检索词">
+             placeholder="输入完整词语，如：水泥、结构色、BaSO4、radiative cooling paint" aria-label="检索词">
       <button class="btn primary" type="submit">检索</button>
     </form>
 
