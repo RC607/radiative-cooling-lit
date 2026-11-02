@@ -4,7 +4,7 @@ export const SITE = {
   name: '辐射制冷文献检索系统',
   short: '辐射制冷文献库',
   tagline: '白色、彩色与透明辐射制冷',
-  version: '3.1',
+  version: '3.2',
   repo: 'rc-lit-portal',
 };
 

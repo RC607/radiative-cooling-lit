@@ -35,7 +35,7 @@ Cloudflare Pages 会对 HTML/CSS/JS/JSON/SVG 自动使用 Brotli（不支持时�
 
 缓存策略（`public/_headers`）：
 
-- `/assets/*`：7 天（URL 带 `?v=3.1` 版本参数，更新后自动破缓存）
+- `/assets/*`：7 天（URL 带 `?v=3.2` 版本参数，更新后自动破缓存）
 - `/data/*`、`/download/*`：1 小时
 - HTML：5 分钟
 
