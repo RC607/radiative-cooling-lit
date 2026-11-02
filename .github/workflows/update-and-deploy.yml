@@ -1,0 +1,68 @@
+name: Update data
+
+# 每天 UTC 18:00（北京时间 02:00）拉取 OpenAlex 新文献；也支持手动触发。
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+    inputs:
+      window_days:
+        description: '回溯天数'
+        required: false
+        default: '60'
+      max_new:
+        description: '单次最多新增篇数'
+        required: false
+        default: '80'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch new literature
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
+          UPDATE_WINDOW_DAYS: ${{ github.event.inputs.window_days || '60' }}
+          MAX_NEW: ${{ github.event.inputs.max_new || '80' }}
+        run: npm run update-data
+
+      - name: Build site
+        run: npm run build
+
+      - name: Check build
+        run: npm run check
+
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data public/data public/download
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update literature data ($(date -u +%Y-%m-%d))"
+          git push

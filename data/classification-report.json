@@ -1,0 +1,734 @@
+{
+ "generated_at": "2026-11-02T03:14:32.016Z",
+ "total": 484,
+ "counts": {
+  "research | white/inorganic": 81,
+  "review | white/inorganic": 13,
+  "review | white/hybrid": 3,
+  "research | white/adaptive": 18,
+  "research | transparent/film": 17,
+  "research | white/organic": 53,
+  "research | white/hybrid": 69,
+  "research | white/wearable": 61,
+  "research | white/special": 35,
+  "research | colored/structural": 33,
+  "review | colored/luminescent": 2,
+  "research | colored/absorption": 24,
+  "research | colored/luminescent": 18,
+  "research | colored/textile": 14,
+  "research | colored/colored-adaptive": 13,
+  "review | colored/structural": 4,
+  "review | white/organic": 2,
+  "review | white/wearable": 5,
+  "research | transparent/smart-window": 7,
+  "review | white/special": 10,
+  "review | white/adaptive": 1,
+  "review | colored/textile": 1
+ },
+ "confidence": {
+  "high": 201,
+  "medium": 207,
+  "low": 76
+ },
+ "low_confidence": [
+  {
+   "id": "RC-W-004",
+   "title": "Radiative Cooling: Principles, Progress, and Potentials",
+   "old": "white/photonic",
+   "next": "white/inorganic",
+   "reasons": [
+    "综述标识",
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-W-005",
+   "title": "Radiative cooling: A review of fundamentals, materials, applications, and prospects",
+   "old": "white/photonic",
+   "next": "white/hybrid",
+   "reasons": [
+    "综述标识",
+    "聚合物复合"
+   ]
+  },
+  {
+   "id": "RC-W-008",
+   "title": "Terrestrial radiative cooling: Using the cold universe as a renewable and sustainable energy source",
+   "old": "white/photonic",
+   "next": "white/inorganic",
+   "reasons": [
+    "综述标识",
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-W-013",
+   "title": "A radiative cooling structural material",
+   "old": "white/porous",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-W-014",
+   "title": "Daytime Radiative Cooling Using Near-Black Infrared Emitters",
+   "old": "white/porous",
+   "next": "white/hybrid",
+   "reasons": [
+    "无机填料 + 高分子"
+   ]
+  },
+  {
+   "id": "RC-W-016",
+   "title": "Full Daytime Sub-ambient Radiative Cooling in Commercial-like Paints with High Figure of Merit",
+   "old": "white/coating",
+   "next": "white/hybrid",
+   "reasons": [
+    "无机填料 + 高分子"
+   ]
+  },
+  {
+   "id": "RC-W-018",
+   "title": "Effective Radiative Cooling by Paint-Format Microsphere-Based Photonic Random Media",
+   "old": "white/coating",
+   "next": "white/hybrid",
+   "reasons": [
+    "无机填料 + 高分子"
+   ]
+  },
+  {
+   "id": "RC-W-022",
+   "title": "Sub-ambient non-evaporative fluid cooling with the sky",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-W-024",
+   "title": "Radiative cooling of solar cells",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-012",
+   "title": "Recent advances in spectrally selective structural designs for radiative cooling",
+   "old": "white/photonic",
+   "next": "white/organic",
+   "reasons": [
+    "综述标识",
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-016",
+   "title": "THE PHOTONIC THERMAL SHIELD ADVANCED PASSIVE RADIATIVE COOLING MATERIALS FOR ZERO-ENERGY THERMAL MANAGEMENT A Unified Framework for Nanophotonic Engineering, Thermodynamic Optimization, and Sustainable Urban Infrastructure",
+   "old": "white/coating",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-017",
+   "title": "Inverse design and performance study of ultra-wideband radiative cooling metasurfaces based on hierarchical micro-nano structures",
+   "old": "white/photonic",
+   "next": "white/hybrid",
+   "reasons": [
+    "聚合物复合"
+   ]
+  },
+  {
+   "id": "RC-N-020",
+   "title": "Photonics Empowered Passive Radiative Cooling",
+   "old": "white/photonic",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-022",
+   "title": "Cooling potential and applications prospects of passive radiative cooling in buildings: The current state-of-the-art",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "综述标识",
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-025",
+   "title": "Universal passive radiative cooling behavior of aerogels",
+   "old": "white/porous",
+   "next": "white/inorganic",
+   "reasons": [
+    "无机体系"
+   ]
+  },
+  {
+   "id": "RC-N-030",
+   "title": "Slippery Passive Radiative Cooling Supramolecular Siloxane Coatings",
+   "old": "white/porous",
+   "next": "white/hybrid",
+   "reasons": [
+    "聚合物复合"
+   ]
+  },
+  {
+   "id": "RC-N-035",
+   "title": "Lightweight, Passive Radiative Cooling to Enhance Concentrating Photovoltaics",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-045",
+   "title": "Passive Radiative Cooling Materials and Their Applications",
+   "old": "white/photonic",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-047",
+   "title": "Implementation of Passive Radiative Cooling Technology in Buildings: A Review",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "综述标识",
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-073",
+   "title": "Enhanced passive radiative cooling coating with Y2O3 for thermal management of building",
+   "old": "white/coating",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-082",
+   "title": "Exploring real-world applications of passive radiative cooling for sustainability",
+   "old": "white/application",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-097",
+   "title": "Advancing passive radiative cooling technology for green buildings: The potential and challenges of hydrogels",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-100",
+   "title": "Experimental and numerical investigation of the effects of passive radiative cooling-based cool roof on building energy consumption",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-115",
+   "title": "Enhancing Passive Radiative Cooling Films with Hollow Yttrium‐Oxide Spheres Insights from FDTD Simulation",
+   "old": "white/photonic",
+   "next": "white/hybrid",
+   "reasons": [
+    "聚合物复合"
+   ]
+  },
+  {
+   "id": "RC-N-121",
+   "title": "Passive radiative cooling of non-sky-facing surfaces: Downward-facing and double-sided radiative cooling",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-124",
+   "title": "Surface Pattern over a Thick Silica Film to Realize Passive Radiative Cooling",
+   "old": "white/photonic",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-126",
+   "title": "Utilization of Basic Oxygen Furnace Slag in Geopolymeric Coating for Passive Radiative Cooling Application",
+   "old": "white/coating",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-135",
+   "title": "Nanoporous Film Layers to Enhance the Performance of Passive Radiative Cooling Paint Mixtures",
+   "old": "white/coating",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-150",
+   "title": "Meteorological Remote Sensing Technologies for Passive Radiative Cooling Informatics: A Comprehensive Review",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "综述标识",
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-155",
+   "title": "Biologically Inspired Scalable-Manufactured Dual-layer Coating with a Hierarchical Micropattern for Highly Efficient Passive Radiative Cooling and Robust Superhydrophobicity",
+   "old": "white/coating",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-159",
+   "title": "A Scalable, Durable, Fire‐Safe All‐Day Passive Radiative Cooling Coating for Sustainable Buildings",
+   "old": "white/coating",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-167",
+   "title": "Low-energy-consumption temperature swing system for CO2 capture by combining passive radiative cooling and solar heating",
+   "old": "white/porous",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-169",
+   "title": "Passive radiative cooling to sub-ambient temperatures inside naturally ventilated buildings",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-171",
+   "title": "Computational analysis of passive radiative cooling for building thermal comfort in hot climates",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-175",
+   "title": "Passive radiative cooling for vertical building facades: From fundamental constraints to practical strategies",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-176",
+   "title": "Subambient daytime radiative cooling of vertical surfaces",
+   "old": "white/porous",
+   "next": "white/hybrid",
+   "reasons": [
+    "无机填料 + 高分子"
+   ]
+  },
+  {
+   "id": "RC-N-177",
+   "title": "Fundamentals, Materials, and Applications for Daytime Radiative Cooling",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-180",
+   "title": "Passive directional sub-ambient daytime radiative cooling",
+   "old": "white/photonic",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-190",
+   "title": "Bioinspired “Skin” with Cooperative Thermo-Optical Effect for Daytime Radiative Cooling",
+   "old": "white/coating",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-191",
+   "title": "Emerging Materials and Strategies for Passive Daytime Radiative Cooling",
+   "old": "white/photonic",
+   "next": "white/inorganic",
+   "reasons": [
+    "综述标识",
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-192",
+   "title": "Anti‐Environmental Aging Passive Daytime Radiative Cooling",
+   "old": "white/photonic",
+   "next": "white/inorganic",
+   "reasons": [
+    "综述标识",
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-194",
+   "title": "Sustainable and Inexpensive Polydimethylsiloxane Sponges for Daytime Radiative Cooling",
+   "old": "white/porous",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-196",
+   "title": "Performance limit of daytime radiative cooling in warm humid environment",
+   "old": "white/photonic",
+   "next": "white/hybrid",
+   "reasons": [
+    "无机填料 + 高分子"
+   ]
+  },
+  {
+   "id": "RC-N-198",
+   "title": "Single Nanoporous MgHPO4·1.2H2O for Daytime Radiative Cooling",
+   "old": "white/coating",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-199",
+   "title": "Robust Inorganic Daytime Radiative Cooling Coating Based on a Phosphate Geopolymer",
+   "old": "white/coating",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-200",
+   "title": "Recent Progress in Daytime Radiative Cooling: Advanced Material Designs and Applications",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "综述标识",
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-211",
+   "title": "Scalable Aqueous Processing‐Based Passive Daytime Radiative Cooling Coatings",
+   "old": "white/coating",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-217",
+   "title": "Recent Advances in Spectrally Selective Daytime Radiative Cooling Materials",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "综述标识",
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-222",
+   "title": "Superhydrophobic bilayer coating for passive daytime radiative cooling",
+   "old": "white/coating",
+   "next": "white/hybrid",
+   "reasons": [
+    "无机填料 + 高分子"
+   ]
+  },
+  {
+   "id": "RC-N-226",
+   "title": "Green-Manufactured and Recyclable Coatings for Subambient Daytime Radiative Cooling",
+   "old": "white/porous",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-227",
+   "title": "On daytime radiative cooling using spectrally selective metamaterial based building envelopes",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-232",
+   "title": "Passive daytime radiative cooling: Principle, application, and economic analysis",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-253",
+   "title": "Tandem daytime radiative cooling and solar power generation",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-255",
+   "title": "Progress on Natural and Sustainable Materials for Daytime Radiative Cooling",
+   "old": "white/porous",
+   "next": "white/inorganic",
+   "reasons": [
+    "综述标识",
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-256",
+   "title": "Integration of daytime radiative cooling and solar heating for year-round energy saving in buildings",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-321",
+   "title": "Durable radiative cooling against environmental aging",
+   "old": "colored/pigment",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-326",
+   "title": "Thermal photonics boosts radiative cooling",
+   "old": "colored/textile",
+   "next": "white/inorganic",
+   "reasons": [
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-349",
+   "title": "Life cycle assessment of passive radiative cooling materials",
+   "old": "colored/pigment",
+   "next": "white/hybrid",
+   "reasons": [
+    "无机填料 + 高分子"
+   ]
+  },
+  {
+   "id": "RC-N-360",
+   "title": "Improving Heat Dissipation and Temperature Uniformity in Radiative Cooling Coating",
+   "old": "white/coating",
+   "next": "white/hybrid",
+   "reasons": [
+    "聚合物复合"
+   ]
+  },
+  {
+   "id": "RC-N-366",
+   "title": "Durable and mechanically robust superhydrophobic radiative cooling coating",
+   "old": "white/porous",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-370",
+   "title": "An LCA-assisted hierarchical design of radiative cooling coating for full life-cycle CO2 reduction",
+   "old": "white/coating",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-375",
+   "title": "Radiative cooling coating for ballastless tracks: Climate-driven regional suitability and temperature regulation",
+   "old": "white/coating",
+   "next": "white/hybrid",
+   "reasons": [
+    "无机填料 + 高分子"
+   ]
+  },
+  {
+   "id": "RC-N-402",
+   "title": "Low-emissivity interior wall strategy for suppressing overcooling in radiatively cooled buildings in cold environments",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-403",
+   "title": "The synthetical effects of passive radiative cooling building envelopes and surrounding buildings on building daylighting and energy performance: A case study in Miami",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-404",
+   "title": "Enhanced ensemble learning-based uncertainty and sensitivity analysis of ventilation rate in a novel radiative cooling building",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-405",
+   "title": "A vertical fin-intensified radiative sky cool method for heat rejection: Insights from the comparative study of cooling technologies",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-407",
+   "title": "A photosynthetically active radiative cooling film",
+   "old": "white/photonic",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-408",
+   "title": "A High-Power, Flexible, and Magnetically Attachable Radiative Cooling Film",
+   "old": "white/coating",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-409",
+   "title": "Radiative cooling film with self-cleaning function",
+   "old": "white/coating",
+   "next": "white/hybrid",
+   "reasons": [
+    "无机填料 + 高分子"
+   ]
+  },
+  {
+   "id": "RC-N-411",
+   "title": "Thermal conductive radiative cooling film for local heat dissipation",
+   "old": "white/coating",
+   "next": "white/organic",
+   "reasons": [
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-414",
+   "title": "Recent advances in bio-inspired radiative cooling film designs for sustainable building applications",
+   "old": "white/coating",
+   "next": "white/inorganic",
+   "reasons": [
+    "综述标识",
+    "水泥/陶瓷/砖"
+   ]
+  },
+  {
+   "id": "RC-N-418",
+   "title": "Research Progress of Porous Radiative Cooling Films Based on Phase Separation Method",
+   "old": "white/application",
+   "next": "white/special",
+   "reasons": [
+    "综述标识",
+    "无组成信号，按旧分类同义映射"
+   ]
+  },
+  {
+   "id": "RC-N-420",
+   "title": "Progress of radiative cooling films and nanofluids in greenhouses for energy and water-saving",
+   "old": "white/coating",
+   "next": "white/organic",
+   "reasons": [
+    "综述标识",
+    "聚合物本体"
+   ]
+  },
+  {
+   "id": "RC-N-421",
+   "title": "Highly practical multifunctional radiative cooling films for multi-temperature applications",
+   "old": "white/porous",
+   "next": "white/hybrid",
+   "reasons": [
+    "无机填料 + 高分子"
+   ]
+  },
+  {
+   "id": "RC-N-429",
+   "title": "High-performance radiative cooling film with excellent thermostability and mechanical property realized by self-assembled nanoparticles",
+   "old": "colored/pigment",
+   "next": "white/inorganic",
+   "reasons": [
+    "无机体系"
+   ]
+  },
+  {
+   "id": "RC-N-434",
+   "title": "Butterfly‐Wing‐Inspired Pore Architecture Adaptation for Environment‐Guided Radiative Cooling Film",
+   "old": "white/porous",
+   "next": "white/hybrid",
+   "reasons": [
+    "聚合物复合"
+   ]
+  }
+ ]
+}

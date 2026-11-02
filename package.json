@@ -1,0 +1,21 @@
+{
+  "name": "rc-lit-portal",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "description": "辐射制冷文献检索系统 · 公开只读静态站",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "data": "node scripts/build-data.mjs",
+    "update-data": "node scripts/update-data.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "apply-classification": "node scripts/apply-classification-csv.mjs"
+  },
+  "dependencies": {
+    "pagefind": "^1.4.0"
+  }
+}
