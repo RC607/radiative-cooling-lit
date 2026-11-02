@@ -16655,5 +16655,34 @@
   "source": "自动同步",
   "imported_at": "2026-11-02 07:16",
   "url": "https://doi.org/10.1088/1402-4896/aeb0df"
+ },
+ {
+  "id": "RC-N-457",
+  "category": "white",
+  "sub": "special",
+  "title_zh": "Development of a scalable radiative cooling coating with sustained sub-ambient performance in outdoor environments",
+  "title_en": "Development of a scalable radiative cooling coating with sustained sub-ambient performance in outdoor environments",
+  "authors": [
+   "Krishnendu Maity",
+   "Sarang Shindalkar",
+   "Sudhansh Harkut",
+   "Samantha Wijewardane",
+   "D. Yogi Goswami"
+  ],
+  "journal": "Solar Energy",
+  "year": 2026,
+  "published": "2026-11-02",
+  "volume": "321",
+  "issue": "",
+  "pages": "115267",
+  "doi": "10.1016/j.solener.2026.115267",
+  "keywords": [],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-02 18:47",
+  "url": "https://doi.org/10.1016/j.solener.2026.115267"
  }
 ]
