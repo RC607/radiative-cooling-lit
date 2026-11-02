@@ -12,7 +12,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DIST = path.join(ROOT, 'dist');
-const BASE = (process.env.SITE_URL || process.env.CF_PAGES_URL || 'https://rc-lit-portal.pages.dev').replace(/\/+$/, '');
+const BASE = (process.env.SITE_URL || process.env.CF_PAGES_URL || 'https://radiative-cooling-lit.pages.dev').replace(/\/+$/, '');
 
 function walk(dir, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {

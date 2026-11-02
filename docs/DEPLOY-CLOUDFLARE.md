@@ -13,13 +13,13 @@
 1. 登录 <https://dash.cloudflare.com/>；
 2. 左侧 **Workers & Pages** → **Create application** → **Pages** → **Connect to Git**；
 3. 选择 **GitHub**，授权 Cloudflare 访问该仓库；
-4. 选中 `rc-lit-portal` 仓库 → **Begin setup**。
+4. 选中 `radiative-cooling-lit` 仓库 → **Begin setup**。
 
 ## 2. 项目与构建配置
 
 | 配置项 | 填写值 |
 | --- | --- |
-| Project name | `rc-lit-portal`（决定默认域名 `rc-lit-portal.pages.dev`） |
+| Project name | `radiative-cooling-lit`（默认域名 `radiative-cooling-lit.pages.dev`） |
 | Production branch | `main` |
 | Framework preset | **None** |
 | Root directory | `/`（仓库根目录） |
@@ -35,7 +35,7 @@
 | 变量 | 值 | 说明 |
 | --- | --- | --- |
 | `NODE_VERSION` | `20` | 与 `.nvmrc` 一致；Pagefind 需要 Node 18+ |
-| `SITE_URL` | `https://rc-lit-portal.pages.dev` | 用于 canonical、og:url、sitemap；绑定自定义域名后改成正式域名 |
+| `SITE_URL` | `https://radiative-cooling-lit.pages.dev` | 用于 canonical、og:url、sitemap；绑定自定义域名后改成正式域名 |
 
 注意事项：
 
@@ -45,7 +45,7 @@
 
 ## 4. 首次部署
 
-点击 **Save and Deploy**，等待构建完成，访问 `https://rc-lit-portal.pages.dev`。
+点击 **Save and Deploy**，等待构建完成，访问 `https://radiative-cooling-lit.pages.dev`。
 
 验证：
 

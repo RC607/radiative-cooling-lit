@@ -38,7 +38,7 @@ rc-lit-portal/
 
 ## 需要手动完成的 GitHub 步骤
 
-1. 在 GitHub 新建仓库（如 `rc-lit-portal`），不要初始化 README。
+1. 在 GitHub 新建仓库（如 `radiative-cooling-lit`），不要初始化 README。
 2. 本地提交并推送：
    ```bash
    cd rc-lit-portal
@@ -60,9 +60,9 @@ rc-lit-portal/
 详见 [`DEPLOY-CLOUDFLARE.md`](DEPLOY-CLOUDFLARE.md)，要点：
 
 1. Workers & Pages → Create → Pages → Connect to Git → 选仓库；
-2. 项目名 `rc-lit-portal`，生产分支 `main`；
+2. 项目名 `radiative-cooling-lit`，生产分支 `main`；
 3. Framework preset = None；构建命令 `npm run build`；输出目录 `dist`；根目录 `/`；
-4. 环境变量：`NODE_VERSION=20`、`SITE_URL=https://rc-lit-portal.pages.dev`；
+4. 环境变量：`NODE_VERSION=20`、`SITE_URL=https://radiative-cooling-lit.pages.dev`；
 5. Deploy，验证首页 / 检索 / 404；
 6. 绑定自定义域名后，把 `SITE_URL` 改为正式域名并重新部署。
 

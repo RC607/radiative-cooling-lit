@@ -9,7 +9,7 @@ export const SITE = {
 };
 
 export const BASE_URL = String(
-  process.env.SITE_URL || process.env.CF_PAGES_URL || 'https://rc-lit-portal.pages.dev',
+  process.env.SITE_URL || process.env.CF_PAGES_URL || 'https://radiative-cooling-lit.pages.dev',
 ).replace(/\/+$/, '');
 
 export const BUILD_DATE = new Date();
