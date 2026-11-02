@@ -1,0 +1,33 @@
+{
+ "last_run": "2026-11-02T07:16:38.203Z",
+ "last_success": "2026-11-02T07:16:38.203Z",
+ "last_new": 20,
+ "total_added": 20,
+ "last_error": "",
+ "scans": 1,
+ "last_ids": [
+  "RC-N-437",
+  "RC-N-438",
+  "RC-N-439",
+  "RC-N-440",
+  "RC-N-441",
+  "RC-N-442",
+  "RC-N-443",
+  "RC-N-444",
+  "RC-N-445",
+  "RC-N-446",
+  "RC-N-447",
+  "RC-N-448",
+  "RC-N-449",
+  "RC-N-450",
+  "RC-N-451",
+  "RC-N-452",
+  "RC-N-453",
+  "RC-N-454",
+  "RC-N-455",
+  "RC-N-456"
+ ],
+ "scanned": 835,
+ "window_days": 60,
+ "queries": 9
+}
