@@ -14,10 +14,10 @@ npm run update-data -- --dry-run
 
 | 指标 | 数值 |
 | --- | --- |
-| 文献 | 484 篇 |
-| HTML 页面 | 654 |
-| 产物文件 | 670 左右 |
-| 内部链接 | 62,524，0 断链 |
+| 文献 | 504 篇 |
+| HTML 页面 | 679 |
+| 产物文件 | 694 |
+| 内部链接 | 65,061，0 断链 |
 | 构建耗时 | 约 1–2 秒 |
 
 ## 压缩与缓存
@@ -86,11 +86,11 @@ Cloudflare Pages 会对 HTML/CSS/JS/JSON/SVG 自动使用 Brotli（不支持时�
 部署完成后逐项检查：
 
 1. `https://<域名>/` 首页正常，数据总量、三大方向、最新文献显示正确；
-2. `https://<域名>/search/` 空查询显示 484 篇；
+2. `https://<域名>/search/` 空查询显示 504 篇；
 3. `https://<域名>/search/?q=结构色` 有结果，作者行显示；
 4. `https://<域名>/search/?q=水泥` 只出现题名/摘要/关键词中完整包含“水泥”或英文等价词 cement / cementitious 的文献，不应只含“水”或“泥”；
 5. `https://<域名>/search/?q=BaSO4` 有结果；关键词筛选 `结构色` 为 7 篇；
-6. `https://<域名>/search/?cat=transparent` 为 24 篇；
+6. `https://<域名>/search/?cat=transparent` 为 25 篇；
 7. 任一详情页 `/paper/RC-W-001/` 题录、DOI、收藏、题录弹窗正常；
 8. 随机不存在路径返回 404 页面；
 9. 移动端（DevTools 360 px）无横向滚动；

@@ -306,7 +306,11 @@ function runSearch() {
 
     let list = CORPUS.filter(passesFilters);
     if (hasQuery) {
-      list = list.filter((rec) => groups.every((group) => group.variants.some((term) => includesTerm(rec._all, term))));
+      list = list.filter((rec) => groups.every((group) => group.variants.some((term) => {
+        if (term === group.original) return includesTerm(rec._all, term);
+        /* 等价词只匹配题名与关键词，避免摘要里偶然出现的水泥/混凝土被误收 */
+        return includesTerm(rec._title, term) || includesTerm(rec._keywords, term);
+      })));
     }
 
     RESULTS = list.map((rec) => ({ rec, score: hasQuery ? scoreRecord(rec, groups) : 0 }));
