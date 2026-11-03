@@ -16684,5 +16684,34 @@
   "source": "自动同步",
   "imported_at": "2026-11-02 18:47",
   "url": "https://doi.org/10.1016/j.solener.2026.115267"
+ },
+ {
+  "id": "RC-N-458",
+  "category": "white",
+  "sub": "adaptive",
+  "title_zh": "Hydration‐Induced Environmentally‐Adaptive Thermal Management with Microphase Separated Hydrogel",
+  "title_en": "Hydration‐Induced Environmentally‐Adaptive Thermal Management with Microphase Separated Hydrogel",
+  "authors": [
+   "Na Zhang",
+   "Richu Luo",
+   "Lei Zeng",
+   "Weilin Xu",
+   "Xiaofang Zhang"
+  ],
+  "journal": "Advanced Functional Materials",
+  "year": 2026,
+  "published": "2026-11-01",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.1002/adfm.79423",
+  "keywords": [],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "ABSTRACT The heat stress associated with extreme weather has paved the way for the rapid development of passive cooling techniques, but they are unable to tolerate fluctuating thermal and hydric environments, and their cooling power is more than halved under harsh conditions. Reliable multimodal thermal management techniques to couple with dynamic weather conditions are highly sought‐after. Herein, we develop a phase‐separated hydrogel via water‐induced microphase separation of waterborne polyurethane with the assistance of a hygroscopic layered network for hierarchical structure engineering. The obtained hydrogel undergoes hydration‐induced structural evolution from a compact solid monolith to a layered porous architecture, delivering a solar modulation capacity of ∼0.8 together with a high mid‐infrared emissivity of ∼0.95. Such optical features enable the hydrogel to achieve dynamic thermal regulation with a 9°C temperature span and sub‐ambient radiative cooling (∼6°C) under direct solar radiation. Additionally, via in situ incorporation of a light absorber or hygroscopic agent, the hydrogel is endowed with dual‐mode solar heating/cooling functionality and synergistic dehumidification‐cooling performance, respectively. Furthermore, the manufacturing process for the as‐proposed hydrogel is green, sustainable, and scalable, which permits industrial‐size hydrogels with combinations of stability, durability, sustainability, and processability. This work provides a promising candidate to meet the need for integrated thermoregulatory systems for environment‐specific adaptation.",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-03 18:40",
+  "url": "https://doi.org/10.1002/adfm.79423"
  }
 ]
