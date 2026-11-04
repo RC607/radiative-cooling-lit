@@ -1,6 +1,18 @@
+Wei X, Wang S, Gao J, 等. Bioinspired Homologous Gradient Interphase Sustains Phase‐Change Buffering and Radiative Cooling Under Thermal Shocks[J]. Advanced Functional Materials, 2026. DOI: 10.1002/adfm.79458.
+
+Zhao Y, Xie C, Cai H, 等. Co-Assembled MOF@SiO2 Nanostructures for Superhydrophobic and Electrically Insulating Radiative Cooling Coatings[J]. ACS Applied Materials & Interfaces, 2026. DOI: 10.1021/acsami.6c14781.
+
+Zhao F, Sheng S, Wang J, 等. Design of Bioinspired Ordered Materials for Spectral Modulation[J]. Accounts of Materials Research, 2026. DOI: 10.1021/accountsmr.6c00249.
+
+Zhang Z, Li J, Ma L, 等. Green Radiative Cooling and Antimicrobial Materials Based on Polylactic Acid Oligomer Hexagonal Microspheres[J]. Polymers, 2026, 18(21): 2735. DOI: 10.3390/polym18212735.
+
+Bhanawat A, Yalçın R A, McNeil P E, 等. Optically clear mesoporous silica aerogels for passive daytime radiative cooling[J]. Journal of Applied Physics, 2026, 140(17). DOI: 10.1063/5.0326963.
+
 Maity K, Shindalkar S, Harkut S, 等. Development of a scalable radiative cooling coating with sustained sub-ambient performance in outdoor environments[J]. Solar Energy, 2026, 321: 115267. DOI: 10.1016/j.solener.2026.115267.
 
 Zhang Z, Wang X, Wang W, 等. Climate adaptive optical design of radiative cooling textiles for enhanced outdoor thermal comfort[J]. International Journal of Thermal Sciences, 2026, 229: 111107. DOI: 10.1016/j.ijthermalsci.2026.111107.
+
+Zhao B, Zhu Y, Tian Q, 等. Elastic cellulose aerogel with compression-regulated thermal coupling for climate-adaptive radiative cooling and building energy saving[J]. Journal of Cleaner Production, 2026, 584: 149872. DOI: 10.1016/j.jclepro.2026.149872.
 
 Zhang N, Luo R, Zeng L, 等. Hydration‐Induced Environmentally‐Adaptive Thermal Management with Microphase Separated Hydrogel[J]. Advanced Functional Materials, 2026. DOI: 10.1002/adfm.79423.
 
