@@ -1,3 +1,5 @@
+Han X, Sun J, Tang J, 等. Bio‐Inspired Rigid‐Flexible Synergistic Nanofibrous Textiles for Mechanically Robust Radiative Cooling[J]. Advanced Functional Materials, 2026. DOI: 10.1002/adfm.78652.
+
 Wei X, Wang S, Gao J, 等. Bioinspired Homologous Gradient Interphase Sustains Phase‐Change Buffering and Radiative Cooling Under Thermal Shocks[J]. Advanced Functional Materials, 2026. DOI: 10.1002/adfm.79458.
 
 Zhao Y, Xie C, Cai H, 等. Co-Assembled MOF@SiO2 Nanostructures for Superhydrophobic and Electrically Insulating Radiative Cooling Coatings[J]. ACS Applied Materials & Interfaces, 2026. DOI: 10.1021/acsami.6c14781.
@@ -6,7 +8,11 @@ Zhao F, Sheng S, Wang J, 等. Design of Bioinspired Ordered Materials for Spectr
 
 Zhang Z, Li J, Ma L, 等. Green Radiative Cooling and Antimicrobial Materials Based on Polylactic Acid Oligomer Hexagonal Microspheres[J]. Polymers, 2026, 18(21): 2735. DOI: 10.3390/polym18212735.
 
+Park J, Kim K, Lee J, 等. Multiscale Freestanding Vertically Aligned CNT Heat Sink Enabling Multimodal Heat Dissipation by Conduction, Convection, and Radiation[J]. Advanced Science, 2026. DOI: 10.1002/advs.78540.
+
 Bhanawat A, Yalçın R A, McNeil P E, 等. Optically clear mesoporous silica aerogels for passive daytime radiative cooling[J]. Journal of Applied Physics, 2026, 140(17). DOI: 10.1063/5.0326963.
+
+Du Y, Zhou Z, Chao Y, 等. Performance evaluation of radiative cooling materials with different infrared emissivity ratio[J]. Solar Energy Materials and Solar Cells, 2026, 310: 114818. DOI: 10.1016/j.solmat.2026.114818.
 
 Maity K, Shindalkar S, Harkut S, 等. Development of a scalable radiative cooling coating with sustained sub-ambient performance in outdoor environments[J]. Solar Energy, 2026, 321: 115267. DOI: 10.1016/j.solener.2026.115267.
 
