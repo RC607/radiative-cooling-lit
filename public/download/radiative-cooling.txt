@@ -1,3 +1,7 @@
+Jiang J, Wang Y, Wang L, 等. A Bioinspired Photon‐Gated Phase‐Change Textile for Two‐Stage Heat‐Flux Regulation of Building Envelopes[J]. Advanced Functional Materials, 2026. DOI: 10.1002/adfm.79422.
+
+lu Y, Lu X, Weng X, 等. Responses of surface radiative balance to wildfires differ across ecosystems[J]. npj Climate and Atmospheric Science, 2026. DOI: 10.1038/s41612-026-01589-0.
+
 Han X, Sun J, Tang J, 等. Bio‐Inspired Rigid‐Flexible Synergistic Nanofibrous Textiles for Mechanically Robust Radiative Cooling[J]. Advanced Functional Materials, 2026. DOI: 10.1002/adfm.78652.
 
 Wei X, Wang S, Gao J, 等. Bioinspired Homologous Gradient Interphase Sustains Phase‐Change Buffering and Radiative Cooling Under Thermal Shocks[J]. Advanced Functional Materials, 2026. DOI: 10.1002/adfm.79458.
@@ -16,6 +20,8 @@ Du Y, Zhou Z, Chao Y, 等. Performance evaluation of radiative cooling materials
 
 Maity K, Shindalkar S, Harkut S, 等. Development of a scalable radiative cooling coating with sustained sub-ambient performance in outdoor environments[J]. Solar Energy, 2026, 321: 115267. DOI: 10.1016/j.solener.2026.115267.
 
+Xun K, Wang R, Zhang L. CaCO3/hydroxypropyl cellulose composite coating for radiative cooling[J]. Materials Letters, 2026, : 141947. DOI: 10.1016/j.matlet.2026.141947.
+
 Zhang Z, Wang X, Wang W, 等. Climate adaptive optical design of radiative cooling textiles for enhanced outdoor thermal comfort[J]. International Journal of Thermal Sciences, 2026, 229: 111107. DOI: 10.1016/j.ijthermalsci.2026.111107.
 
 Zhao B, Zhu Y, Tian Q, 等. Elastic cellulose aerogel with compression-regulated thermal coupling for climate-adaptive radiative cooling and building energy saving[J]. Journal of Cleaner Production, 2026, 584: 149872. DOI: 10.1016/j.jclepro.2026.149872.
@@ -23,6 +29,8 @@ Zhao B, Zhu Y, Tian Q, 等. Elastic cellulose aerogel with compression-regulated
 Zhang N, Luo R, Zeng L, 等. Hydration‐Induced Environmentally‐Adaptive Thermal Management with Microphase Separated Hydrogel[J]. Advanced Functional Materials, 2026. DOI: 10.1002/adfm.79423.
 
 Kim M, Kim M J, Eum Y, 等. Index-matched hollow silica colloidal crystals for structurally colored radiative cooling on white reflectors[J]. Nano Energy, 2026, 158: 112342. DOI: 10.1016/j.nanoen.2026.112342.
+
+Zhou J, Zhu Y, 姚丽川, 等. Insect-fat-body-inspired porous phase-change radiative cooling film for thermal buffering protection of outdoor electronic devices[J]. Chemical Engineering Journal, 2026, : 183902. DOI: 10.1016/j.cej.2026.183902.
 
 Fan Y, Zhu J, Li J, 等. Bioinspired composite fibrous membranes with phase-change radiative cooling for all-weather personal thermal management[J]. Advanced Composites and Hybrid Materials, 2026. DOI: 10.1007/s42114-026-02163-1.
 

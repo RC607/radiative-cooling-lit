@@ -1,16 +1,17 @@
 {
- "last_run": "2026-11-05T18:44:53.612Z",
- "last_success": "2026-11-05T18:44:53.612Z",
- "last_new": 3,
- "total_added": 31,
- "last_error": "passive radiative cooling: OpenAlex HTTP 429：{\"error\":\"Rate limit exceeded\",\"message\":\"Anonymous search is temporarily rate-limited while the search cluster is under elevated load. Please retry in 33s, or use a free API key for uninterrupted acc；radiative cooling film: OpenAlex HTTP 429：{\"error\":\"Rate limit exceeded\",\"message\":\"Anonymous search is temporarily rate-limited while the search cluster is under elevated load. Please retry in 34s, or use a free API key for uninterrupted acc；radiative c",
- "scans": 5,
+ "last_run": "2026-11-06T18:44:04.056Z",
+ "last_success": "2026-11-06T18:44:04.056Z",
+ "last_new": 4,
+ "total_added": 35,
+ "last_error": "",
+ "scans": 6,
  "last_ids": [
-  "RC-N-465",
-  "RC-N-466",
-  "RC-N-467"
+  "RC-N-468",
+  "RC-N-469",
+  "RC-N-470",
+  "RC-N-471"
  ],
- "scanned": 437,
+ "scanned": 837,
  "window_days": 60,
  "queries": 9
 }
