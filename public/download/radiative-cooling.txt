@@ -198,11 +198,23 @@ Zheng H, Xue H, Xiao C, 等. Applications of passive radiative cooling technolog
 
 Wei W, Gu H, Zhao X, 等. Structurally Colored Photonic Janus Films for Switchable Radiative Cooling and Solar Heating[J]. Nanomaterials, 2026, 16(10): 603. DOI: 10.3390/nano16100603.
 
+Bao Z, Fu X, Lu L, 等. Biomimetic Janus Fabric with Ice Plant Bubble‐Like Cell Structure for Passive Daytime Radiative Cooling and Energy Conversion for Wearable Applications[J]. Advanced Materials, 2026, 38(34): e73337. DOI: 10.1002/adma.73337.
+
 Ghazi R, Samman F, Truscott T, 等. Robust and biocompatible radiative cooling textiles based on a synergistic TiO2 and SiO2 nanoparticle coating[J]. Materials Advances, 2026, 7(9): 4586-4595. DOI: 10.1039/d5ma01500f.
+
+Lam J A S, Matsumori K, Theis M, 等. Morphology‐Controlled Silica Nanoparticle Coatings for Transparent Radiative Cooling[J]. Advanced Materials Interfaces, 2026, 13(11). DOI: 10.1002/admi.202501095.
+
+Ji Q, Hu X, Quan B, 等. Dual-Mode Phase-Change Fabrics with Simultaneous Enhancement of Radiative Cooling and Heating for All-Weather Thermal Regulation[J]. Advanced Fiber Materials, 2026, 8(5): 1998-2010. DOI: 10.1007/s42765-026-00723-0.
+
+Gautam K, Tripathi S, Pandey C, 等. Transparent radiative cooling: Review of fundamentals, materials, applications and future pathways[J]. Energy and Buildings, 2026, 363: 117569. DOI: 10.1016/j.enbuild.2026.117569.
 
 He X, Wang S, Jiang C, 等. Temperature‐adaptive Radiative Cooling Coating[J]. Advanced Optical Materials, 2026, 14(18). DOI: 10.1002/adom.71251.
 
+Gong Y, Wang Z, Wang T, 等. Transparent Metamaterial Films with Multimodal Radiative Cooling for Outdoor Flexible Electronic Devices[J]. ACS Applied Materials & Interfaces, 2026, 18(18): 26915-26923. DOI: 10.1021/acsami.6c03475.
+
 Deng K, Cui Y, Tan F, 等. Controllable Synthesis of ZnAl Layered Double Oxide for Passive Radiative Cooling[J]. Langmuir, 2026, 42(17): 11953-11965. DOI: 10.1021/acs.langmuir.6c00412.
+
+Peng W, Sun Z, Liang Q, 等. Semi-transparent radiative cooling materials and applications: A critical review[J]. Renewable and Sustainable Energy Reviews, 2026, 236: 116977. DOI: 10.1016/j.rser.2026.116977.
 
 Ma C P, Tang Y F, Zhao S X, 等. Radiative cooling coatings and natural ventilation in urban street canyons: Synergies and trade-offs[J]. Building and Environment, 2026, 298: 114606. DOI: 10.1016/j.buildenv.2026.114606.
 
@@ -230,6 +242,8 @@ Jia L, Lu L. A vertical fin-intensified radiative sky cool method for heat rejec
 
 Cao N, Chi H, Chen Y, 等. An LCA-assisted hierarchical design of radiative cooling coating for full life-cycle CO2 reduction[J]. Nature Communications, 2026, 17(1). DOI: 10.1038/s41467-026-69560-4.
 
+Song P, Li L, Shen Y, 等. A transparent radiative cooling window with high NIR reflection for buildings energy-saving[J]. International Journal of Thermal Sciences, 2026, 224: 110742. DOI: 10.1016/j.ijthermalsci.2026.110742.
+
 Du P, Zhang K, Li X, 等. Coral-inspired passive radiative cooling textiles toward extreme environments[J]. Materials Today, 2026, 93: 103210. DOI: 10.1016/j.mattod.2026.103210.
 
 Zhang X, Gu Y, Xiang T, 等. Bridging the gap: A Janus structure textile with synergistic radiative cooling and heat conduction for high-efficiency thermal management[J]. Composites Part B: Engineering, 2026, 314: 113441. DOI: 10.1016/j.compositesb.2026.113441.
@@ -240,6 +254,8 @@ Li Z, Bashir A, Tang C Y, 等. Thermochromic Radiative Cooling Coatings with Rob
 
 Yang C, Cui B, Cui Y, 等. A high-performance passive radiative cooling film designed on rice straw inherent bio-silica[J]. Chemical Engineering Journal, 2026, 530: 173616. DOI: 10.1016/j.cej.2026.173616.
 
+Zhao M, Hui L, Xin J, 等. Bio-based silk fibroin-cellulose acetate Janus fabric for synergistic evaporative and radiative cooling in personal thermal management[J]. Chemical Engineering Journal, 2026, 530: 173451. DOI: 10.1016/j.cej.2026.173451.
+
 Simou Z, Hamdaoui S E, Sebbar E H, 等. Computational analysis of passive radiative cooling for building thermal comfort in hot climates[J]. Energy and Buildings, 2026, 354: 116945. DOI: 10.1016/j.enbuild.2026.116945.
 
 Ghadei R L, Gupta R, Maiti R. A Passive Daytime Colored Radiative Cooler with DBR-Engineered Color Selectivity[J]. SSRN Electronic Journal, 2026. DOI: 10.2139/ssrn.7317711.
@@ -248,11 +264,17 @@ Hu Z, Zhang F, Li M, 等. A Scalable Polymer Multilayer Film strategy for Colore
 
 Luo Y, Cheng X, Yang M, 等. One-step Synthesis of High-Performance Colored Daytime Passive Radiative Cooling Microporous Coating via a Photon-Conversion-AssistedStrategy[J]. SSRN Electronic Journal, 2026. DOI: 10.2139/ssrn.7643882.
 
+Lee M J, Wang X, Kim T H, 等. Towards decarbonization in transportation: scalable transparent radiative cooling for enhanced vehicle energy efficiency[J]. Energy & Environmental Science, 2026, 19(5): 1517-1529. DOI: 10.1039/d5ee06609c.
+
 Zhai Y, Li J, Su X, 等. Multifunctional Polyethylene Fiber Materials with Passive Radiative Cooling and Photocatalytic Antibacterial Properties[J]. Advanced Functional Materials, 2025, 36(33). DOI: 10.1002/adfm.202529127.
 
 Wong Y M, Bisignano I, Ishii S. Meteorological Remote Sensing Technologies for Passive Radiative Cooling Informatics: A Comprehensive Review[J]. International Journal of Thermophysics, 2025, 47(2). DOI: 10.1007/s10765-025-03699-y.
 
+Forte D, González-Cruz E, Pattelli L, 等. Sky cooling-driven radiant-capacitive hydronic system for all-day building cooling[J]. Applied Energy, 2025, 406: 127260. DOI: 10.1016/j.apenergy.2025.127260.
+
 Zhang Z, Song Z, Lu W, 等. Coral‐Inspired Multi‐Scale Porous Particle‐Nested Structure for Efficient Colored Radiative Cooling[J]. Small Methods, 2025, 10(3): e01374. DOI: 10.1002/smtd.202501374.
+
+Ji B, Wang Y, Liu Y, 等. Scalable and Healable Gradient Textiles for Multi-Scenario Radiative Cooling via Bicomponent Blow Spinning[J]. Nano-Micro Letters, 2025, 18(1): 86. DOI: 10.1007/s40820-025-01947-2.
 
 Sun Y, He J. Eco-Friendly Nanoarchitectonics for Durable, Self-Cleaning, and Efficient Subambient Radiative Cooling Coatings[J]. ACS Applied Materials & Interfaces, 2025, 17(44): 61325-61336. DOI: 10.1021/acsami.5c17341.
 
@@ -260,11 +282,17 @@ Sun B, Cao S, Dou S, 等. Cellulose based hierarchical structural colored wood c
 
 Yao X, Zhou M, Du M, 等. Self-adaptive broadband microporous ceramic for passive radiative cooling in buildings[J]. Chemical Engineering Journal, 2025, 525: 169790. DOI: 10.1016/j.cej.2025.169790.
 
+Zhu Q, Chen Y, Wang T, 等. Scalable, ultrathin, highly selective and emissive films by microsphere-polymer coupled metasurfaces for passive radiative cooling[J]. PhotoniX, 2025, 6(1). DOI: 10.1186/s43074-025-00198-z.
+
 Mei H, Xue G, Gou Q, 等. Recent advances in bio-inspired radiative cooling film designs for sustainable building applications[J]. Journal of Materials Chemistry A, 2025, 13(39): 33034-33056. DOI: 10.1039/d5ta04553c.
 
 Fan J, He Y, Tang B, 等. Thermally Induced Rapid, Scalable Fabrication of Structural-Colored Radiative Cooling Films with High Cooling Efficiency[J]. ACS Sustainable Chemistry & Engineering, 2025, 13(41): 17703-17713. DOI: 10.1021/acssuschemeng.5c08954.
 
 Wang B, Tao F, Liu L, 等. Porous Polyurethane-Based Radiative Cooling Film with Excellent Mechanical and Flame-Retardant Properties[J]. ACS Applied Polymer Materials, 2025, 7(20): 13609-13617. DOI: 10.1021/acsapm.5c02435.
+
+Chen J, Xue Y, Wang C, 等. Recent advances in polymer-based materials by structure and fabrication for efficient passive daytime radiative cooling[J]. Advanced Composites and Hybrid Materials, 2025, 8(5). DOI: 10.1007/s42114-025-01448-1.
+
+Gao Q, Chang A J, Xue C, 等. Mechanically Durable Double-Sided Textile Composites Integrating Radiative Cooling and Dual-Function Heating for Year-Round Thermal Management[J]. ACS Applied Materials & Interfaces, 2025, 17(39): 55628-55639. DOI: 10.1021/acsami.5c15049.
 
 Patt A, Dolado J S. Modeling the dielectric spectra of silicon dioxide for passive radiative cooling applications[J]. Materialia, 2025, 44: 102536. DOI: 10.1016/j.mtla.2025.102536.
 
@@ -272,11 +300,19 @@ Ram F, Höglund M, Liao M, 等. Transparent Wood for Passive Radiative Cooling o
 
 Shao S, Jia S, Jiang X, 等. High Performance Transmission-Type Daytime Radiative Cooling Film with a Simple and Scalable Method[J]. Advanced Materials, 2025. DOI: 10.1002/adma.202511138.
 
+Baek J, Jeong M, Lee D, 等. A Multilayer‐Based Visibly Transparent Radiative Cooler with Enhanced Solar Selectivity[J]. Advanced Optical Materials, 2025, 13(30). DOI: 10.1002/adom.202501509.
+
+Zhang L, Xu B, Zhou M, 等. Excellent durability and multifunctional textiles with dual-mode evaporative and radiative cooling enabled by in-situ growth of SiO2 and electrostatic network coating[J]. Chemical Engineering Journal, 2025, 522: 168259. DOI: 10.1016/j.cej.2025.168259.
+
 Yu X, Chen C. Mechanisms of enhanced cooling performance of broken hollow microsphere-based radiative cooling coatings[J]. Journal of Building Engineering, 2025, 113: 114001. DOI: 10.1016/j.jobe.2025.114001.
 
 Wang T, Liu Y, Xuan Q, 等. Innovative Photon‐Engineered Fluorescent Tri‐Layer Polymeric Coatings for Sub‐Ambient Colored Radiative Cooling[J]. Advanced Science, 2025, 12(43): e11599. DOI: 10.1002/advs.202511599.
 
 Ma Z, Feng Y, Song Y, 等. A Scalable, Durable, Fire‐Safe All‐Day Passive Radiative Cooling Coating for Sustainable Buildings[J]. Advanced Functional Materials, 2025, 36(10). DOI: 10.1002/adfm.202517278.
+
+Zhu L, Lu D, Cai Y, 等. Radiative Cooling Electrostatic Spinning Fabric with Environmental Adaptability and Robustness[J]. ACS Applied Materials & Interfaces, 2025, 17(37): 52498-52509. DOI: 10.1021/acsami.5c12058.
+
+Jumrus N, Sreejun T, Panthawan A, 等. Multifunctional self-cleaning, transparency, durability and radiative cooling of H-SiO2@Lacquer coating for automotive applications[J]. Surfaces and Interfaces, 2025, 73: 107641. DOI: 10.1016/j.surfin.2025.107641.
 
 Long B, Liu C, Yang Z, 等. Flexible Radiative Cooling Textiles Based on Bark-Like SA-Al2O3 @TiO2 Fibers for Personal Thermal Management[J]. Journal of Applied Polymer Science, 2025, 142(48). DOI: 10.1002/app.57905.
 
@@ -288,7 +324,13 @@ Ding C, Gao P, Wang X, 等. Multimodal Super-Cooling Textiles for All-Scenario P
 
 Feng D, Witty A M, Birnbaum F I, 等. Self‐Stratifying Colored Radiative Cooling Paints Through Narrow‐Band Color Preservation Scheme[J]. Advanced Materials, 2025, 37(43): e04382. DOI: 10.1002/adma.202504382.
 
+Shao Z, Tian H, Wei W, 等. A Moisture-Wicking Hierarchical Metafabric Based on Waterborne Polyurethane for Passive Daytime Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2025, 17(34): 48804-48814. DOI: 10.1021/acsami.5c12039.
+
 He J, Chen Y, Guo R, 等. Bioinspired Colored Films with Humidity-Induced Dynamic Reflectivity and Emissivity for Self-Adaptive, Efficient Radiative Cooling[J]. ACS Nano, 2025, 19(33): 30361-30370. DOI: 10.1021/acsnano.5c09133.
+
+Hu X, Zhang Y, Cai W, 等. Emissivity Regulated Fabric: Achieving Self‐Adaptive Radiative Cooling and Dynamic Body Radiation Manipulation[J]. Small, 2025, 21(38): e04951. DOI: 10.1002/smll.202504951.
+
+Lei L, Wu T, Shi S, 等. Engineered Radiative Cooling Systems for Thermal-Regulating and Energy-Saving Applications[J]. Nano-Micro Letters, 2025, 18(1): 21. DOI: 10.1007/s40820-025-01859-1.
 
 Chen D C, Hwang C W, Chang C Y, 等. Superdurable, Flexible Ceramic Nanofibers for Sustainable Passive Radiative Cooling[J]. ACS Nano, 2025, 19(31): 28280-28294. DOI: 10.1021/acsnano.5c05958.
 
@@ -296,13 +338,27 @@ Fan C, Ren C, Xie H, 等. Tunable color display and efficient radiative cooling 
 
 Hu Y, Guo T, Qu X, 等. Enhanced passive radiative cooling of cementitious composites for efficient photovoltaic thermal management[J]. Energy Conversion and Management, 2025, 344: 120268. DOI: 10.1016/j.enconman.2025.120268.
 
+Zhang S, Zhang F, Su J, 等. Hierarchical porous P(VDF-HFP)/PDMS coating enabled flexible textiles with passive daytime radiative cooling, super-hydrophobicity and durability[J]. Colloids and Surfaces A Physicochemical and Engineering Aspects, 2025, 726: 137867. DOI: 10.1016/j.colsurfa.2025.137867.
+
 Shi Y, Meng X, Wu Y, 等. Colored daytime radiative cooling based on Fabry-Perot bi-resonances for potential energy-saving application[J]. Applied Materials Today, 2025, 46: 102862. DOI: 10.1016/j.apmt.2025.102862.
+
+Fu J, Yu J, Hu Z, 等. Micro-structured nano-PE/PDMS porous coating with radiative cooling and self-cleaning properties for various textiles[J]. Solar Energy Materials and Solar Cells, 2025, 293: 113836. DOI: 10.1016/j.solmat.2025.113836.
 
 Hassanien R H E, Zhao B, Hadibi T, 等. Progress of radiative cooling films and nanofluids in greenhouses for energy and water-saving[J]. Applied Thermal Engineering, 2025, 279: 127493. DOI: 10.1016/j.applthermaleng.2025.127493.
 
+Shin I C, Lee U, Park S, 等. Toward Net‐Zero Energy Cooling: Dynamic Radiative Coolers with Near‐Zero Energy Input[J]. Advanced Functional Materials, 2025, 36(1). DOI: 10.1002/adfm.202508007.
+
 Cho Y, Kim H H, Ahn S, 等. Colloidal Opaline Composites as Throughput‐Scalable, Fully Transparent, and Color‐Tunable Radiative Cooling Exterior Films for Outdoor Photovoltaics[J]. Advanced Functional Materials, 2025, 35(52). DOI: 10.1002/adfm.202510833.
 
+Chen M, Wang J, Li Q. Hybrid Directional Radiative Cooling and Solar Heating for Efficient Water Harvesting via Interior Natural Convection[J]. Advanced Functional Materials, 2025, 35(52). DOI: 10.1002/adfm.202507761.
+
 Yu X, Sun X, Wang A, 等. Thermally Conductive Radiative Cooling Films for Thermal Management of Flexible Devices[J]. ACS Applied Materials & Interfaces, 2025, 17(28): 41124-41133. DOI: 10.1021/acsami.5c08541.
+
+Gu M, Yu J, Hu C, 等. Hierarchical architecture electrospun film with potassium titanate/silica for mechanically robust, long-term outdoor radiative cooling[J]. Chemical Engineering Journal, 2025, 520: 165641. DOI: 10.1016/j.cej.2025.165641.
+
+Xu J, Xie W, Han H, 等. Radiative Cooling Materials for Extreme Environmental Applications[J]. Nano-Micro Letters, 2025, 17(1): 324. DOI: 10.1007/s40820-025-01835-9.
+
+Zhang F, Guo J, Su J, 等. Empowering architectural glass fiber textiles with radiative cooling and photocatalytic self-cleaning performance through hybridization and morphology modulation of TiO2 with diverse features[J]. Energy and Buildings, 2025, 345: 116110. DOI: 10.1016/j.enbuild.2025.116110.
 
 Werle J, Concas R, Pini E, 等. Open-hardware platform for synchronous performance testing of multiple passive radiative cooling materials[J]. Cell Reports Physical Science, 2025, 6(7): 102688. DOI: 10.1016/j.xcrp.2025.102688.
 
@@ -312,9 +368,23 @@ Uyanga K A, Fan W, Han J. Advancing passive radiative cooling technology for gre
 
 Wang T, Xuan Q, Dong Y, 等. Bilayer fluorescent colored radiative cooling coatings for building energy saving[J]. Energy, 2025, 332: 137292. DOI: 10.1016/j.energy.2025.137292.
 
+Poredoš P, He S, Shao Z, 等. Switchable multicyclic adsorption-based atmospheric water harvesting with solar and radiative sky cooling thermal concentration and heat pumps[J]. Energy, 2025, 332: 137255. DOI: 10.1016/j.energy.2025.137255.
+
+Tan J, Cheng N, Meng N, 等. Biomimetic Hierarchical Fabric with Thermochromic‐Superhydrophobic Dual‐Functionality for Adaptive Radiative Cooling and Self‐Cleaning[J]. Advanced Materials Technologies, 2025, 10(19). DOI: 10.1002/admt.202500540.
+
+Peng Z, Zeng F, Zeng Z, 等. Scalable Low‐Carbon Ambient‐Dried Foam‐Like Aerogels for Radiative Cooling with Extreme Environmental Resistance[J]. Advanced Materials, 2025, 37(35): e2505224. DOI: 10.1002/adma.202505224.
+
 Hyeon C, Jeong M, Kwon S, 等. Thermal protection of wearable devices under outdoor conditions using radiative cooling films[J]. Optical Materials, 2025, 167: 117258. DOI: 10.1016/j.optmat.2025.117258.
 
+Liang Y, Liu J, Zhang S, 等. Rethinking the Role of Thermal Conductance in Radiative Sky Cooling: Materials and Applications[J]. Advanced Energy Materials, 2025, 15(32). DOI: 10.1002/aenm.202500869.
+
+Park J, Lim H, Keawmuang H, 等. Flexible Self‐Cleaning Janus Emitter for Transparent Radiative Cooling in Enclosed Spaces[J]. Small, 2025, 21(32): e2501840. DOI: 10.1002/smll.202501840.
+
 Li L, Liu G, Zhang Q, 等. Fabrication and performance of scalable bilayer colored daytime radiative cooling coating[J]. Chinese Science Bulletin (Chinese Version), 2025, 71(2): 578-588. DOI: 10.1360/csb-2025-0272.
+
+Liang S, Lu Y, Zhang Q, 等. A Sandwich Fabric with Beaded Nanofibers Encapsulating Large-Sized SiO2 Photons for Green Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2025, 17(24): 35902-35911. DOI: 10.1021/acsami.5c04708.
+
+Zhang S, Zhou Z, Yang X, 等. A Dual-Mode Textile for Year-Round Passive Thermal Regulation Combining Radiative Cooling and Solar Heating[J]. ACS Applied Materials & Interfaces, 2025, 17(24): 35562-35571. DOI: 10.1021/acsami.5c06052.
 
 Xie A, Qiu H, Jiang W, 等. Recent Advances in Spectrally Selective Daytime Radiative Cooling Materials[J]. Nano-Micro Letters, 2025, 17(1): 264. DOI: 10.1007/s40820-025-01771-8.
 
@@ -322,21 +392,47 @@ Zhou W, Zhang Z, Sun S, 等. One‐Component Stereoscopic Oligosiloxane–Based 
 
 Fan W, Li H, Zhao J, 等. Superhydrophobic polydimethylsiloxane composite coating for efficient and stable passive radiative cooling[J]. Polymer, 2025, 332: 128561. DOI: 10.1016/j.polymer.2025.128561.
 
+Li X, Lin Y, Ji D, 等. A hierarchical nanofiber-sheath engineered daytime radiative cooling metayarn[J]. Nano Energy, 2025, 142: 111150. DOI: 10.1016/j.nanoen.2025.111150.
+
+Cheng Y, Chen Y, Hu X, 等. Ceramic Matrix Composites as Self‐Standing Monoliths and Coatings for Thermal Superinsulation and Passive Daytime Radiative Cooling[J]. Advanced Functional Materials, 2025, 35(45). DOI: 10.1002/adfm.202504931.
+
 Zhao Z, Tang C, Cui E, 等. Triple-Scale Structure-Induced Efficient Passive Radiative Cooling Combining Robust Anticondensation[J]. ACS Nano, 2025, 19(20): 19384-19393. DOI: 10.1021/acsnano.5c03434.
 
+Zhu B, Qin Y, Li M, 等. Thermal conductive radiative cooler enabled by Janus structure for above-ambient daytime cooling[J]. Nano Energy, 2025, 141: 111124. DOI: 10.1016/j.nanoen.2025.111124.
+
+Wang Y, Liu S, Zhang X, 等. Thermal-Rectified Gradient Porous Nanocomposite Film Enabling Multiscenario Adaptive Radiative Cooling[J]. ACS Nano, 2025, 19(20): 19328-19339. DOI: 10.1021/acsnano.5c02609.
+
+Zhang Q, Wang X, Hu X, 等. Green synthesis of fluorine-containing polyimide aerogels toward passive daytime radiative cooling for energy saving[J]. Composites Communications, 2025, 57: 102450. DOI: 10.1016/j.coco.2025.102450.
+
+Zhao Y, Wang Y, Zhu T, 等. Thermal Rectification in Gradient Microfiber Textiles Enabling Noncontact and Contact Dual‐Mode Radiative Cooling[J]. Small, 2025, 21(26): e2503420. DOI: 10.1002/smll.202503420.
+
 Patel D, Karua P, Zhou K, 等. Assessing Radiative Cooling Textiles for Extreme Thermal Conditions[J]. IEEE Journal of Selected Topics in Quantum Electronics, 2025, : 1-12. DOI: 10.1109/jstqe.2025.3567021.
+
+Ahmed N, Xiong X, Zhang L, 等. Designing the Future of Cooling: Superhydrophobic Passive Daytime Radiative Cooling Systems[J]. ACS Applied Materials & Interfaces, 2025, 17(19): 27629-27650. DOI: 10.1021/acsami.5c02937.
 
 Zhang L, Zhu Q, Zhou Y, 等. Dual-window emissive radiative cooling textiles with a PTFE/SiO2 bilayer coating for enhanced thermal management[J]. Chemical Engineering Journal, 2025, 513: 162980. DOI: 10.1016/j.cej.2025.162980.
 
 Wang T, Wang Z, Li Y, 等. Modulating the Refractive Index of a Three-Dimensional Alumina Network for Dynamic and Colorful Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2025, 17(16): 24359-24368. DOI: 10.1021/acsami.5c01837.
 
+Ni J, Jin C, Zhang W, 等. Two-step molding of polymer coating for efficient daytime radiative cooling[J]. Journal of Energy Chemistry, 2025, 107: 533-539. DOI: 10.1016/j.jechem.2025.03.060.
+
 Cheng Q, Xu W, Niu Z, 等. Fluorescent‐Enhanced Radiative Cooling of Colored Cellulose Pulp for Thermal Management and Aesthetic Applications[J]. Advanced Optical Materials, 2025, 13(11). DOI: 10.1002/adom.202402827.
+
+Thiyagarajan D, Li S, Lee B. Fibrous Sphere Architectures for Efficient Daytime Radiative Cooling and Moisture Management[J]. Nano Letters, 2025, 25(14): 5609-5615. DOI: 10.1021/acs.nanolett.4c06020.
+
+Liang J, Tan X, Dai Q, 等. A composite photonic structure with periodic array of SiO2 particles for solar cell radiative cooling[J]. Applied Physics A, 2025, 131(4). DOI: 10.1007/s00339-025-08391-4.
+
+Cheng L, Chen H, Cai Q, 等. Ultra‐Efficient Passive Daytime Radiative Cooling Enabled by Dual‐Selective Inorganic SiO 2 /Si 3 N 4 Photonic Emitter[J]. Laser & Photonics Review, 2025, 19(12). DOI: 10.1002/lpor.202500068.
 
 Yu H, Lu J Q, Yan J, 等. Selective Emission Fabric for Indoor and Outdoor Passive Radiative Cooling in Personal Thermal Management[J]. Nano-Micro Letters, 2025, 17(1): 192. DOI: 10.1007/s40820-025-01713-4.
 
 Dong J, Lin K, Zhao W, 等. Stretchable Thermoplastic Polyurethane/Boron Nitride Nanosheet Fabrics with Highly Anisotropic Thermal Conductivity for Multi-scenario Passive Radiative Cooling[J]. Advanced Fiber Materials, 2025, 7(3): 841-852. DOI: 10.1007/s42765-025-00526-9.
 
+Yu W, Gao L, Zhang Z F, 等. Durable and high-performance radiative cooling composite textiles with biomaterial coating[J]. Surfaces and Interfaces, 2025, 62: 106254. DOI: 10.1016/j.surfin.2025.106254.
+
 Adibekyan A, Schumacher J, Pattelli L, 等. Emissivity and Reflectivity Measurements for Passive Radiative Cooling Technologies[J]. International Journal of Thermophysics, 2025, 46(5). DOI: 10.1007/s10765-025-03532-6.
+
+Yang G, Liu W, Yao W, 等. Oxidatively modified polyphenylene sulfide and polytetrafluoroethylene composite membrane for durable daytime radiative cooling[J]. Chemical Engineering Journal, 2025, 510: 161629. DOI: 10.1016/j.cej.2025.161629.
 
 Cai C, Zhao X L, Miao C, 等. Bioinspired Durable Daytime Radiative Cooling Wood: Realizing Outdoor Longtime Use[J]. Nano Letters, 2025, 25(11): 4369-4378. DOI: 10.1021/acs.nanolett.4c06496.
 
@@ -344,19 +440,31 @@ Meng X, Zhang M, Zhao Q, 等. A sandwich-structured nanofibrous textile with moi
 
 Liu J, Ji B, Zhong Y P, 等. Photoluminescent Core–Shell Structural Porous Fibers-Based Metafabric for Colored Daytime Passive Radiative Cooling[J]. ACS Nano, 2025, 19(10): 10263-10276. DOI: 10.1021/acsnano.4c17745.
 
+Xu M, Li J, Ren J, 等. Superhydrophobic and recyclable passive daytime radiative cooling fabric prepared via electrospinning[J]. Chemical Engineering Journal, 2025, 509: 161274. DOI: 10.1016/j.cej.2025.161274.
+
 Wang T, Liu Y, Dong Y, 等. Colored Radiative Cooling: from Photonic Approaches to Fluorescent Colors and Beyond[J]. Advanced Materials, 2025, 37(15): e2414300. DOI: 10.1002/adma.202414300.
 
 Guo C, Li C, Qiao Z, 等. Crack‐Resistant and Self‐Healable Passive Radiative Cooling Silicone Compounds[J]. Advanced Materials, 2025, 37(14): e2500738. DOI: 10.1002/adma.202500738.
 
+Dang S, Almahfoudh H H, Alajlan A M, 等. Sky cooling for LED streetlights[J]. Light Science & Applications, 2025, 14(1): 100. DOI: 10.1038/s41377-024-01724-7.
+
 Yang X, Fan W, Xu R, 等. Highly practical multifunctional radiative cooling films for multi-temperature applications[J]. Polymer, 2025, 323: 128191. DOI: 10.1016/j.polymer.2025.128191.
 
 Song Y J, Ge B, Wang J. Scalable and simply-fabricated paint for waterproof and passive radiative cooling[J]. Composites Communications, 2025, 55: 102322. DOI: 10.1016/j.coco.2025.102322.
+
+Pan Q, Wang M, Huang Z, 等. Biomimetic Pyramid Structure Film for Enhancing Building Radiative Cooling[J]. Advanced Science, 2025, 12(14): e2413559. DOI: 10.1002/advs.202413559.
+
+Dan Y, Wang Q, Hu M, 等. A novel radiative cooling system with a dissimilar material-based compound parabolic concentrator for mitigating daytime solar radiation impact[J]. Renewable Energy, 2025, 244: 122622. DOI: 10.1016/j.renene.2025.122622.
+
+Guo W, Song L, Wang H, 等. Efficient radiative cooling and super-hydrophobic ZnO/P(VDF-HFP)-PDMS coated fabric[J]. Applied Thermal Engineering, 2025, 268: 125852. DOI: 10.1016/j.applthermaleng.2025.125852.
 
 Wang Y, Huang H, Wang Z, 等. Developing elastic foamed TPU fibers for dynamically daytime radiative cooling textile with buoyancy function[J]. NPG Asia Materials, 2025, 17(1). DOI: 10.1038/s41427-025-00586-8.
 
 Su X, Luo Y, Zhang L. The synthetical effects of passive radiative cooling building envelopes and surrounding buildings on building daylighting and energy performance: A case study in Miami[J]. Sustainable Cities and Society, 2025, 121: 106190. DOI: 10.1016/j.scs.2025.106190.
 
 Lin K, Fu Y, Li H, 等. Exploring real-world applications of passive radiative cooling for sustainability[J]. Cell Reports Physical Science, 2025, 6(2): 102445. DOI: 10.1016/j.xcrp.2025.102445.
+
+Yang H, Zhang Y, Xie W, 等. Tourmaline-enhanced P(VdF-HFP) composite textile coatings for high-performance passive daytime radiative cooling[J]. Progress in Organic Coatings, 2025, 200: 109091. DOI: 10.1016/j.porgcoat.2025.109091.
 
 Zhou Y, Lu C, Xiong R. Hierarchical Nanocellulose Photonic Design for Synergistic Colored Radiative Cooling[J]. ACS Nano, 2025, 19(4): 5029-5039. DOI: 10.1021/acsnano.5c00330.
 
@@ -366,13 +474,27 @@ Lin Z, Miao L, Song H, 等. Rod-like boron nitride based-coating for subambient 
 
 Mohsenpour M, Salimi M, Kermani A, 等. Enhanced ensemble learning-based uncertainty and sensitivity analysis of ventilation rate in a novel radiative cooling building[J]. Heliyon, 2025, 11(1): e41572. DOI: 10.1016/j.heliyon.2024.e41572.
 
+Zhao Z, Zhao S, Xu J, 等. Progress in passive daytime radiative cooling from spectral design to real application[J]. Carbon Future, 2025, 2(1): 9200033. DOI: 10.26599/cf.2025.9200033.
+
 Chen Z, Yu S, Ma J, 等. Wavelength-selective thermal nonreciprocity barely improves sky radiative cooling[J]. Fundamental Research, 2025, 6(2): 718-724. DOI: 10.1016/j.fmre.2024.12.019.
+
+Hasan K M F, Chen J, Chen S, 等. Advanced Bioinspired Personal Thermoregulation Textiles for Outdoor Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2025, 17(2): 3436-3447. DOI: 10.1021/acsami.4c18812.
+
+Zhang R, Li Y, Yao B, 等. An electrospinning flexible textile integrating radiative cooling and solar heating for dynamic thermoregulation[J]. Journal of Materials Chemistry A, 2025, 13(45): 38878-38886. DOI: 10.1039/d5ta06910f.
+
+Lu L T, Bao Z, Zhu H, 等. Application and research progress of transparent radiative cooling materials – a review[J]. Sustainable Energy & Fuels, 2025, 9(19): 5181-5198. DOI: 10.1039/d5se00977d.
 
 Faizan M, Baqir M A, Saqlain M, 等. Passive Radiative Cooling Employing Vanadium Dioxide-based Metasurface[J]. JSAP-OSA Joint Symposia, 2025, : 8p_N203_7. DOI: 10.1364/jsapo.2025.8p_n203_7.
 
 Wang Y, Zhang H, Xu Z, 等. Silk fibroin microsphere-enabled passive radiative cooling ability for cotton fabrics[J]. Surfaces and Interfaces, 2025, 57: 105766. DOI: 10.1016/j.surfin.2025.105766.
 
+Xiao Y, Zheng W, Guan J, 等. Surface-engineered PVDF-HFP/BNNS micro-nano fibers enable high-performance radiative cooling through synergistic photon scattering[J]. Nanoscale, 2025, 17(28): 16767-16774. DOI: 10.1039/d5nr01671a.
+
 Hu H, Feng J, Jiang C, 等. Transparent, Mechanically Robust, Structurally Colored Bionic Films for Passive Daytime Radiative Cooling[J]. SSRN Electronic Journal, 2025. DOI: 10.2139/ssrn.5132550.
+
+Ruina L, Zhao S, Wu X, 等. Radiative Cooling Meta-Fabric Integrated with Knitting Perspiration-Wicking and Coating Heat Conduction[J]. ACS Nano, 2024, 19(1): 826-836. DOI: 10.1021/acsnano.4c12196.
+
+Li L, Zhang Q, Liu G, 等. Advanced passive daytime radiative cooling: from material selection and structural design to application towards multifunctional integration[J]. Advanced Composites and Hybrid Materials, 2024, 8(1). DOI: 10.1007/s42114-024-01127-7.
 
 Jiang S, Li M, Hu Z, 等. A Low-Cost and Large-Scale Producible Polymer Multilayer Radiative Cooling Film for Reducing Plant Heat Stress[J]. ACS Photonics, 2024, 12(1): 528-536. DOI: 10.1021/acsphotonics.4c02043.
 
@@ -382,11 +504,15 @@ Sathyakam P U, Gupta D, Bhaumik R, 等. Vanadium pentoxide-coated smart windows 
 
 Xie H, Fan C. Tunable and adaptive colored radiative cooler based on the phase transition of VO2 photonic design[J]. Solar Energy Materials and Solar Cells, 2024, 282: 113382. DOI: 10.1016/j.solmat.2024.113382.
 
+Kang D C, Wang T Y, Lin D, 等. PDMS with porous PMMA dual-layer coating for passive daytime radiative cooling[J]. Solar Energy Materials and Solar Cells, 2024, 282: 113380. DOI: 10.1016/j.solmat.2024.113380.
+
 Khan H S, Julia O M L, Paolini R, 等. Coloured radiative cooling materials in the built environment parallel the cooling benefits of white conventional surfaces and balanced winter performance[J]. Solar Energy Materials and Solar Cells, 2024, 282: 113365. DOI: 10.1016/j.solmat.2024.113365.
 
 Ye Q, Chen X, Yan H, 等. Thermal conductive radiative cooling film for local heat dissipation[J]. Materials Today Physics, 2025, 50: 101626. DOI: 10.1016/j.mtphys.2024.101626.
 
 Li S, Zhang X, Yang Y, 等. An inorganic water-based paint for high-durability passive radiative cooling[J]. Journal of Materials Chemistry C, 2024, 13(8): 4137-4144. DOI: 10.1039/d4tc04108a.
+
+Dan Y, Hu M, Wang Q, 等. Enhancing radiative sky cooling performance by employing crossed compound parabolic concentrating configurations[J]. Renewable Energy, 2024, 239: 121979. DOI: 10.1016/j.renene.2024.121979.
 
 Hou X, Zhang K, Lai X, 等. Brilliant colorful daytime radiative cooling coating mimicking scarab beetle[J]. Matter, 2024, 8(1): 101898. DOI: 10.1016/j.matt.2024.10.016.
 
@@ -396,13 +522,29 @@ Xie F, Jin W, Nolen J R, 等. Subambient daytime radiative cooling of vertical s
 
 Wang B, Li L, Liu H, 等. Switchable daytime radiative cooling and nighttime radiative warming by VO2[J]. Solar Energy Materials and Solar Cells, 2024, 280: 113291. DOI: 10.1016/j.solmat.2024.113291.
 
+Wang H, Yang J, Hu Y, 等. A simulation study on the indoor thermal environment of an office building with transparent radiative cooling (T‐RC) film in Nanjing, China[J]. Energy and Built Environment, 2024, 7(2): 424-443. DOI: 10.1016/j.enbenv.2024.11.004.
+
+Li X, Qin W, Wang Y, 等. Recyclable Bead Chain Structure of Ta 2 O 5 /TPU Fiber Films for Energy Harvesting and Passive Daytime Radiative Cooling[J]. ACS Sustainable Chemistry & Engineering, 2024, 12(47): 17167-17176. DOI: 10.1021/acssuschemeng.4c05757.
+
+Ao S, Li B, Hu X, 等. Nanoengineered Wool Textiles with Wrinkled Patterns for Enhanced Directional Radiative Cooling and Sun-Shade Effects[J]. ACS Applied Engineering Materials, 2024, 2(11): 2689-2697. DOI: 10.1021/acsaenm.4c00589.
+
 Yang L, Wang G, Duan S, 等. Structurally Colored Photonic Crystal Biomimetic Microstructures for Daytime Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2024, 16(45): 62827-62837. DOI: 10.1021/acsami.4c10050.
 
 Yu J, Park C, Kim B, 等. Enhancing Passive Radiative Cooling Films with Hollow Yttrium‐Oxide Spheres Insights from FDTD Simulation[J]. Macromolecular Rapid Communications, 2024, 46(3): e2400770. DOI: 10.1002/marc.202400770.
 
+Ma R, Xue T, Yu G, 等. Multifunctional radiative cooling cellulose fabrics by in situ grown ZnO for personal thermal management[J]. Cellulose, 2024, 31(18): 11185-11198. DOI: 10.1007/s10570-024-06248-2.
+
+Wang H, Zhou C J, Wang Y, 等. Polyurethane-SiO2 tandem composite fibrous membrane for passive daytime radiative cooling[J]. Solar Energy Materials and Solar Cells, 2024, 279: 113244. DOI: 10.1016/j.solmat.2024.113244.
+
 Lio G E, Levorin S, Erdoğan A, 等. Nanoporous Film Layers to Enhance the Performance of Passive Radiative Cooling Paint Mixtures[J]. International Journal of Thermophysics, 2024, 45(11). DOI: 10.1007/s10765-024-03439-8.
 
+Zhang S, Liu Z, Wu Z, 等. Boosting self-powered wearable thermoelectric generator with solar absorber and radiative cooler[J]. Nano Energy, 2024, 132: 110381. DOI: 10.1016/j.nanoen.2024.110381.
+
+Xue T, Chen X, Wang C, 等. Dual-Mode cellulose acetate@Al2O3/MWCNTs Janus fabric with radiative cooling and solar heating for personal thermal management[J]. Chemical Engineering Journal, 2024, 500: 156713. DOI: 10.1016/j.cej.2024.156713.
+
 Song X, Gong H, Li H, 等. Molecularly and Structurally Designed Polyimide Nanofiber Radiative Cooling Films for Spacecraft Thermal Management[J]. Advanced Functional Materials, 2024, 35(2). DOI: 10.1002/adfm.202413191.
+
+Xin Y, Wang Q, Fu C, 等. Alumina Fiber Membrane Prepared by Electrospinning Technology for Passive Daytime Radiative Cooling[J]. Advanced Functional Materials, 2024, 35(3). DOI: 10.1002/adfm.202413813.
 
 Nian X, Lin K T, Li K, 等. A High-Power, Flexible, and Magnetically Attachable Radiative Cooling Film[J]. Engineering, 2025, 49: 122-133. DOI: 10.1016/j.eng.2024.08.026.
 
@@ -410,11 +552,33 @@ She C, Zhang Y, Chen J, 等. Colored radiative cooling enhanced by spectral-conv
 
 Peng Y, Dong J, Gu Y, 等. Smart temperature-adaptive thermal regulation textiles integrating passive radiative cooling and reversible heat storage[J]. Nano Energy, 2024, 131: 110311. DOI: 10.1016/j.nanoen.2024.110311.
 
+Cai W, Qi L, Cui T, 等. Chameleon‐Inspired, Dipole Moment‐Increasing, Fire‐Retardant Strategies Toward Promoting the Practical Application of Radiative Cooling Materials[J]. Advanced Functional Materials, 2024, 35(2). DOI: 10.1002/adfm.202412902.
+
+Xu X, Zhang H, Kang X J, 等. High-performance, superhydrophobic, durable photonic structure coating for efficient passive daytime radiative cooling[J]. Materials Today Physics, 2024, 48: 101556. DOI: 10.1016/j.mtphys.2024.101556.
+
 Li B B, Zhang G L, Xue Q K, 等. Rational Design and Fine Fabrication of Passive Daytime Radiative Cooling Textiles Integrate Antibacterial, UV-Shielding, and Self-Cleaning Characteristics[J]. ACS Applied Materials & Interfaces, 2024, 16(39): 52633-52644. DOI: 10.1021/acsami.4c10161.
 
 Yu T, Liu R, Yang Z, 等. Color Design for Daytime Radiative Cooling: Fundamentals and Approaches[J]. Applied Energy, 2024, 377: 124436. DOI: 10.1016/j.apenergy.2024.124436.
 
+Li L, Zhang Q, Liu G, 等. Durable hybrid metamaterial with hierarchically porous structure for efficient passive daytime radiative cooling[J]. Chemical Engineering Journal, 2024, 498: 155516. DOI: 10.1016/j.cej.2024.155516.
+
+Wang T Y, Huang C. Harnessing optimized SiO₂ particles for enhanced passive daytime radiative cooling in thin composite coatings[J]. Solar Energy Materials and Solar Cells, 2024, 278: 113146. DOI: 10.1016/j.solmat.2024.113146.
+
+Yang X, Wang S, Zhang D, 等. Theoretical investigation of two ideal radiative cooling materials and radiative sky water-cooling module with ideal selective radiative materials[J]. Energy and Buildings, 2024, 323: 114768. DOI: 10.1016/j.enbuild.2024.114768.
+
+Huang L, Hu Y, Yao X, 等. Designing Nanoporous Polymer Films for High-Performance Passive Daytime Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2024, 16(40): 54401-54411. DOI: 10.1021/acsami.4c09365.
+
 Lan P, Hwang C, Chen T, 等. Hierarchical Ceramic Nanofibrous Aerogels for Universal Passive Radiative Cooling[J]. Advanced Functional Materials, 2024, 34(52). DOI: 10.1002/adfm.202410285.
+
+Zhang S, Zhang F, Su J, 等. Cellulose acetate hierarchical porous coated textile with passive daytime radiative cooling, flexibility and durability[J]. Progress in Organic Coatings, 2024, 197: 108772. DOI: 10.1016/j.porgcoat.2024.108772.
+
+Fan H J, Wang K, Ding Y, 等. Core–Shell Composite Nanofibers with High Temperature Resistance, Hydrophobicity and Breathability for Efficient Daytime Passive Radiative Cooling[J]. Advanced Materials, 2024, 36(40): e2406987. DOI: 10.1002/adma.202406987.
+
+Huang K, Du Y, Wang W, 等. Stretchable and Self-Cleaning Daytime Radiative Coolers for Human Fabric and Building Applications[J]. ACS Applied Materials & Interfaces, 2024, 16(36): 48235-48245. DOI: 10.1021/acsami.4c08652.
+
+Zhou W, Ma X, Liu M, 等. Superhydrophobic Composite Coatings Can Achieve Durability and Efficient Radiative Cooling of Energy-Saving Buildings[J]. ACS Applied Materials & Interfaces, 2024, 16(35): 46703-46718. DOI: 10.1021/acsami.4c06827.
+
+Fu Y, Chen L, Guo Y, 等. Pyramid Textured Photonic Films with High‐Refractive Index Fillers for Efficient Radiative Cooling[J]. Advanced Science, 2024, 11(39): e2404900. DOI: 10.1002/advs.202404900.
 
 Zhang W, Jiao D, Zhao B, 等. Experimental and numerical investigation of the effects of passive radiative cooling-based cool roof on building energy consumption[J]. Applied Energy, 2024, 376: 124161. DOI: 10.1016/j.apenergy.2024.124161.
 
@@ -422,29 +586,83 @@ Yao X, Huang L, Chen Y, 等. Nanophotonic porous structures for passive daytime 
 
 Lam D V, Dung D T, Nguyen U N T, 等. Metal‐Organic Frameworks as a Thermal Emitter for High‐Performance Passive Radiative Cooling[J]. Small Methods, 2024, 9(3): e2401141. DOI: 10.1002/smtd.202401141.
 
+Qi L, Cai W, Cui T, 等. Bioinspired fireproof textiles with hierarchical micropore for radiative cooling and perspiration[J]. Chemical Engineering Journal, 2024, 497: 154834. DOI: 10.1016/j.cej.2024.154834.
+
 Wu Y, Zhu Y, Nan F, 等. Microstructured flexible polymer films with embedded phosphor for multifunctional passive radiative cooling[J]. Journal of Optics, 2024, 26(10): 105901. DOI: 10.1088/2040-8986/ad6e9d.
+
+Ko B, Noh J, Chae D, 等. Neutral‐Colored Transparent Radiative Cooler by Tailoring Solar Absorption with Punctured Bragg Reflectors[J]. Advanced Functional Materials, 2024, 34(52). DOI: 10.1002/adfm.202410613.
+
+Cheng Q, Gomez S, Hu G, 等. Realizing optimal radiative cooling walls in building-energy nexus via asymmetric emissivity[J]. Nexus, 2024, 1(3): 100028. DOI: 10.1016/j.ynexs.2024.100028.
 
 Cai W, Wang J, Wang W, 等. Colored Radiative Cooling and Flame‐Retardant Polyurethane‐Based Coatings: Selective Absorption/Reflection in Solar Waveband[J]. Small, 2024, 20(46): e2402349. DOI: 10.1002/smll.202402349.
 
+Lee G, Kang H, Yun J, 等. Integrated triboelectric nanogenerator and radiative cooler for all-weather transparent glass surfaces[J]. Nature Communications, 2024, 15(1): 6537. DOI: 10.1038/s41467-024-50872-2.
+
 Guo H, Ma B, Yu J, 等. Photonic Metafabric with Biomimetic Triangular Light Track for Passive Radiative Cooling[J]. Advanced Fiber Materials, 2024, 7(1): 106-116. DOI: 10.1007/s42765-024-00467-9.
+
+Tang H, Chen W, Lyu Y, 等. Experimental study of a novel Radiative cooling-Dual phase change material roof under hot summer and warm winter climate[J]. Journal of Building Engineering, 2024, 95: 110309. DOI: 10.1016/j.jobe.2024.110309.
 
 Allard C. A biomass-derived material for passive radiative cooling[J]. Nature Reviews Materials, 2024, 9(8): 534. DOI: 10.1038/s41578-024-00710-0.
 
+Zhang Q, Wang T, Du R, 等. Highly Stable Polyimide Composite Nanofiber Membranes with Spectrally Selective for Passive Daytime Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2024, 16(30): 40069-40076. DOI: 10.1021/acsami.4c09549.
+
+Hasan K M F, Bai S, Chen S, 等. Nanotechnology-empowered radiative cooling and warming textiles[J]. Cell Reports Physical Science, 2024, 5(9): 102108. DOI: 10.1016/j.xcrp.2024.102108.
+
+Nan H, Xiong P, Zhong G, 等. Ag/SiO2 and Ag/TiO2 Nanoscale-Thick Layers as Hyperbolic Metamaterials for Transparent Radiative Cooling Glass Design[J]. ACS Applied Nano Materials, 2024, 7(14): 17111-17119. DOI: 10.1021/acsanm.4c03662.
+
+Liu L, Wang J, Li Q. Passive daytime radiative cooling polymeric materials: Structure design, fabrication, and applications[J]. Applied Materials Today, 2024, 39: 102331. DOI: 10.1016/j.apmt.2024.102331.
+
+Meng X, Zhao Q, Chen Z, 等. A Janus film coupling radiative cooling and heating for all-day active/passive personal thermal management[J]. Materials Today Physics, 2024, 46: 101511. DOI: 10.1016/j.mtphys.2024.101511.
+
+Yu S, Yu J S, Chen Z, 等. Ultrahigh Visible-Transparency, Submicrometer, and Polymer-Free Radiative Cooling Meta-Glass Coating for Building Energy Saving[J]. ACS Photonics, 2024, 11(8): 3412-3423. DOI: 10.1021/acsphotonics.4c00981.
+
 Ma X, Fu Y, Yang N, 等. Fluorescence-enhanced light-blue bilayer radiative cooling coatings[J]. Journal of Materials Chemistry A, 2024, 12(32): 20921-20926. DOI: 10.1039/d4ta03045a.
+
+Ma J, Zeng F, Lin X, 等. A photoluminescent hydrogen-bonded biomass aerogel for sustainable radiative cooling[J]. Science, 2024, 385(6704): 68-74. DOI: 10.1126/science.adn5694.
 
 Mishra U, Ansari M A, Verma A, 等. Nanocellulose from Rice Straw: Structural Color, Radiative Cooling and Sensing Properties of Fluorophore-doped Photonic Films[J]. ChemRxiv, 2024. DOI: 10.26434/chemrxiv-2024-c6b8b.
 
+Wang T, Zhang S, Zhu Q, 等. A Trilayer Structure with Surface Binary Microsphere Array for Radiative Cooling and Heating Regulation[J]. ACS Photonics, 2024, 11(7): 2815-2823. DOI: 10.1021/acsphotonics.4c00833.
+
 Meng X Z, Tang W, Zhuo S, 等. Porous block copolymer films with self-adjustable optical transmittance and passive radiative cooling[J]. Nano Research, 2024, 17(9): 8472-8478. DOI: 10.1007/s12274-024-6778-z.
+
+Zhao X, Li J, Dong K, 等. Switchable and Tunable Radiative Cooling: Mechanisms, Applications, and Perspectives[J]. ACS Nano, 2024, 18(28): 18118-18128. DOI: 10.1021/acsnano.4c05929.
 
 Jia R, Gao B H, He M J, 等. Passive Radiative Cooling Materials and Their Applications[J]. Journal of Physics Conference Series, 2024, 2774(1): 012083. DOI: 10.1088/1742-6596/2774/1/012083.
 
+Zhou J, Li S, Niu Z. ZnO@ZIF-8@SiO2-Modified Microencapsulated Phase Change Material Coating on Cotton Fabric with Radiative Cooling and Thermoregulation Capabilities[J]. Fibers and Polymers, 2024, 25(7): 2647-2659. DOI: 10.1007/s12221-024-00617-1.
+
+Cannavale A, Pugliese M, Stasi R, 等. Effectiveness of Daytime Radiative Sky Cooling in Constructions[J]. Energies, 2024, 17(13): 3210. DOI: 10.3390/en17133210.
+
 Du P, Zhao X, Zhan X, 等. A High‐Performance Passive Radiative Cooling Metafabric with Janus Wettability and Thermal Conduction[J]. Small, 2024, 20(43): e2403751. DOI: 10.1002/smll.202403751.
+
+Cai C, Wu X, Cheng F, 等. Cellulose Metamaterials with Hetero‐Profiled Topology via Structure Rearrangement During Ball Milling for Daytime Radiative Cooling[J]. Advanced Functional Materials, 2024, 34(40). DOI: 10.1002/adfm.202405903.
 
 Lin Y, Qin C, Liang Z, 等. Biomimetic Structurally Colored Film for High‐Performance Radiative Cooling[J]. Advanced Optical Materials, 2024, 12(26). DOI: 10.1002/adom.202401020.
 
+Lee J, Im D, Sung S, 等. Scalable and efficient radiative cooling coatings using uniform-hollow silica spheres[J]. Applied Thermal Engineering, 2024, 254: 123810. DOI: 10.1016/j.applthermaleng.2024.123810.
+
+Liao S, Bai D, Jia Y, 等. Superhydrophobic stereocomplex-type polylactide/ultra-fine glass fibers aerogel for passive daytime radiative cooling[J]. International Journal of Biological Macromolecules, 2024, 274(Pt 2): 133470. DOI: 10.1016/j.ijbiomac.2024.133470.
+
+Xuan Q, Yang N, Kai M F, 等. Combined daytime radiative cooling and solar photovoltaic/thermal hybrid system for year-round energy saving in buildings[J]. Energy, 2024, 304: 132178. DOI: 10.1016/j.energy.2024.132178.
+
 Wen Z, Tang J, Zhai M, 等. Tough and Transparent Supramolecular Cross‐Linked Co‐Assembled Silk Fibroin Films for Passive Radiative Cooling[J]. Advanced Functional Materials, 2024, 34(42). DOI: 10.1002/adfm.202406920.
 
+Cheng N, Wang Z, Lin Y, 等. Breathable Dual‐Mode Leather‐Like Nanotextile for Efficient Daytime Radiative Cooling and Heating[J]. Advanced Materials, 2024, 36(33): e2403223. DOI: 10.1002/adma.202403223.
+
+Wang W, Yang H, Xiang C. The overall performance of a novel semi-transparent photovoltaic window with passive radiative cooling coating – A comparative study[J]. Energy and Buildings, 2024, 317: 114433. DOI: 10.1016/j.enbuild.2024.114433.
+
+Gong Q, Wong H C, Chen J, 等. Solar-driven adaptive radiative cooling coating with polymer carbon dots-enhanced photoluminescence for urban skin[J]. Chemical Engineering Journal, 2024, 494: 153262. DOI: 10.1016/j.cej.2024.153262.
+
+Mei X, Wang T, Zhang Y, 等. Scalable bilayer thin coatings with enhanced thermal dissipation for passive daytime radiative cooling[J]. Chemical Engineering Journal, 2024, 495: 153182. DOI: 10.1016/j.cej.2024.153182.
+
+Ju H, Long H, Yang S, 等. Durable Self-Cleaning Radiative Cooling Coatings for Building Energy Efficiency[J]. ACS Applied Materials & Interfaces, 2024, 16(25): 32679-32692. DOI: 10.1021/acsami.4c04644.
+
+Wu R, Sui C, Chen T, 等. Spectrally engineered textile for radiative cooling against urban heat islands[J]. Science, 2024, 384(6701): 1203-1212. DOI: 10.1126/science.adl0653.
+
 Dai Q, Tan X, Qi G, 等. Durable and robust broadband radiative cooling coatings for multi-temperature scenarios[J]. Solar Energy, 2024, 276: 112685. DOI: 10.1016/j.solener.2024.112685.
+
+Yang J, Han J, Duan L, 等. Investigation on a novel hybrid system based on radiative sky cooling and split thermoelectric cooler driven by photovoltaic cell[J]. Renewable Energy, 2024, 229: 120798. DOI: 10.1016/j.renene.2024.120798.
 
 Liu J, Wei Y, Zhong Y P, 等. Hierarchical Gradient Structural Porous Metamaterial with Selective Spectral Response for Daytime Passive Radiative Cooling[J]. Advanced Functional Materials, 2024, 34(45). DOI: 10.1002/adfm.202406393.
 
@@ -458,9 +676,13 @@ Santamouris M, Khan H S, Paolini R, 等. Recent Advances in Fluorescence-Based C
 
 Hong D, Lee Y J, Jeon O S, 等. Humidity-tolerant porous polymer coating for passive daytime radiative cooling[J]. Nature Communications, 2024, 15(1): 4457. DOI: 10.1038/s41467-024-48621-6.
 
+Lee K W, Yi J, Kim M K, 等. Transparent radiative cooling cover window for flexible and foldable electronic displays[J]. Nature Communications, 2024, 15(1): 4443. DOI: 10.1038/s41467-024-48840-x.
+
 Zhang Q, Sun J, Cao X, 等. Poly(vinyl alcohol) composite nanofiber membranes with hydrophobicity for daytime radiative cooling[J]. Composites Communications, 2024, 48: 101947. DOI: 10.1016/j.coco.2024.101947.
 
 Li J, Jiang Y, Liu J, 等. A photosynthetically active radiative cooling film[J]. Nature Sustainability, 2024, 7(6): 786-795. DOI: 10.1038/s41893-024-01350-6.
+
+Zhou P, Wang Y, Zhang X. Supramolecularly Connected Armor-like Nanostructure Enables Mechanically Robust Radiative Cooling Materials[J]. Nano Letters, 2024, 24(21): 6395-6402. DOI: 10.1021/acs.nanolett.4c01418.
 
 Jiang S, Zhang K, Wang C F, 等. Recent advancements in radiative cooling textiles for personal thermal management[J]. Journal of Materials Chemistry A, 2024, 12(25): 14866-14884. DOI: 10.1039/d4ta01734j.
 
@@ -470,9 +692,25 @@ Ao S, Li B, Hu X, 等. Molecular-Engineered Wool for Sustainable All-Weather Rad
 
 Ma C, Zhang Z, Yang Y, 等. A Smart Window with Passive Radiative Cooling and Switchable Near-Infrared Light Transmittance via Molecular Engineering[J]. ACS Applied Materials & Interfaces, 2024, 16(19): 25343-25352. DOI: 10.1021/acsami.4c02819.
 
+Zhao J, Li H, Choi D Y, 等. Micro-layered film and foam alternating structures: A novel passive daytime radiative cooling material[J]. Nano Energy, 2024, 127: 109695. DOI: 10.1016/j.nanoen.2024.109695.
+
+Nie S, Bai L, Lin G, 等. Experimental Study on Energy-Free Superhydrophobic Radiative Cooling Versatile Film with Enhanced Environmental Tolerance[J]. ACS Applied Materials & Interfaces, 2024, 16(19): 25498-25510. DOI: 10.1021/acsami.4c01209.
+
+Chen D, Zhao B, Wang L, 等. Controllable preparation of wollastonite-based composite coating for highly-efficient passive daytime radiative cooling in building[J]. Solar Energy, 2024, 274: 112586. DOI: 10.1016/j.solener.2024.112586.
+
+Zhang Y, Du X, Huangfu J, 等. Self-cleaning PTFE nanofiber membrane for long-term passive daytime radiative cooling[J]. Chemical Engineering Journal, 2024, 490: 151831. DOI: 10.1016/j.cej.2024.151831.
+
 Deng Y, Yang Y, Xiao Y, 等. Annual Energy‐Saving Smart Windows with Actively Controllable Passive Radiative Cooling and Multimode Heating Regulation[J]. Advanced Materials, 2024, 36(27): e2401869. DOI: 10.1002/adma.202401869.
 
+Zhang Y, Wang T, Mei X, 等. Bioinspired Design of a Binary Synergistic Photonic Structure for Daytime Radiative Cooling[J]. ACS Photonics, 2024, 11(5): 1960-1968. DOI: 10.1021/acsphotonics.4c00057.
+
+Zhong S, Song L, Ren W, 等. Radiative cooling cellulose-based fabric with hierarchical structure for outdoor personal thermal management[J]. Chemical Engineering Journal, 2024, 489: 151482. DOI: 10.1016/j.cej.2024.151482.
+
+Wang Y, Tan X, Yang X, 等. Hydroxypropyl cellulose thermochromic hydrogel with efficient passive radiative cooling and adjustable visible light transmittance[J]. Solar Energy Materials and Solar Cells, 2024, 271: 112871. DOI: 10.1016/j.solmat.2024.112871.
+
 He J, Zhang Q, Zhou Y, 等. Bioinspired Polymer Films with Surface Ordered Pyramid Arrays and 3D Hierarchical Pores for Enhanced Passive Radiative Cooling[J]. ACS Nano, 2024, 18(17): 11120-11129. DOI: 10.1021/acsnano.3c12244.
+
+Kang X J, Zhang H, He C, 等. Harnessing the synergy of ZrO2 and SiO2 dielectric micro-/nanoparticles in polymer-based photonic films for robust passive daytime radiative cooling[J]. Materials Today Energy, 2024, 43: 101579. DOI: 10.1016/j.mtener.2024.101579.
 
 Feng K, Zhang L, Liu Y, 等. Iridescent transparent passive radiative cooling enabled by cellulose nanocrystal assemblies[J]. Chemical Engineering Journal, 2024, 488: 151176. DOI: 10.1016/j.cej.2024.151176.
 
@@ -484,7 +722,17 @@ Liang D, Ren J, Liu H, 等. High-performance radiative cooling film with excelle
 
 Alshammari A A, Salilih E M, Almatrafi E, 等. Polymeric coatings for passive radiative cooling of PV modules in hot and humid weather: Design, optimization, and performance evaluation[J]. Case Studies in Thermal Engineering, 2024, 57: 104341. DOI: 10.1016/j.csite.2024.104341.
 
+Aili A, Jiang T, Chen J, 等. Passive daytime radiative cooling: Moving beyond materials towards real-world applications[J]. Next Energy, 2024, 3: 100121. DOI: 10.1016/j.nxener.2024.100121.
+
+Li B, Valenzuela C, Liu Y, 等. Free‐Standing Bacterial Cellulose‐Templated Radiative Cooling Liquid Crystal Films with Self‐Adaptive Solar Transmittance Modulation[J]. Advanced Functional Materials, 2024, 34(37). DOI: 10.1002/adfm.202402124.
+
+Cai W, Lin B, Qi L, 等. Bio-based and fireproof radiative cooling aerogel film: Achieving higher sustainability and safety[J]. Chemical Engineering Journal, 2024, 488: 150784. DOI: 10.1016/j.cej.2024.150784.
+
+Ma C, Xue C, Fan W, 等. Synchronous Radiative Cooling and Thermal Insulation in SiO2/Poly(vinyl alcohol) Composite Aerogel for Energy Savings in Building Thermal Management[J]. ACS Sustainable Chemistry & Engineering, 2024, 12(14): 5695-5704. DOI: 10.1021/acssuschemeng.4c00773.
+
 Zhang Q, Qi C, Wang X, 等. Daytime radiative cooling dressings for accelerating wound healing under sunlight[J]. Nature Chemical Engineering, 2024, 1(4): 301-310. DOI: 10.1038/s44286-024-00050-4.
+
+Zhou X, Xu Y, Zhang D, 等. Robust and wear-durable coating based on halloysite nanotubes/polymer composite for passive daytime radiative cooling[J]. Composites Science and Technology, 2024, 251: 110566. DOI: 10.1016/j.compscitech.2024.110566.
 
 Zhao S, Da B, Peng F, 等. Facilely fabricated polyethylene film composed of directional microfibrils for passive radiative cooling[J]. Polymer, 2024, 299: 126979. DOI: 10.1016/j.polymer.2024.126979.
 
@@ -492,25 +740,71 @@ Zheng Y, Fu Z, Sun X, 等. Al2O3/graphene/PVDF-HFP radiative cooling coating rei
 
 Wong Y M, Chao C Y, Ishii S. Passive Radiative Cooling Applications for Thermal and Electrical Energy Harvesting[J]. CRC Press eBooks, 2024, : 140-168. DOI: 10.1201/9781003409090-8.
 
+Liu R, Wang S, Zhou Z, 等. Materials in Radiative Cooling Technologies[J]. Advanced Materials, 2024, 37(2): e2401577. DOI: 10.1002/adma.202401577.
+
+Chen J, Lin K, Pan A, 等. Innovating building energy regulations enabled by radiative sky cooling: Enhanced code of practice for overall thermal transfer value (OTTV) of super-cool roofs[J]. Energy Conversion and Management, 2024, 306: 118309. DOI: 10.1016/j.enconman.2024.118309.
+
 Peng F, Ren K, Zheng G, 等. Continuous Sandwiched Film Containing Oriented ZnO@HDPE Microfiber for Passive Radiative Cooling[J]. Advanced Functional Materials, 2024, 34(28). DOI: 10.1002/adfm.202400221.
+
+Xue S, Huang G, Chen Q, 等. Personal Thermal Management by Radiative Cooling and Heating[J]. Nano-Micro Letters, 2024, 16(1): 153. DOI: 10.1007/s40820-024-01360-1.
+
+Xu J, Liang F, Wang Z, 等. A durable, breathable, and weather-adaptive coating driven by particle self-assembly for radiative cooling and energy harvesting[J]. Nano Energy, 2024, 124: 109489. DOI: 10.1016/j.nanoen.2024.109489.
 
 Liang L, Bai S, Lin K, 等. Advancing Sustainable Development: Broad Applications of Passive Radiative Cooling[J]. Sustainability, 2024, 16(6): 2346. DOI: 10.3390/su16062346.
 
 Wang C, Chen H, Wang F. Passive daytime radiative cooling materials toward real-world applications[J]. Progress in Materials Science, 2024, 144: 101276. DOI: 10.1016/j.pmatsci.2024.101276.
 
+Qin M, Jia K, Ali U, 等. High‐Efficiency Thermal‐Shock Resistance Enabled by Radiative Cooling and Latent Heat Storage[J]. Advanced Materials, 2024, 36(25): e2314130. DOI: 10.1002/adma.202314130.
+
+Hu L, Wang C, Zhu H, 等. Adaptive Thermal Management Radiative Cooling Smart Window with Perfect Near‐Infrared Shielding[J]. Small, 2024, 20(30): e2306823. DOI: 10.1002/smll.202306823.
+
 Yan J, Han M, Zhu L, 等. Bionic hierarchical metalized thermally responsive dynamic daytime passive radiative cooling nanocomposites[J]. Composites Science and Technology, 2024, 250: 110518. DOI: 10.1016/j.compscitech.2024.110518.
+
+Du Y, Wang W, Mei J, 等. Silica-bridged inorganic-organic hybrid membrane for efficient daytime radiative cooling[J]. Chemical Engineering Journal, 2024, 485: 149976. DOI: 10.1016/j.cej.2024.149976.
 
 Huang J, Zhang X K, Yu X, 等. Scalable self-adaptive radiative cooling film through VO2-based switchable core–shell particles[J]. Renewable Energy, 2024, 224: 120208. DOI: 10.1016/j.renene.2024.120208.
 
 Khot K, Chowdhury P R, Ruan X. Machine learning-based design optimization of aperiodic multilayer coatings for enhanced solar reflection[J]. International Journal of Heat and Mass Transfer, 2024, 224: 125303. DOI: 10.1016/j.ijheatmasstransfer.2024.125303.
 
+Bai Y, Jia X, Shan Z, 等. Sustainable cellulose foams for all-weather high-performance radiative cooling and building insulation[J]. Carbohydrate Polymers, 2024, 333: 121951. DOI: 10.1016/j.carbpol.2024.121951.
+
+Zhang S, Liu Z, Zhang W, 等. Multi-bioinspired flexible thermal emitters for all-day radiative cooling and wearable self-powered thermoelectric generation[J]. Nano Energy, 2024, 123: 109393. DOI: 10.1016/j.nanoen.2024.109393.
+
+Li X, Pattelli L, Ding Z, 等. A Novel BST@TPU Membrane with Superior UV Durability for Highly Efficient Daytime Radiative Cooling[J]. Advanced Functional Materials, 2024, 34(23). DOI: 10.1002/adfm.202315315.
+
+Han D K, Wang C, Han C B, 等. Highly Optically Selective and Thermally Insulating Porous Calcium Silicate Composite SiO 2 Aerogel Coating for Daytime Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2024, 16(7): 9303-9312. DOI: 10.1021/acsami.3c18101.
+
+Han W B, Kang H, Heo S, 等. Stretchable and biodegradable composite films for disposable, antibacterial, radiative cooling system[J]. Chemical Engineering Journal, 2024, 483: 149388. DOI: 10.1016/j.cej.2024.149388.
+
 Bae S, Kim M, Kang G, 等. Efficient full-color daytime radiative cooling with diffuse-reflection-dominant cholesteric liquid crystals[J]. Chemical Engineering Journal, 2024, 483: 149245. DOI: 10.1016/j.cej.2024.149245.
+
+Xia J, Kong X, Li L, 等. High Thermal Conductivity and Radiative Cooling Designed Boron Nitride Nanosheets/Silk Fibroin Films for Personal Thermal Management[J]. ACS Applied Materials & Interfaces, 2024, 16(6): 7732-7741. DOI: 10.1021/acsami.3c16602.
+
+Hu W, Tan X, Yang X, 等. A superhydrophobic transparent radiative cooling film exhibits excellent resistance to acid and alkali as well as remarkable robustness[J]. Optical Materials, 2024, 149: 114995. DOI: 10.1016/j.optmat.2024.114995.
+
+Li P, Liu Y, Liu X, 等. Reversed Yolk–Shell Dielectric Scatterers for Advanced Radiative Cooling[J]. Advanced Functional Materials, 2024, 34(23). DOI: 10.1002/adfm.202315658.
 
 Wu X, Li J, Xie F, 等. A dual-selective thermal emitter with enhanced subambient radiative cooling performance[J]. Nature Communications, 2024, 15(1): 815. DOI: 10.1038/s41467-024-45095-4.
 
+Li L, Liu G, Zhang Q, 等. Porous Structure of Polymer Films Optimized by Rationally Tuning Phase Separation for Passive All-Day Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2024, 16(5): 6504-6512. DOI: 10.1021/acsami.3c19173.
+
 Wu Y, Wang S, Zhang R, 等. A Novel Multifunctional Photonic Film for Colored Passive Daytime Radiative Cooling and Energy Harvesting[J]. Small, 2024, 20(26): e2308661. DOI: 10.1002/smll.202308661.
 
+Dan Y, Hu M, Suhendri S, 等. Harnessing the characteristic of compound parabolic concentrators for directional concentration of emitted thermal radiation and solar shielding in building-integrated radiative cooling[J]. Energy and Buildings, 2024, 307: 113922. DOI: 10.1016/j.enbuild.2024.113922.
+
+Wang C, Zou H, Huang D, 等. Enhancing food production in hot climates through radiative cooling mulch: A nexus approach[J]. Nexus, 2024, 1(1): 100002. DOI: 10.1016/j.ynexs.2023.100002.
+
+Li S, Du G, Pan M, 等. Scalable and sustainable hierarchical-morphology coatings for passive daytime radiative cooling[J]. Advanced Composites and Hybrid Materials, 2024, 7(1). DOI: 10.1007/s42114-023-00819-w.
+
+Yang M, Zeng Y, Du Q, 等. Enhanced radiative cooling with Janus optical properties for low‐temperature space cooling[J]. Nanophotonics, 2024, 13(5): 629-637. DOI: 10.1515/nanoph-2023-0641.
+
+Liu Y, Bu X, Liu R, 等. Construction of robust silica-hybridized cellulose aerogels integrating passive radiative cooling and thermal insulation for year-round building energy saving[J]. Chemical Engineering Journal, 2024, 481: 148780. DOI: 10.1016/j.cej.2024.148780.
+
+Xu Y, Zhang X, Li Y, 等. Radiative cooling face mask based on mixed micro- and nanofibrous fabric[J]. Chemical Engineering Journal, 2024, 481: 148722. DOI: 10.1016/j.cej.2024.148722.
+
 Catrysse P B, Fan S. Radiative cooling textiles using industry-standard particle-free nonporous micro-structured fibers[J]. Nanophotonics, 2024, 13(5): 649-657. DOI: 10.1515/nanoph-2023-0650.
+
+Jung Y, Kim M, Jeong S, 等. Strain-Insensitive Outdoor Wearable Electronics by Thermally Robust Nanofibrous Radiative Cooler[J]. ACS Nano, 2024, 18(3): 2312-2324. DOI: 10.1021/acsnano.3c10241.
 
 Xia H, Fan C. Polarization controllable colored radiative cooler based on photonic metamaterial[J]. Solar Energy Materials and Solar Cells, 2024, 266: 112693. DOI: 10.1016/j.solmat.2024.112693.
 
@@ -524,6 +818,8 @@ Hwang J. Daytime Radiative Cooling near the Equator[J]. OSA Advanced Photonics C
 
 Wang T, Lei D, Dai J. Design of colored fluorescent radiative cooling bilayer polymer coatings by modified Monte Carlo method[J]. OSA Advanced Photonics Congress, 2024, : JD1.2. DOI: 10.1364/bgpp.2024.jd1.2.
 
+Dai Q, Xiang P, Li B, 等. Highly Reliable Anti-Reflection Radiative Cooling Glass Applicable to Thermal Management of Solar Cells[J]. Chemical Engineering Journal, 2024, 498: 155768. DOI: 10.1016/j.cej.2024.155768.
+
 Gangisetty G, Tallgren K, Zevenhoven R. Improving Skylight Geometry for Daytime Passive Radiative Cooling[J]. Lecture notes in mechanical engineering, 2024, : 265-276. DOI: 10.1007/978-3-031-67241-5_24.
 
 Pattelli L, Papakonstantinou I. Passive daytime radiative cooling[J]. Photoniques, 2024, (128): 56-61. DOI: 10.1051/photon/202412856.
@@ -532,15 +828,29 @@ Sun M, Peng F, Xu S, 等. Polyethylene fibers containing directional microchanne
 
 Raman A P. Radiative Cooling: 10 Years of Daytime Radiative Cooling and the Road Ahead[J]. OSA Advanced Photonics Congress, 2024, : JM1D.3. DOI: 10.1364/bgpp.2024.jm1d.3.
 
+Poredoš P, He S, Wang C, 等. Radiative sky cooling thermal concentration with cooling power exceeding one kW per square meter[J]. Energy & Environmental Science, 2024, 17(6): 2336-2355. DOI: 10.1039/d3ee03214k.
+
 Zhang Y, Chen Y, Wang T, 等. Ultrahigh performance passive radiative cooling by hybrid polar dielectric metasurface thermal emitters[J]. Opto-Electronic Advances, 2024, 7(4): 230194. DOI: 10.29026/oea.2024.230194.
 
 Song J N, Shen Q, Shao H, 等. Anti‐Environmental Aging Passive Daytime Radiative Cooling[J]. Advanced Science, 2023, 11(10): e2305664. DOI: 10.1002/advs.202305664.
 
+Li W, Zhan H, Huang N, 等. Scalable and Flexible Multi‐Layer Prismatic Photonic Metamaterial Film for Efficient Daytime Radiative Cooling[J]. Small Methods, 2023, 8(7): e2301258. DOI: 10.1002/smtd.202301258.
+
+Jia L, Cui P Y, Lu L, 等. Parametric analysis and potential evaluation of an all-day radiative sky cooling radiator-assisted ground source heat pump system[J]. Applied Thermal Engineering, 2023, 240: 122285. DOI: 10.1016/j.applthermaleng.2023.122285.
+
+Pyun K R, Jeong S, Yoo M J, 等. Tunable Radiative Cooling by Mechanochromic Electrospun Micro‐Nanofiber Matrix[J]. Small, 2023, 20(20): e2308572. DOI: 10.1002/smll.202308572.
+
 Jung J, Yoon S, Kim B, 等. Development of High-Performance Flexible Radiative Cooling Film Using PDMS/TiO2 Microparticles[J]. Micromachines, 2023, 14(12): 2223. DOI: 10.3390/mi14122223.
+
+Wu X, Wang Y, Liang X, 等. Durable Radiative Cooling Multilayer Silk Textile with Excellent Comprehensive Performance[J]. Advanced Functional Materials, 2023, 34(11). DOI: 10.1002/adfm.202313539.
 
 Chae D, Lee S Y, Lim H, 等. Vivid Colored Cooling Structure Managing Full Solar Spectrum via Near-Infrared Reflection and Photoluminescence[J]. ACS Applied Materials & Interfaces, 2023, 15(50): 58274-58285. DOI: 10.1021/acsami.3c08790.
 
+Zhang J, Yang X, Xu R, 等. An environmentally friendly porous PDMS film via a template method based for passive daytime radiative cooling[J]. Materials Letters, 2023, 357: 135686. DOI: 10.1016/j.matlet.2023.135686.
+
 Lee K, Park J, Seo K. Neutral-colored transparent solar cells with radiative cooling and wide-angle anti-reflection[J]. Cell Reports Physical Science, 2023, 4(12): 101744. DOI: 10.1016/j.xcrp.2023.101744.
+
+Tu H, Hou M, Wang J. Hierarchically structured composite with superhydrophobicity and radiative cooling for energy-saving buildings[J]. Solar Energy Materials and Solar Cells, 2023, 266: 112654. DOI: 10.1016/j.solmat.2023.112654.
 
 Peng Y, Dong J, Zhang Y, 等. Thermally comfortable epidermal bioelectrodes based on ultrastretchable and passive radiative cooling e-textiles[J]. Nano Energy, 2023, 120: 109143. DOI: 10.1016/j.nanoen.2023.109143.
 
@@ -548,21 +858,57 @@ Ding Z, Li W, Li X, 等. Designer SiO 2 Metasurfaces for Efficient Passive Radia
 
 Jeon H, Sung S, Yu J, 等. Fabrication of Yttrium Oxide Hollow Films for Efficient Passive Radiative Cooling[J]. Materials, 2023, 16(23): 7373. DOI: 10.3390/ma16237373.
 
+Gong X, Ding M, Gao P, 等. High-Performance Waterproof, Breathable, and Radiative Cooling Membranes Based on Nanoarchitectured Fiber/Meshworks[J]. Nano Letters, 2023, 23(23): 11337-11344. DOI: 10.1021/acs.nanolett.3c03968.
+
+Liu S, Zhang F, Chen X, 等. Thin paints for durable and scalable radiative cooling[J]. Journal of Energy Chemistry, 2023, 90: 176-182. DOI: 10.1016/j.jechem.2023.11.016.
+
 Bijarniya J P, Tripathi S, Bauri S, 等. Progress on Natural and Sustainable Materials for Daytime Radiative Cooling[J]. ACS Applied Optical Materials, 2023, 2(6): 945-962. DOI: 10.1021/acsaom.3c00330.
+
+Guo H, Niu T, Yu J, 等. Tailoring Photonic-Engineered Textiles with Butterfly-Mimetic Tertiary Micro/Nano Architectures for Superior Passive Radiative Cooling[J]. Engineering, 2023, 31: 120-126. DOI: 10.1016/j.eng.2023.07.019.
 
 Meng X, Chen Z, Qian C, 等. Durable and mechanically robust superhydrophobic radiative cooling coating[J]. Chemical Engineering Journal, 2023, 478: 147341. DOI: 10.1016/j.cej.2023.147341.
 
+Yan T, Xu D, Meng J, 等. A review of radiative sky cooling technology and its application in building systems[J]. Renewable Energy, 2023, 220: 119599. DOI: 10.1016/j.renene.2023.119599.
+
+So S, Yun J, Ko B, 等. Radiative Cooling for Energy Sustainability: From Fundamentals to Fabrication Methods Toward Commercialization[J]. Advanced Science, 2023, 11(2): e2305067. DOI: 10.1002/advs.202305067.
+
+Wang T, Wu X, Zhu Q, 等. A scalable and durable polydimethylsiloxane‐coated nanoporous polyethylene textile for daytime radiative cooling[J]. Nanophotonics, 2023, 13(5): 601-609. DOI: 10.1515/nanoph-2023-0596.
+
+Zhao X, Li T, Xie H, 等. A solution-processed radiative cooling glass[J]. Science, 2023, 382(6671): 684-691. DOI: 10.1126/science.adi2224.
+
+Cai H, Feng S, Feng M, 等. Coral-Inspired Asymmetrically Porous Radiative Cooling Biofilm with Thermoplastic Polyurethane-Enhanced Mechanical Tolerance as Building Energy-Saving Envelope[J]. ACS Applied Polymer Materials, 2023, 5(12): 10053-10064. DOI: 10.1021/acsapm.3c01914.
+
 Lin K, Chen S, Zeng Y, 等. Hierarchically structured passive radiative cooling ceramic with high solar reflectivity[J]. Science, 2023, 382(6671): 691-697. DOI: 10.1126/science.adi4725.
 
+Zhou J, Chen T G, Tsurimaki Y, 等. Angle-selective thermal emitter for directional radiative cooling and heating[J]. Joule, 2023, 7(12): 2830-2844. DOI: 10.1016/j.joule.2023.10.013.
+
+Fu J, Zhong W, Wang Y, 等. Knittable ultra-high molecular weight polyethylene microporous fibers for all-day personal passive radiative cooling in outdoors[J]. Polymer, 2023, 288: 126468. DOI: 10.1016/j.polymer.2023.126468.
+
+Lin K, Nian X, Li K, 等. Highly efficient flexible structured metasurface by roll-to-roll printing for diurnal radiative cooling[J]. eLight, 2023, 3(1). DOI: 10.1186/s43593-023-00053-3.
+
 Zhao B, Xuan Q, Xu C, 等. Considerations of passive radiative cooling[J]. Renewable Energy, 2023, 219: 119486. DOI: 10.1016/j.renene.2023.119486.
+
+Cai C, Chen F, Wei Z, 等. Large scalable, anti-ultraviolet, strong cellulose film with well-defined dual-pores for longtime daytime radiative cooling[J]. Chemical Engineering Journal, 2023, 476: 146668. DOI: 10.1016/j.cej.2023.146668.
 
 Zhao B, Xu C, Jin C, 等. Superhydrophobic bilayer coating for passive daytime radiative cooling[J]. Nanophotonics, 2023, 13(5): 583-591. DOI: 10.1515/nanoph-2023-0511.
 
 Yalçın R A, Haratoka C, Babonneau D, 等. The effect of size and shape-dependent optical properties on colored radiative cooling in metal island films[J]. Journal of Quantitative Spectroscopy and Radiative Transfer, 2023, 312: 108797. DOI: 10.1016/j.jqsrt.2023.108797.
 
+Zhang S, Cui C, Zhang F, 等. Flexible coated textile with remarkable passive daytime radiative cooling, UV resistance and hydrophobicity performance[J]. Progress in Organic Coatings, 2023, 186: 108005. DOI: 10.1016/j.porgcoat.2023.108005.
+
 Wang T, Xiao Y, King J L F, 等. Bioinspired Switchable Passive Daytime Radiative Cooling Coatings[J]. ACS Applied Materials & Interfaces, 2023, 15(41): 48716-48724. DOI: 10.1021/acsami.3c11338.
 
 Du L, Li R, Chen W. Colored textiles based on noniridescent structural color of ZnS@SiO2 colloidal crystals for daytime passive radiative cooling[J]. Chemical Engineering Journal, 2023, 475: 146431. DOI: 10.1016/j.cej.2023.146431.
+
+Wang S, Wu Y, Pu M, 等. A Versatile Strategy for Concurrent Passive Daytime Radiative Cooling and Sustainable Energy Harvesting[J]. Small, 2023, 20(6): e2305706. DOI: 10.1002/smll.202305706.
+
+Xiong L, Wei Y, Chen C, 等. Thin lamellar films with enhanced mechanical properties for durable radiative cooling[J]. Nature Communications, 2023, 14(1): 6129. DOI: 10.1038/s41467-023-41797-3.
+
+Chen C, Jia X, Li X, 等. Scalable wet-spinning of wearable chitosan-silica textile for all-day radiative cooling[J]. Chemical Engineering Journal, 2023, 475: 146307. DOI: 10.1016/j.cej.2023.146307.
+
+Kousis I, Pisello A L. Toward the Scaling up of Daytime Radiative Coolers: A Review[J]. Advanced Optical Materials, 2023, 11(21). DOI: 10.1002/adom.202300123.
+
+Gong Q, Lu L, Chen J. Design and performance investigation of a novel self-adaptive radiative cooling module for thermal regulation in buildings[J]. Applied Energy, 2023, 352: 121928. DOI: 10.1016/j.apenergy.2023.121928.
 
 Guo N, Yang R, Chen M, 等. Self‐Adaptive Colored Radiative Cooling by Tuning Visible Spectra[J]. Solar RRL, 2023, 7(21). DOI: 10.1002/solr.202300512.
 
@@ -570,11 +916,19 @@ Yang S, Cai Y, Tang S, 等. Self-Cleaning Red-Toned Perylene Poly(aryl ether) Fi
 
 Zhao B, Xuan Q, Zhang W, 等. Low-emissivity interior wall strategy for suppressing overcooling in radiatively cooled buildings in cold environments[J]. Sustainable Cities and Society, 2023, 99: 104912. DOI: 10.1016/j.scs.2023.104912.
 
+Ying X, Yu F, Tao S, 等. A transparent radiative cooling emitter with multi-band spectral regulation for building energy saving[J]. Composites Communications, 2023, 43: 101717. DOI: 10.1016/j.coco.2023.101717.
+
 Fortin R, Mandal J, Raman A P, 等. Passive radiative cooling to sub-ambient temperatures inside naturally ventilated buildings[J]. Cell Reports Physical Science, 2023, 4(9): 101570. DOI: 10.1016/j.xcrp.2023.101570.
+
+Fan C, Long Z, Zhang Y, 等. Robust integration of energy harvesting with daytime radiative cooling enables wearing thermal comfort self-powered electronic devices[J]. Nano Energy, 2023, 116: 108842. DOI: 10.1016/j.nanoen.2023.108842.
 
 Xiran 杜 D, Xueyang 王 W, Bin 朱 Z. 个人辐射制冷织物的研究进展[J]. Laser & Optoelectronics Progress, 2023, 60(13): 1316006. DOI: 10.3788/lop231396.
 
 Chen J, Lu L, Jia L, 等. Performance Evaluation of High-Rise Buildings Integrated with Colored Radiative Cooling Walls in a Hot and Humid Region[J]. Sustainability, 2023, 15(16): 12607. DOI: 10.3390/su151612607.
+
+Zhang Y, Wang T, Mei X, 等. Ordered Porous Polymer Films for Highly Efficient Passive Daytime Radiative Cooling[J]. ACS Photonics, 2023, 10(9): 3124-3132. DOI: 10.1021/acsphotonics.3c00494.
+
+Wen J, Chen X, Zhu Z, 等. Thin film-based colorful radiative cooler using diffuse reflection for color display[J]. PhotoniX, 2023, 4(1). DOI: 10.1186/s43074-023-00104-5.
 
 Zhang Q, Xue T, Lu Y, 等. Fluorine-containing polyimide nanofiber membranes for durable and anti-aging daytime radiative cooling[J]. Journal of Material Science and Technology, 2023, 179: 166-173. DOI: 10.1016/j.jmst.2023.07.011.
 
@@ -582,11 +936,33 @@ Zou H, Wang C, Yu J, 等. Eliminating greenhouse heat stress with transparent ra
 
 Su W, Cai P, Darkwa J, 等. Review of daytime radiative cooling technologies and control methods[J]. Applied Thermal Engineering, 2023, 235: 121305. DOI: 10.1016/j.applthermaleng.2023.121305.
 
+Kim H, Yoo Y J, Yun J H, 等. Outdoor Worker Stress Monitoring Electronics with Nanofabric Radiative Cooler‐Based Thermal Management[J]. Advanced Healthcare Materials, 2023, 12(28): e2301104. DOI: 10.1002/adhm.202301104.
+
+Jia L, Lu L, Chen J. Exploring the cooling potential maps of a radiative sky cooling radiator-assisted ground source heat pump system in China[J]. Applied Energy, 2023, 349: 121678. DOI: 10.1016/j.apenergy.2023.121678.
+
+Chen J, Lu L, Gong Q. Techno-economic and environmental evaluation on radiative sky cooling-based novel passive envelope strategies to achieve building sustainability and carbon neutrality[J]. Applied Energy, 2023, 349: 121679. DOI: 10.1016/j.apenergy.2023.121679.
+
+Liu S, Sui C, Harbinson M, 等. A Scalable Microstructure Photonic Coating Fabricated by Roll-to-Roll “Defects” for Daytime Subambient Passive Radiative Cooling[J]. Nano Letters, 2023, 23(17): 7767-7774. DOI: 10.1021/acs.nanolett.3c00111.
+
+Jeon S K, Kim J T, Kim M S, 等. Scalable, Patternable Glass‐Infiltrated Ceramic Radiative Coolers for Energy‐Saving Architectural Applications[J]. Advanced Science, 2023, 10(27): e2302701. DOI: 10.1002/advs.202302701.
+
+Jiang K, Zhang K, Shi Z, 等. Experimental and numerical study on the potential of a new radiative cooling paint boosted by SiO2 microparticles for energy saving[J]. Energy, 2023, 283: 128473. DOI: 10.1016/j.energy.2023.128473.
+
+Cai C, Sun Y, Chen Y, 等. Large scalable, ultrathin and self-cleaning cellulose aerogel film for daytime radiative cooling[J]. Journal of Bioresources and Bioproducts, 2023, 8(4): 421-429. DOI: 10.1016/j.jobab.2023.06.004.
+
+Dong J, Peng Y, Zhang Y, 等. Superelastic Radiative Cooling Metafabric for Comfortable Epidermal Electrophysiological Monitoring[J]. Nano-Micro Letters, 2023, 15(1): 181. DOI: 10.1007/s40820-023-01156-9.
+
 Xie W, Xiao C, Sun Y, 等. Flexible Photonic Radiative Cooling Films: Fundamentals, Fabrication and Applications[J]. Advanced Functional Materials, 2023, 33(46). DOI: 10.1002/adfm.202305734.
+
+Farooq A S, Alkaabi K, Hdhaiba S O B. Exploring radiative sky cooling resource map and the impact of meteorological conditions on radiative emitters. A perspective of GCC countries[J]. Energy Reports, 2023, 10: 473-483. DOI: 10.1016/j.egyr.2023.06.054.
 
 Ishii S, Hernández‐Pinilla D, Tanjaya N K, 等. Highly reflective multilayer solar reflectors for daytime radiative cooling[J]. Solar Energy Materials and Solar Cells, 2023, 259: 112463. DOI: 10.1016/j.solmat.2023.112463.
 
 Lin K, Zhu Y, Ho T C, 等. Cellular Inorganic Ceramic for Highly Efficient Daytime Passive Radiative Cooling[J]. ASME International Conference on Energy Sustainability (ES), 2023. DOI: 10.1115/es2023-105413.
+
+Chen Y, Du Z, Zhang J, 等. Personal Microenvironment Management by Smart Textiles with Negative Oxygen Ions Releasing and Radiative Cooling Performance[J]. ACS Nano, 2023, 17(14): 13269-13277. DOI: 10.1021/acsnano.3c00820.
+
+Qin M, Han H, Xiong F, 等. Vapor Exchange Induced Particles‐Based Sponge for Scalable and Efficient Daytime Radiative Cooling[J]. Advanced Functional Materials, 2023, 33(44). DOI: 10.1002/adfm.202304073.
 
 Zhou Y, Jia C, Lu K J, 等. Energy-efficient colorful silicon photovoltaic modules driven by transparent-colored radiative cooling[J]. Solar Energy Materials and Solar Cells, 2023, 259: 112459. DOI: 10.1016/j.solmat.2023.112459.
 
@@ -600,7 +976,21 @@ Zhang R, Li R, Xu P, 等. Thermochromic smart window utilizing passive radiative
 
 Zhong S, Gou Y, Huang X, 等. Daytime radiative cooling aerogel with favorable amphiphobic surface properties[J]. Optical Materials, 2023, 142: 114068. DOI: 10.1016/j.optmat.2023.114068.
 
+Fan W, Gao Q, Xiang J, 等. Synergistic effect of silica aerogel and titanium dioxide in porous polyurethane composite coating with enhanced passive radiative cooling performance[J]. Progress in Organic Coatings, 2023, 183: 107763. DOI: 10.1016/j.porgcoat.2023.107763.
+
+Zhang L, Zhan H, Xia Y, 等. Efficient Passive Daytime Radiative Cooling by Hierarchically Designed Films Integrating Robust Durability[J]. ACS Applied Materials & Interfaces, 2023, 15(26): 31994-32001. DOI: 10.1021/acsami.3c05327.
+
+Yun J, Chae D, So S, 等. Optimally Designed Multimaterial Microparticle–Polymer Composite Paints for Passive Daytime Radiative Cooling[J]. ACS Photonics, 2023, 10(8): 2608-2617. DOI: 10.1021/acsphotonics.3c00339.
+
+Cai C, Chen W, Wei Z, 等. Bioinspired “aerogel grating” with metasurfaces for durable daytime radiative cooling for year-round energy savings[J]. Nano Energy, 2023, 114: 108625. DOI: 10.1016/j.nanoen.2023.108625.
+
+Zou H, Wang C, Yu J, 等. Solar spectrum management and radiative cooling film for sustainable greenhouse production in hot climates[J]. 中国科学通报：英文版, 2023, 68(14): 1493-1496. DOI: 10.1016/j.scib.2023.06.015.
+
+Wu Q, Cui Y, Xia G, 等. Passive daytime radiative cooling coatings with renewable self-cleaning functions[J]. Chinese Chemical Letters, 2023, 35(2): 108687. DOI: 10.1016/j.cclet.2023.108687.
+
 Ma B, Wu B, Hu P, 等. Universal passive radiative cooling behavior of aerogels[J]. Journal of Materials Chemistry A, 2023, 11(28): 15227-15236. DOI: 10.1039/d3ta02397d.
+
+Tu Y, Tan X, Yang X, 等. Antireflection and radiative cooling difunctional coating design for silicon solar cells[J]. Optics Express, 2023, 31(14): 22296. DOI: 10.1364/oe.488376.
 
 Du L, Zhou Z, Li J, 等. Highly efficient subambient all-day passive radiative cooling textiles with optically responsive MgO embedded in porous cellulose acetate polymer[J]. Chemical Engineering Journal, 2023, 469: 143765. DOI: 10.1016/j.cej.2023.143765.
 
@@ -608,13 +998,39 @@ Zhang J, Xu S H, Cai Y, 等. Colorfully coated cotton fabric for passive daytime
 
 Lee M, Kim G, Jung Y, 等. Photonic structures in radiative cooling[J]. Light Science & Applications, 2023, 12(1): 134. DOI: 10.1038/s41377-023-01119-0.
 
+Li X, Dai B, Wang L, 等. Radiative cooling and anisotropic wettability in E-textile for comfortable biofluid monitoring[J]. Biosensors and Bioelectronics, 2023, 237: 115434. DOI: 10.1016/j.bios.2023.115434.
+
+Cheng M, Liu X, Li Z, 等. Multiple textile triboelectric nanogenerators based on UV-protective, radiative cooling, and antibacterial composite yarns[J]. Chemical Engineering Journal, 2023, 468: 143800. DOI: 10.1016/j.cej.2023.143800.
+
+Shi S, Lv P, Valenzuela C, 等. Scalable Bacterial Cellulose‐Based Radiative Cooling Materials with Switchable Transparency for Thermal Management and Enhanced Solar Energy Harvesting[J]. Small, 2023, 19(39): e2301957. DOI: 10.1002/smll.202301957.
+
 Deng Y, Yang Y, Xiao Y, 等. Ultrafast Switchable Passive Radiative Cooling Smart Windows with Synergistic Optical Modulation[J]. Advanced Functional Materials, 2023, 33(35). DOI: 10.1002/adfm.202301319.
 
+Li N, Wei L, You M, 等. Hierarchically structural TiO2-PVDF fiber film with particle-enhanced spectral performance for radiative sky cooling[J]. Solar Energy, 2023, 259: 41-48. DOI: 10.1016/j.solener.2023.05.011.
+
+Dong Y, Zou Y, Li X, 等. Introducing masking layer for daytime radiative cooling coating to realize high optical performance, thin thickness, and excellent durability in long-term outdoor application[J]. Applied Energy, 2023, 344: 121273. DOI: 10.1016/j.apenergy.2023.121273.
+
 Pakdel E, Wang X. Thermoregulating textiles and fibrous materials for passive radiative cooling functionality[J]. Materials & Design, 2023, 231: 112006. DOI: 10.1016/j.matdes.2023.112006.
+
+Li F, Liu M, Wu D, 等. Electrospun film composed of pearl-string-like microfibers exhibiting excellent radiative cooling performance, moisture permeability and self-cleaning function[J]. Optical Materials, 2023, 140: 113899. DOI: 10.1016/j.optmat.2023.113899.
+
+Li M, Lin C, Li K, 等. A UV‐Reflective Organic–Inorganic Tandem Structure for Efficient and Durable Daytime Radiative Cooling in Harsh Climates[J]. Small, 2023, 19(29): e2301159. DOI: 10.1002/smll.202301159.
+
+Huang M C, Yang M, Guo X J, 等. Scalable multifunctional radiative cooling materials[J]. Progress in Materials Science, 2023, 137: 101144. DOI: 10.1016/j.pmatsci.2023.101144.
+
+Liu M, Li X, Li L, 等. Continuous Photothermal and Radiative Cooling Energy Harvesting by VO 2 Smart Coatings with Switchable Broadband Infrared Emission[J]. ACS Nano, 2023, 17(10): 9501-9509. DOI: 10.1021/acsnano.3c01755.
+
+Zhang K, Mo C, Tang X, 等. Hierarchically Porous Cellulose-Based Radiative Cooler for Zero-Energy Food Preservation[J]. ACS Sustainable Chemistry & Engineering, 2023, 11(20): 7745-7754. DOI: 10.1021/acssuschemeng.3c00170.
+
+Xia H, Yin H, Fan C. Realization of efficient visual display and radiative cooling thermal emitter with cross-shaped metamaterials[J]. Journal of Quantitative Spectroscopy and Radiative Transfer, 2023, 306: 108659. DOI: 10.1016/j.jqsrt.2023.108659.
+
+Jiang Y, Wang J, Zhou Y, 等. Micro‐structured polyethylene film as an optically selective and self‐cleaning layer for enhancing durability of radiative coolers[J]. Nanophotonics, 2023, 12(12): 2213-2220. DOI: 10.1515/nanoph-2023-0198.
 
 Wong Y M, Tso C Y, Jeong S Y, 等. Critical sky temperatures for passive radiative cooling[J]. Renewable Energy, 2023, 211: 214-226. DOI: 10.1016/j.renene.2023.04.142.
 
 Chen S, Lin K, Pan A, 等. Study of a passive radiative cooling coating on chemical storage tanks for evaporative loss control[J]. Renewable Energy, 2023, 211: 326-335. DOI: 10.1016/j.renene.2023.04.141.
+
+Chen Y, Hwang C, Chang S, 等. Eco‐Friendly Transparent Silk Fibroin Radiative Cooling Film for Thermal Management of Optoelectronics[J]. Advanced Functional Materials, 2023, 33(33). DOI: 10.1002/adfm.202301924.
 
 Fan C, Zhang Y, Long Z, 等. Dynamically Tunable Subambient Daytime Radiative Cooling Metafabric with Janus Wettability[J]. Advanced Functional Materials, 2023, 33(29). DOI: 10.1002/adfm.202300794.
 
@@ -626,17 +1042,23 @@ Woo H Y, Choi Y, Chung H, 等. Colloidal inorganic nano- and microparticles for 
 
 Zhang Y, Feng W, Zhu W, 等. Universal Color Retrofit to Polymer-Based Radiative Cooling Materials[J]. ACS Applied Materials & Interfaces, 2023, 15(17): 21008-21015. DOI: 10.1021/acsami.3c01324.
 
+Zhang X, Cheng Z, Yang D, 等. Scalable Bio-Skin-Inspired Radiative Cooling Metafabric for Breaking Trade-Off between Optical Properties and Application Requirements[J]. ACS Photonics, 2023, 10(5): 1624-1632. DOI: 10.1021/acsphotonics.3c00241.
+
 Xie B, Liu Y, Xi W, 等. Colored radiative cooling: progress and prospects[J]. Materials Today Energy, 2023, 34: 101302. DOI: 10.1016/j.mtener.2023.101302.
 
 Cao J, Xu H, Li X, 等. Colored Daytime Radiative Cooling Textiles Supported by Semiconductor Quantum Dots[J]. ACS Applied Materials & Interfaces, 2023, 15(15): 19480-19489. DOI: 10.1021/acsami.3c02418.
 
 Luo C L, Zheng L X, Jiao J Y, 等. Enhanced passive radiative cooling coating with Y2O3 for thermal management of building[J]. Optical Materials, 2023, 138: 113710. DOI: 10.1016/j.optmat.2023.113710.
 
+Gong Q, Lu L, Chen J, 等. A novel aqueous scalable eco-friendly paint for passive daytime radiative cooling in sub-tropical climates[J]. Solar Energy, 2023, 255: 236-242. DOI: 10.1016/j.solener.2023.03.033.
+
 Tao S, Wan Q, Ying X, 等. Incorporation form-stable phase change material with passive radiative cooling emitter for thermal regulation[J]. Energy and Buildings, 2023, 288: 113031. DOI: 10.1016/j.enbuild.2023.113031.
 
 Li M, Yan Z, Fan D. Flexible Radiative Cooling Textiles Based on Composite Nanoporous Fibers for Personal Thermal Management[J]. ACS Applied Materials & Interfaces, 2023, 15(14): 17848-17857. DOI: 10.1021/acsami.3c00252.
 
 Tao S, Han J, Ying X, 等. Mechanically Switchable Multifunctional Device for Regulating Passive Radiative Cooling and Solar Heating[J]. ACS Applied Materials & Interfaces, 2023, 15(13): 17123-17133. DOI: 10.1021/acsami.2c21961.
+
+Liu X, Li Y, Pan Y, 等. A Shish-Kebab Superstructure Film for Personal Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2023, 15(13): 17188-17194. DOI: 10.1021/acsami.3c00120.
 
 Jiang T, Lei S, Wang F, 等. All-Polymer Superhydrophobic Radiative Cooling Coating Based on Polytetrafluoroethylene/Polydimethylsiloxane Composites[J]. Industrial & Engineering Chemistry Research, 2023, 62(12): 5024-5034. DOI: 10.1021/acs.iecr.2c04448.
 
@@ -646,11 +1068,17 @@ Yang X, Geng J, Tan X, 等. A flexible PDMS@ZrO2 film for highly efficient passi
 
 Guan Q, Raza A, Mao S S, 等. Machine Learning-Enabled Inverse Design of Radiative Cooling Film with On-Demand Transmissive Color[J]. ACS Photonics, 2023, 10(3): 715-726. DOI: 10.1021/acsphotonics.2c01857.
 
+Chen J, Gong Q, Lu L. Evaluation of passive envelope systems with radiative sky cooling and thermally insulated glazing materials for cooling[J]. Journal of Cleaner Production, 2023, 398: 136607. DOI: 10.1016/j.jclepro.2023.136607.
+
 Gangisetty G, Zevenhoven R. A Review of Nanoparticle Material Coatings in Passive Radiative Cooling Systems Including Skylights[J]. Energies, 2023, 16(4): 1975. DOI: 10.3390/en16041975.
+
+Lauster T, Mauel A, Herrmann K, 等. From Chitosan to Chitin: Bio‐Inspired Thin Films for Passive Daytime Radiative Cooling[J]. Advanced Science, 2023, 10(11): e2206616. DOI: 10.1002/advs.202206616.
 
 Zhong S, Jing W, Lei H, 等. Hydrophobicity-enhanced daytime radiative cooling films based on polyvinylidene fluoride-co-hexafluoropropylene and hydrophobic fumed silica[J]. Materials Letters, 2023, 338: 134059. DOI: 10.1016/j.matlet.2023.134059.
 
 Pirouzfam N, Mengüç M P, Şendur K. Colorization of passive radiative cooling coatings using plasmonic effects[J]. Solar Energy Materials and Solar Cells, 2023, 253: 112225. DOI: 10.1016/j.solmat.2023.112225.
+
+Cai X, Gao L, Wang J, 等. MOF-Integrated Hierarchical Composite Fiber for Efficient Daytime Radiative Cooling and Antibacterial Protective Textiles[J]. ACS Applied Materials & Interfaces, 2023, 15(6): 8537-8545. DOI: 10.1021/acsami.2c21832.
 
 Meng D, Ma W, Cheng Y Y, 等. Polyethylene terephthalate-based colored emitters for efficient daytime radiative cooling[J]. Results in Physics, 2023, 46: 106254. DOI: 10.1016/j.rinp.2023.106254.
 
@@ -662,11 +1090,31 @@ Ma B, Cheng Y, Hu P, 等. Passive Daytime Radiative Cooling of Silica Aerogels[J
 
 Anusuyadevi P R, Singha S, Banerjee D, 等. Synthetic Plant Cuticle Coating as a Biomimetic Moisture Barrier Membrane for Structurally Colored Cellulose Films[J]. Advanced Materials Interfaces, 2023, 10(7). DOI: 10.1002/admi.202202112.
 
+Liao M, Banerjee D, Hallberg T, 等. Cellulose‐Based Radiative Cooling and Solar Heating Powers Ionic Thermoelectrics[J]. Advanced Science, 2023, 10(8): e2206510. DOI: 10.1002/advs.202206510.
+
+Li Y, Chen X, Yu L F, 等. Janus Interface Engineering Boosting Visibly Transparent Radiative Cooling for Energy Saving[J]. ACS Applied Materials & Interfaces, 2023, 15(3): 4122-4131. DOI: 10.1021/acsami.2c20462.
+
+Shi M, Song Z, Ni J, 等. Dual-Mode Porous Polymeric Films with Coral-like Hierarchical Structure for All-Day Radiative Cooling and Heating[J]. ACS Nano, 2023, 17(3): 2029-2038. DOI: 10.1021/acsnano.2c07293.
+
+Yang P, He J, Ju Y, 等. Dual‐Mode Integrated Janus Films with Highly Efficient NaH2PO2‐Enhanced Infrared Radiative Cooling and Solar Heating for Year‐Round Thermal Management[J]. Advanced Science, 2023, 10(7): e2206176. DOI: 10.1002/advs.202206176.
+
+Yang M, Zhong H, Li T, 等. Phase Change Material Enhanced Radiative Cooler for Temperature-Adaptive Thermal Regulation[J]. ACS Nano, 2023, 17(2): 1693-1700. DOI: 10.1021/acsnano.2c11916.
+
+Sun Y, He H, Huang X, 等. Superhydrophobic SiO 2 –Glass Bubbles Composite Coating for Stable and Highly Efficient Daytime Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2023, 15(3): 4799-4813. DOI: 10.1021/acsami.2c18774.
+
 Gao W M, Chen Y. Emerging Materials and Strategies for Passive Daytime Radiative Cooling[J]. Small, 2023, 19(18): e2206145. DOI: 10.1002/smll.202206145.
+
+Wang S, Dong Y, Li Y, 等. A solar/radiative cooling dual-regulation smart window based on shape-morphing kirigami structures[J]. Materials Horizons, 2023, 10(10): 4243-4250. DOI: 10.1039/d3mh00671a.
 
 Batista M D R, Troksa A, Eshelman H V, 等. All-day passive radiative cooling using common salts[J]. Materials Horizons, 2023, 10(12): 5694-5703. DOI: 10.1039/d3mh01139a.
 
 Guan Q, Raza A, Mao S S, 等. ANGLE-TOLERANT COLORED SUB-AMBIENT RADIATIVE COOLING COATING DESIGNED BY MIXED-INTEGER MEMETIC ALGORITHM[J]. International Heat Transfer Conference (IHTC), 2023, : 10. DOI: 10.1615/ihtc17.380-80.
+
+Wang Y, Wang T, Liang J, 等. Controllable-morphology polymer blend photonic metafoam for radiative cooling[J]. Materials Horizons, 2023, 10(11): 5060-5070. DOI: 10.1039/d3mh01008b.
+
+Yue Q, Zhang L, He C, 等. Polymer composites with hierarchical architecture and dielectric particles for efficient daytime subambient radiative cooling[J]. Journal of Materials Chemistry A, 2023, 11(6): 3126-3135. DOI: 10.1039/d2ta07453b.
+
+Li X, Ding Z, Kong L, 等. Recent progress in organic-based radiative cooling materials: fabrication methods and thermal management properties[J]. Materials Advances, 2023, 4(3): 804-822. DOI: 10.1039/d2ma01000c.
 
 Wang H, Xue C, Ma C, 等. Scalable Superhydrophobic Colored Composite Coating for Sub-Ambient Daytime Radiative Cooling and Aesthetic Purposes[J]. SSRN Electronic Journal, 2023. DOI: 10.2139/ssrn.4604170.
 
@@ -674,13 +1122,23 @@ Li X, Xu H, Yang Y, 等. Selective spectral absorption of nanofibers for color-p
 
 Li X, Shao S, Huang M, 等. Integration of daytime radiative cooling and solar heating[J]. iScience, 2022, 26(1): 105894. DOI: 10.1016/j.isci.2022.105894.
 
+Meng X, Chen Z, Qian C, 等. Hierarchical Superhydrophobic Poly(vinylidene fluoride-co-hexafluoropropylene) Membrane with a Bead (SiO2 Nanoparticles)-on-String (Nanofibers) Structure for All-Day Passive Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2022, 15(1): 2256-2266. DOI: 10.1021/acsami.2c19422.
+
+Liu H, Yu J, Zhang S, 等. Air-Conditioned Masks Using Nanofibrous Networks for Daytime Radiative Cooling[J]. Nano Letters, 2022, 22(23): 9485-9492. DOI: 10.1021/acs.nanolett.2c03585.
+
+Dumoulin J, Drouard E, Amara M. Radiative sky cooling of silicon solar modules: Evaluating the broadband effectiveness of photonic structures[J]. Applied Physics Letters, 2022, 121(23): 231101. DOI: 10.1063/5.0116629.
+
 Zhao J, Nan F, Zhou L, 等. Free-standing, colored, polymer film with composite opal photonic crystal structure for efficient passive daytime radiative cooling[J]. Solar Energy Materials and Solar Cells, 2022, 251: 112136. DOI: 10.1016/j.solmat.2022.112136.
 
 Jin S, Xiao M, Zhang W, 等. Daytime Sub-Ambient Radiative Cooling with Vivid Structural Colors Mediated by Coupled Nanocavities[J]. ACS Applied Materials & Interfaces, 2022, 14(49): 54676-54687. DOI: 10.1021/acsami.2c15573.
 
+Park C, Park C, Park S, 等. Passive Daytime Radiative Cooling by Thermoplastic Polyurethane Wrapping Films with Controlled Hierarchical Porous Structures[J]. ChemSusChem, 2022, 15(24): e202202129. DOI: 10.1002/cssc.202202129.
+
 Wu S, Cao Y, Li Y, 等. Recent Advances in Material Engineering and Applications for Passive Daytime Radiative Cooling[J]. Advanced Optical Materials, 2022, 11(4). DOI: 10.1002/adom.202202163.
 
 Wang C H, Liu M X, Jiang Z Y. TiO2 particle agglomeration impacts on radiative cooling films with a thickness of 50 μm[J]. Applied Physics Letters, 2022, 121(20). DOI: 10.1063/5.0121980.
+
+Ni J, Zhang Y, Song Z, 等. Salt-template-assisted melt-processed porous poly (vinylidene fluoride) nanocomposites for highly efficient all-day passive radiative cooling[J]. Composites Part A Applied Science and Manufacturing, 2022, 164: 107311. DOI: 10.1016/j.compositesa.2022.107311.
 
 Son S, Chae D, Lim H, 等. Temperature-Sensitive Colored Radiative Cooling Materials with Efficient Cooling Performance[J]. Advanced Engineering Materials, 2022, 25(6). DOI: 10.1002/adem.202201254.
 
@@ -688,11 +1146,53 @@ Gao Y, Song X, Zhang P. Comprehensive evaluation and analysis of a porous polyme
 
 Akerboom E, Veeken T, Hecker C A, 等. Passive Radiative Cooling of Silicon Solar Modules with Photonic Silica Microcylinders[J]. ACS Photonics, 2022, 9(12): 3831-3840. DOI: 10.1021/acsphotonics.2c01389.
 
+Du T, Niu J, Wang L, 等. Daytime Radiative Cooling Coating Based on the Y2O3/TiO2 Microparticle-Embedded PDMS Polymer on Energy-Saving Buildings[J]. ACS Applied Materials & Interfaces, 2022, 14(45): 51351-51360. DOI: 10.1021/acsami.2c15854.
+
+Tang H, Li S, Zhang Y, 等. Radiative cooling performance and life-cycle assessment of a scalable MgO paint for building applications[J]. Journal of Cleaner Production, 2022, 380: 135035. DOI: 10.1016/j.jclepro.2022.135035.
+
+Kim S, Shang W, Moon S, 等. High-Performance Transparent Radiative Cooler Designed by Quantum Computing[J]. ACS Energy Letters, 2022, 7(12): 4134-4141. DOI: 10.1021/acsenergylett.2c01969.
+
+Wang H, Xue C, Ji Z, 等. Superhydrophobic Porous Coating of Polymer Composite for Scalable and Durable Daytime Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2022, 14(45): 51307-51317. DOI: 10.1021/acsami.2c14789.
+
+Tang H, Wu J, Li C. Experimental and numerical study of a reversible radiative sky cooling PV window[J]. Solar Energy, 2022, 247: 441-452. DOI: 10.1016/j.solener.2022.10.057.
+
+Liu Y, Bu X, He M, 等. Robust passive daytime radiative coolers based on thermally insulating and spectrally selective composite aerogels with designed fiber-reinforced porous architecture[J]. Solar Energy, 2022, 247: 564-573. DOI: 10.1016/j.solener.2022.10.063.
+
+Sun H, Tang F, Chen Q, 等. A recyclable, up-scalable and eco-friendly radiative cooling material for all-day sub-ambient comfort[J]. Chemical Engineering Journal, 2022, 455: 139786. DOI: 10.1016/j.cej.2022.139786.
+
+Park C, Park C, Park S, 等. Passive Daytime Radiative Cooling by Thermoplastic Polyurethane Wrapping Films with Controlled Hierarchical Porous Structures[J]. ChemSusChem, 2022, 15(24): e202201842. DOI: 10.1002/cssc.202201842.
+
+Wijesuriya S, Kishore R A, Bianchi M V A, 等. Potential energy savings benefits and limitations of radiative cooling coatings for U.S. residential buildings[J]. Journal of Cleaner Production, 2022, 379: 134763. DOI: 10.1016/j.jclepro.2022.134763.
+
+Zhang X, Li X, Wang F, 等. Low‐Cost and Large‐Scale Producible Biomimetic Radiative Cooling Glass with Multiband Radiative Regulation Performance[J]. Advanced Optical Materials, 2022, 10(23). DOI: 10.1002/adom.202202031.
+
 Yao P, Chen Z, Liu T, 等. Spider‐Silk‐Inspired Nanocomposite Polymers for Durable Daytime Radiative Cooling[J]. Advanced Materials, 2022, 34(51): e2208236. DOI: 10.1002/adma.202208236.
+
+Liu J, Zhang Y, Li S, 等. Emerging materials and engineering strategies for performance advance of radiative sky cooling technology[J]. Chemical Engineering Journal, 2022, 453: 139739. DOI: 10.1016/j.cej.2022.139739.
 
 Liu R, Zhou Z, Mo X, 等. Green-Manufactured and Recyclable Coatings for Subambient Daytime Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2022, 14(41): 46972-46979. DOI: 10.1021/acsami.2c12400.
 
+Li T, Sun H, Yang M, 等. All-Ceramic, compressible and scalable nanofibrous aerogels for subambient daytime radiative cooling[J]. Chemical Engineering Journal, 2022, 452: 139518. DOI: 10.1016/j.cej.2022.139518.
+
+An Y, Fu Y, Dai J, 等. Switchable radiative cooling technologies for smart thermal management[J]. Cell Reports Physical Science, 2022, 3(10): 101098. DOI: 10.1016/j.xcrp.2022.101098.
+
+Felicelli A, Katsamba I, Barrios F, 等. Thin layer lightweight and ultrawhite hexagonal boron nitride nanoporous paints for daytime radiative cooling[J]. Cell Reports Physical Science, 2022, 3(10): 101058. DOI: 10.1016/j.xcrp.2022.101058.
+
+Jin Y, Jeong Y, Yu K. Infrared‐Reflective Transparent Hyperbolic Metamaterials for Use in Radiative Cooling Windows[J]. Advanced Functional Materials, 2022, 33(1). DOI: 10.1002/adfm.202207940.
+
+Lin K, Du Y, Chen S, 等. Nanoparticle-polymer hybrid dual-layer coating with broadband solar reflection for high-performance daytime passive radiative cooling[J]. Energy and Buildings, 2022, 276: 112507. DOI: 10.1016/j.enbuild.2022.112507.
+
+Feng S, Zhou Y, Liu C, 等. Skeleton-inspired optical-selective cellulose-based bio-film as passive radiative cooler and the energy-saving performance evaluation[J]. Chemical Engineering Journal, 2022, 452: 139377. DOI: 10.1016/j.cej.2022.139377.
+
+Nie S, Tan X, Li X, 等. Facile and environmentally-friendly fabrication of robust composite film with superhydrophobicity and radiative cooling property[J]. Composites Science and Technology, 2022, 230: 109750. DOI: 10.1016/j.compscitech.2022.109750.
+
 Yang N, Fu Y, Xue X, 等. Geopolymer‐based sub‐ambient daytime radiative cooling coating[J]. EcoMat, 2022, 5(2). DOI: 10.1002/eom2.12284.
+
+Dang S, Wang X, Ye H. An Ultrathin Transparent Radiative Cooling Photonic Structure with a High NIR Reflection[J]. Advanced Materials Interfaces, 2022, 9(30). DOI: 10.1002/admi.202201050.
+
+Benmoussa Y, Ezziani M, Djire A F, 等. Simulation of an energy-efficient cool roof with cellulose-based daytime radiative cooling material[J]. Materials Today Proceedings, 2022, 72: 3632-3637. DOI: 10.1016/j.matpr.2022.08.411.
+
+Cui C, Lü J, Zhang S, 等. Hierarchical-porous coating coupled with textile for passive daytime radiative cooling and self-cleaning[J]. Solar Energy Materials and Solar Cells, 2022, 247: 111954. DOI: 10.1016/j.solmat.2022.111954.
 
 Liu X, Zhang M, Hou Y, 等. Hierarchically Superhydrophobic Stereo‐Complex Poly (Lactic Acid) Aerogel for Daytime Radiative Cooling[J]. Advanced Functional Materials, 2022, 32(46). DOI: 10.1002/adfm.202207414.
 
@@ -700,31 +1200,75 @@ Ding Z, Li X, Fan X, 等. A review of the development of colored radiative cooli
 
 Wang X, Zhang Q, Wang S, 等. Sub-ambient full-color passive radiative cooling under sunlight based on efficient quantum-dot photoluminescence[J]. 中国科学通报：英文版, 2022, 67(18): 1874-1881. DOI: 10.1016/j.scib.2022.08.028.
 
+Lv S, Ji Y, Ji Y, 等. Experimental and numerical comparative investigation on 24h radiative cooling performance of a simple organic composite film[J]. Energy, 2022, 261: 125140. DOI: 10.1016/j.energy.2022.125140.
+
+Liu J, Tang H, Jiang C, 等. Micro‐Nano Porous Structure for Efficient Daytime Radiative Sky Cooling[J]. Advanced Functional Materials, 2022, 32(44). DOI: 10.1002/adfm.202206962.
+
 Yang R, Niu D, Pu J H, 等. Passive all-day freshwater harvesting through a transparent radiative cooling film[J]. Applied Energy, 2022, 325: 119801. DOI: 10.1016/j.apenergy.2022.119801.
 
 Song J N, Zhang W, Sun Z, 等. Durable radiative cooling against environmental aging[J]. Nature Communications, 2022, 13(1): 4805. DOI: 10.1038/s41467-022-32409-7.
 
+Hu M, Zhao B, Suhendri ‎, 等. Quantitative characterization of the effect of inclination angle on flat-plate radiative cooling performance in buildings[J]. Journal of Building Engineering, 2022, 59: 105124. DOI: 10.1016/j.jobe.2022.105124.
+
 Dang Y X, Tan P, Hu B, 等. Low-energy-consumption temperature swing system for CO2 capture by combining passive radiative cooling and solar heating[J]. Green Energy & Environment, 2022, 9(3): 507-515. DOI: 10.1016/j.gee.2022.08.004.
+
+Zhong S, Zhang J, Yuan S, 等. Self-assembling hierarchical flexible cellulose films assisted by electrostatic field for passive daytime radiative cooling[J]. Chemical Engineering Journal, 2022, 451: 138558. DOI: 10.1016/j.cej.2022.138558.
 
 Chen M, Pang D, Yan H. Colored passive daytime radiative cooling coatings based on dielectric and plasmonic spheres[J]. Applied Thermal Engineering, 2022, 216: 119125. DOI: 10.1016/j.applthermaleng.2022.119125.
 
+Li Y, An Z, Liu X, 等. A radiative cooling paper based on ceramic fiber for thermal management of human head[J]. Solar Energy Materials and Solar Cells, 2022, 246: 111918. DOI: 10.1016/j.solmat.2022.111918.
+
 Wang J, Xie M, An Y, 等. All-season thermal regulation with thermochromic temperature-adaptive radiative cooling coatings[J]. Solar Energy Materials and Solar Cells, 2022, 246: 111883. DOI: 10.1016/j.solmat.2022.111883.
 
+Zhu H, Wang Y, Qu M, 等. Electrospun poly(vinyl alcohol)/silica film for radiative cooling[J]. Advanced Composites and Hybrid Materials, 2022, 5(3): 1966-1975. DOI: 10.1007/s42114-022-00529-9.
+
 Zhu W, Droguet B E, Shen Q, 等. Structurally Colored Radiative Cooling Cellulosic Films[J]. Advanced Science, 2022, 9(26): e2202061. DOI: 10.1002/advs.202202061.
+
+Lim H, Chae D, Son S, 等. CaCO3 micro particle-based radiative cooling device without metal reflector for entire day[J]. Materials Today Communications, 2022, 32: 103990. DOI: 10.1016/j.mtcomm.2022.103990.
+
+Guo J, Ju S, Lee Y, 等. Photonic design for color compatible radiative cooling accelerated by materials informatics[J]. International Journal of Heat and Mass Transfer, 2022, 195: 123193. DOI: 10.1016/j.ijheatmasstransfer.2022.123193.
+
+Qi G, Tan X, Tu Y, 等. Ordered-Porous-Array Polymethyl Methacrylate Films for Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2022, 14(27): 31277-31284. DOI: 10.1021/acsami.2c06809.
 
 Xu J, Wan R, Xu W, 等. Colored radiative cooling coatings using phosphor dyes[J]. Materials Today Nano, 2022, 19: 100239. DOI: 10.1016/j.mtnano.2022.100239.
 
 Zhai H, Fan D, Li Q. Scalable and paint-format colored coatings for passive radiative cooling[J]. Solar Energy Materials and Solar Cells, 2022, 245: 111853. DOI: 10.1016/j.solmat.2022.111853.
 
+Jia L, Lu L, Chen J, 等. A novel radiative sky cooling-assisted ground-coupled heat exchanger system to improve thermal and energy efficiency for buildings in hot and humid regions[J]. Applied Energy, 2022, 322: 119422. DOI: 10.1016/j.apenergy.2022.119422.
+
+Qin M, Xiong F, Aftab W, 等. Phase-change materials reinforced intelligent paint for efficient daytime radiative cooling[J]. iScience, 2022, 25(7): 104584. DOI: 10.1016/j.isci.2022.104584.
+
 Yu S, Zhang Q, Wang Y, 等. Photonic-Structure Colored Radiative Coolers for Daytime Subambient Cooling[J]. Nano Letters, 2022, 22(12): 4925-4932. DOI: 10.1021/acs.nanolett.2c01570.
+
+Sun Y, Javed M, Ji Y, 等. Design and preparation of flexible double-layered daytime radiative cooling composite film with antifouling property[J]. Solar Energy Materials and Solar Cells, 2022, 245: 111836. DOI: 10.1016/j.solmat.2022.111836.
+
+Choi M, Seo J, Yoon S, 等. All-day radiative cooling using a grating-patterned PDMS film emitter[J]. Applied Thermal Engineering, 2022, 214: 118771. DOI: 10.1016/j.applthermaleng.2022.118771.
 
 Zhang D M, Wang H D, Huang M C, 等. Fabrication of radiative cooling film with superhydrophobic self-cleaning property[J]. Surface Innovations, 2023, 11(5): 285-296. DOI: 10.1680/jsuin.22.00015.
 
 Shanker R, Anusuyadevi P R, Gamage S, 等. Structurally Colored Cellulose Nanocrystal Films as Transreflective Radiative Coolers[J]. ACS Nano, 2022, 16(7): 10156-10162. DOI: 10.1021/acsnano.1c10959.
 
+Zhang S, Jing W, Chen Z, 等. Full daytime sub-ambient radiative cooling film with high efficiency and low cost[J]. Renewable Energy, 2022, 194: 850-857. DOI: 10.1016/j.renene.2022.05.151.
+
+Byun S, Yun J H, Heo S, 等. Self‐Cooling Gallium‐Based Transformative Electronics with a Radiative Cooler for Reliable Stiffness Tuning in Outdoor Use[J]. Advanced Science, 2022, 9(24): e2202549. DOI: 10.1002/advs.202202549.
+
+Cai X, Wang Y, Luo Y, 等. Rationally Tuning Phase Separation in Polymeric Membranes toward Optimized All-day Passive Radiative Coolers[J]. ACS Applied Materials & Interfaces, 2022, 14(23): 27222-27232. DOI: 10.1021/acsami.2c05943.
+
+Kiyaee S, Khalilmoghadam P, Shafii M B, 等. Investigation of a radiative sky cooling module using phase change material as the energy storage[J]. Applied Energy, 2022, 321: 119357. DOI: 10.1016/j.apenergy.2022.119357.
+
+Liu Y, Zhang H, Zhang Y, 等. Rendering passive radiative cooling capability to cotton textile by an alginate/CaCO3 coating via synergistic light manipulation and high water permeation[J]. Composites Part B Engineering, 2022, 240: 109988. DOI: 10.1016/j.compositesb.2022.109988.
+
+Wu Y, Zhao H, Sun H, 等. A review of the application of radiative sky cooling in buildings: Challenges and optimization[J]. Energy Conversion and Management, 2022, 265: 115768. DOI: 10.1016/j.enconman.2022.115768.
+
 Jin S, Xiao M, Chen J, 等. Nanocomposite coatings with plasmonic structural colors for subambient daytime radiative cooling[J]. Solar Energy, 2022, 240: 211-224. DOI: 10.1016/j.solener.2022.05.023.
 
+Liu J, Xu C, Ao X, 等. A dual-layer polymer-based film for all-day sub-ambient radiative sky cooling[J]. Energy, 2022, 254: 124350. DOI: 10.1016/j.energy.2022.124350.
+
 Ding Z, Pattelli L, Xü H, 等. Iridescent Daytime Radiative Cooling with No Absorption Peaks in the Visible Range[J]. Small, 2022, 18(25): e2202400. DOI: 10.1002/smll.202202400.
+
+Ly K C S, Liu X, Song X, 等. A Dual‐Mode Infrared Asymmetric Photonic Structure for All‐Season Passive Radiative Cooling and Heating[J]. Advanced Functional Materials, 2022, 32(31). DOI: 10.1002/adfm.202203789.
+
+Iqbal M I, Lin K, Sun F, 等. Radiative Cooling Nanofabric for Personal Thermal Management[J]. ACS Applied Materials & Interfaces, 2022, 14(20): 23577-23587. DOI: 10.1021/acsami.2c05115.
 
 Fei J, Han D, Ge J, 等. Switchable Surface Coating for Bifunctional Passive Radiative Cooling and Solar Heating[J]. Advanced Functional Materials, 2022, 32(27). DOI: 10.1002/adfm.202203582.
 
@@ -734,13 +1278,43 @@ Zhu Y, Luo H, Yang C, 等. Color-preserving passive radiative cooling for an act
 
 Hu L C, Xue C, Liu B, 等. Scalable Superhydrophobic Flexible Nanofiber Film for Passive Daytime Radiative Cooling[J]. ACS Applied Polymer Materials, 2022, 4(5): 3343-3351. DOI: 10.1021/acsapm.1c01907.
 
+Yang C, Sun X, Hu H, 等. Scalable fabrication of PVDF/SiO2-PTFE fiber membrane for effective daytime radiative cooling[J]. Materials Letters, 2022, 320: 132372. DOI: 10.1016/j.matlet.2022.132372.
+
+Shan X, Liu L, Wu Y, 等. Aerogel‐Functionalized Thermoplastic Polyurethane as Waterproof, Breathable Freestanding Films and Coatings for Passive Daytime Radiative Cooling[J]. Advanced Science, 2022, 9(20): e2201190. DOI: 10.1002/advs.202201190.
+
+Dong Y, Han H, Wang F, 等. A low-cost sustainable coating: Improving passive daytime radiative cooling performance using the spectral band complementarity method[J]. Renewable Energy, 2022, 192: 606-616. DOI: 10.1016/j.renene.2022.04.093.
+
+Liu Y, Tian Y, Liu X, 等. Intelligent regulation of VO2-PDMS-driven radiative cooling[J]. Applied Physics Letters, 2022, 120(17). DOI: 10.1063/5.0089353.
+
+Sun K, Xiao W, Wheeler C, 等. VO 2 metasurface smart thermal emitter with high visual transparency for passive radiative cooling regulation in space and terrestrial applications[J]. Nanophotonics, 2022, 11(17): 4101-4114. DOI: 10.1515/nanoph-2022-0020.
+
 Chae D, Kim M, Lim H, 等. Selectively emissive fluoropolymer film for passive daytime radiative cooling[J]. Optical Materials, 2022, 128: 112273. DOI: 10.1016/j.optmat.2022.112273.
+
+Zhang H, Huang J, Fan D. Switchable Radiative Cooling from Temperature-Responsive Thermal Resistance Modulation[J]. ACS Applied Energy Materials, 2022, 5(5): 6003-6010. DOI: 10.1021/acsaem.2c00421.
+
+Liu C, Feng S, He M, 等. 3D Porous cellulose/Si-Al inorganic polymer photonic film with precisely structure-enhanced solar reflectivity for daytime radiative cooling[J]. Materials Today Communications, 2022, 31: 103530. DOI: 10.1016/j.mtcomm.2022.103530.
+
+Dai B, Li X, Xu T, 等. Radiative Cooling and Solar Heating Janus Films for Personal Thermal Management[J]. ACS Applied Materials & Interfaces, 2022, 14(16): 18877-18883. DOI: 10.1021/acsami.2c01370.
+
+Pirvaram A, Talebzadeh N, Leung S N, 等. Radiative cooling for buildings: A review of techno-enviro-economics and life-cycle assessment methods[J]. Renewable and Sustainable Energy Reviews, 2022, 162: 112415. DOI: 10.1016/j.rser.2022.112415.
 
 Liu H, Kang H, Jia X, 等. Commercial‐Like Self‐Cleaning Colored ZrO 2 ‐Based Bilayer Coating for Remarkable Daytime Sub‐Ambient Radiative Cooling[J]. Advanced Materials Technologies, 2022, 7(10). DOI: 10.1002/admt.202101583.
 
+Huang M C, Xue C, Huang J, 等. A hierarchically structured self-cleaning energy-free polymer film for daytime radiative cooling[J]. Chemical Engineering Journal, 2022, 442: 136239. DOI: 10.1016/j.cej.2022.136239.
+
+Lv J, Chen Z, Li X. Calcium Phosphate Paints for Full-Daytime Subambient Radiative Cooling[J]. ACS Applied Energy Materials, 2022, 5(4): 4117-4124. DOI: 10.1021/acsaem.1c03457.
+
 Hu D, Sun S, Du P, 等. Hollow Core-Shell Particle-Containing Coating for Passive Daytime Radiative Cooling[J]. Composites Part A Applied Science and Manufacturing, 2022, 158: 106949. DOI: 10.1016/j.compositesa.2022.106949.
 
+Zhao X, Aili A, Zhao D, 等. Dynamic glazing with switchable solar reflectance for radiative cooling and solar heating[J]. Cell Reports Physical Science, 2022, 3(4): 100853. DOI: 10.1016/j.xcrp.2022.100853.
+
 Chao Y, Zheng C, Luo X, 等. Study on Passenger Cabin under Passive Radiative Cooling Film[J]. SAE technical papers on CD-ROM/SAE technical paper series, 2022, 1. DOI: 10.4271/2022-01-0191.
+
+Gao K, Shen H, Liu Y, 等. Random inverted pyramid textured polydimethylsiloxane radiative cooling emitter for the heat dissipation of silicon solar cells[J]. Solar Energy, 2022, 236: 703-711. DOI: 10.1016/j.solener.2022.03.040.
+
+Perrakis G, Tasolamprou A C, Kenanakis G, 等. Submicron Organic–Inorganic Hybrid Radiative Cooling Coatings for Stable, Ultrathin, and Lightweight Solar Cells[J]. ACS Photonics, 2022, 9(4): 1327-1337. DOI: 10.1021/acsphotonics.1c01935.
+
+Min S, Jeon S, Yun K, 等. All-Color Sub-ambient Radiative Cooling Based on Photoluminescence[J]. ACS Photonics, 2022, 9(4): 1196-1205. DOI: 10.1021/acsphotonics.1c01648.
 
 Tam H T T, Toma M, Kajikawa K. Investigation of polyesters as daytime radiative cooling materials[J]. Molecular Crystals and Liquid Crystals, 2022, 741(1): 17-23. DOI: 10.1080/15421406.2022.2038458.
 
@@ -748,39 +1322,71 @@ Seo D H, Heo S, Kim D H, 等. Spatially-Segmented Colored Radiative Cooler With 
 
 Zhang Q, Wang S, Wang X, 等. Recent Progress in Daytime Radiative Cooling: Advanced Material Designs and Applications[J]. Small Methods, 2022, 6(4): e2101379. DOI: 10.1002/smtd.202101379.
 
+Li J, Liang Y, Li W, 等. Protecting ice from melting under sunlight via radiative cooling[J]. Science Advances, 2022, 8(6): eabj9756. DOI: 10.1126/sciadv.abj9756.
+
 Zhao D, Qiu M. Thermal photonics boosts radiative cooling[J]. Light Science & Applications, 2022, 11(1): 35. DOI: 10.1038/s41377-021-00691-7.
 
 Zhang X, Yang W, Shao Z, 等. A Moisture-Wicking Passive Radiative Cooling Hierarchical Metafabric[J]. ACS Nano, 2022, 16(2): 2188-2197. DOI: 10.1021/acsnano.1c08227.
+
+Khan A, Carlosena L, Feng J, 等. Optically Modulated Passive Broadband Daytime Radiative Cooling Materials Can Cool Cities in Summer and Heat Cities in Winter[J]. Sustainability, 2022, 14(3): 1110. DOI: 10.3390/su14031110.
+
+Lin C, Li Y, Chi C, 等. A Solution‐Processed Inorganic Emitter with High Spectral Selectivity for Efficient Subambient Radiative Cooling in Hot Humid Climates[J]. Advanced Materials, 2022, 34(12): e2109350. DOI: 10.1002/adma.202109350.
+
+Xue C, Wei R X, Guo X J, 等. Fabrication of superhydrophobic P(VDF-HFP)/SiO2 composite film for stable radiative cooling[J]. Composites Science and Technology, 2022, 220: 109279. DOI: 10.1016/j.compscitech.2022.109279.
+
+Jaramillo‐Fernandez J, Yang H S, Schertel L, 等. Highly‐Scattering Cellulose‐Based Films for Radiative Cooling[J]. Advanced Science, 2022, 9(8): e2104758. DOI: 10.1002/advs.202104758.
 
 Dong S, Wu Q, Zhang W, 等. Slippery Passive Radiative Cooling Supramolecular Siloxane Coatings[J]. ACS Applied Materials & Interfaces, 2022, 14(3): 4571-4578. DOI: 10.1021/acsami.1c22673.
 
 Fu Y, An Y, Xu Y, 等. Polymer coating with gradient‐dispersed dielectric nanoparticles for enhanced daytime radiative cooling[J]. EcoMat, 2022, 4(2). DOI: 10.1002/eom2.12169.
 
+Ma Z, Zhao D, Wang F, 等. A novel thermal comfort and energy saving evaluation model for radiative cooling and heating textiles[J]. Energy and Buildings, 2022, 258: 111842. DOI: 10.1016/j.enbuild.2022.111842.
+
 Liu Y, Hou S, Wang X, 等. Passive Radiative Cooling Enables Improved Performance in Wearable Thermoelectric Generators[J]. Small, 2022, 18(10): e2106875. DOI: 10.1002/smll.202106875.
 
 Mei X, Wang T, Chen M, 等. A self-adaptive film for passive radiative cooling and solar heating regulation[J]. Journal of Materials Chemistry A, 2022, 10(20): 11092-11100. DOI: 10.1039/d2ta01291j.
 
+Lee J, Jung Y, Lee M J, 等. Biomimetic reconstruction of butterfly wing scale nanostructures for radiative cooling and structural coloration[J]. Nanoscale Horizons, 2022, 7(9): 1054-1064. DOI: 10.1039/d2nh00166g.
+
 Xu J, Wan R, Xu W, 等. Colored Radiative Cooling Coatings Using Phosphor Dyes[J]. SSRN Electronic Journal, 2022. DOI: 10.2139/ssrn.4045987.
+
+Ma X, Fu Y, Portniagin A, 等. Effects of Stokes shift and Purcell enhancement on fluorescence-assisted radiative cooling[J]. Journal of Materials Chemistry A, 2022, 10(37): 19635-19640. DOI: 10.1039/d2ta02259a.
+
+Cheng N, Miao D, Wang C, 等. Nanosphere-Structured Hierarchically Porous Pvdf-Hfp Fabric for Passive Daytime Radiative Cooling Via One-Step Water Vapor-Induced Phase Separation[J]. Chemical Engineering Journal, 2022, 460: 141581. DOI: 10.1016/j.cej.2023.141581.
 
 Sun H Y, Hou C, Ji T, 等. Processing Bulk Wood into a Light-Permeable Passive Radiative Cooling Material for Energy-Efficient Building[J]. Composites Part B Engineering, 2022, 250: 110426. DOI: 10.1016/j.compositesb.2022.110426.
 
 Huang T, Chen Q, Huang J, 等. Scalable Colored Sub-Ambient Radiative Coolers Based on a Polymer-Tamm Photonic Structure[J]. ACS Applied Materials & Interfaces, 2022, 15(12): 16277-16287. DOI: 10.1021/acsami.2c23270.
 
+Chen M, Pang D, Yan H. Sustainable and self-cleaning bilayer coatings for high-efficiency daytime radiative cooling[J]. Journal of Materials Chemistry C, 2022, 10(21): 8329-8338. DOI: 10.1039/d2tc00834c.
+
+Xie X, Yang L, Zhu Y L, 等. Enhanced IR Radiative Cooling of Silver Coated PA Textile[J]. Polymers, 2021, 14(1): 147. DOI: 10.3390/polym14010147.
+
 Ji Y, Sun Y, Javed M, 等. Fabrication of Hydrophobic Multilayered Fabric for Passive Daytime Radiative Cooling[J]. Macromolecular Materials and Engineering, 2021, 307(4). DOI: 10.1002/mame.202100795.
 
 Yuan J, Yin H, Yuan D, 等. On daytime radiative cooling using spectrally selective metamaterial based building envelopes[J]. Energy, 2021, 242: 122779. DOI: 10.1016/j.energy.2021.122779.
+
+Heo S, Kim D H, Song Y M, 等. Determining the Effectiveness of Radiative Cooler‐Integrated Solar Cells[J]. Advanced Energy Materials, 2021, 12(10). DOI: 10.1002/aenm.202103258.
 
 Wang S, Jiang T, Meng Y, 等. Scalable thermochromic smart windows with passive radiative cooling regulation[J]. Science, 2021, 374(6574): 1501-1504. DOI: 10.1126/science.abg0291.
 
 Tang K, Dong K, Li J, 等. Temperature-adaptive radiative coating for all-season household thermal regulation[J]. Science, 2021, 374(6574): 1504-1509. DOI: 10.1126/science.abf7136.
 
+Zhao Y, Pang D, Chen M, 等. Scalable aqueous processing-based radiative cooling coatings for heat dissipation applications[J]. Applied Materials Today, 2021, 26: 101298. DOI: 10.1016/j.apmt.2021.101298.
+
 Tu Y, Tan X, Yang X, 等. Passive radiative cooling for crystalline silicon solar cells[J]. International Conference on Power System Technology (POWERCON), 2021, : 2459-2462. DOI: 10.1109/powercon53785.2021.9697901.
 
 Sun J, Wang J, Guo T, 等. Daytime passive radiative cooling materials based on disordered media: A review[J]. Solar Energy Materials and Solar Cells, 2021, 236: 111492. DOI: 10.1016/j.solmat.2021.111492.
 
+Qi M, Wu T, Wang Z, 等. Progress in Metafibers for Sustainable Radiative Cooling and Prospects of Achieving Thermally Drawn Metafibers[J]. Advanced Energy and Sustainability Research, 2021, 3(5). DOI: 10.1002/aesr.202100168.
+
+So S, Yang Y, Son S, 等. Highly suppressed solar absorption in a daytime radiative cooler designed by genetic algorithm[J]. Nanophotonics, 2021, 11(9): 2107-2115. DOI: 10.1515/nanoph-2021-0436.
+
 Zhu B, Li W, Zhang Q, 等. Subambient daytime radiative cooling textile based on nanoprocessed silk[J]. Nature Nanotechnology, 2021, 16(12): 1342-1348. DOI: 10.1038/s41565-021-00987-0.
 
 Cui Y Q, Luo X, Zhang F, 等. Progress of passive daytime radiative cooling technologies towards commercial applications[J]. Particuology, 2021, 67: 57-67. DOI: 10.1016/j.partic.2021.10.004.
+
+Hu M, Zhao B, Suhendri S, 等. Experimental study on a hybrid solar photothermic and radiative cooling collector equipped with a rotatable absorber/emitter plate[J]. Applied Energy, 2021, 306: 118096. DOI: 10.1016/j.apenergy.2021.118096.
 
 Chen M, Pang D, Chen X, 等. Passive daytime radiative cooling: Fundamentals, material designs, and applications[J]. EcoMat, 2021, 4(1). DOI: 10.1002/eom2.12153.
 
@@ -788,13 +1394,35 @@ Wang C, Yu Z, Zhou M, 等. Topology optimization of thermophotonic problem for d
 
 Lei M Q, Hu Y F, Song Y N, 等. Transparent radiative cooling films containing poly(methylmethacrylate), silica, and silver[J]. Optical Materials, 2021, 122: 111651. DOI: 10.1016/j.optmat.2021.111651.
 
+Huang J, Li M, Fan D. Core-shell particles for devising high-performance full-day radiative cooling paint[J]. Applied Materials Today, 2021, 25: 101209. DOI: 10.1016/j.apmt.2021.101209.
+
 Tao S, Guan F, Chen F, 等. Construction of colorful super-omniphobic emitters for high-efficiency passive radiative cooling[J]. Composites Communications, 2021, 28: 100975. DOI: 10.1016/j.coco.2021.100975.
+
+Aili A, Yin X, Yang R. Global Radiative Sky Cooling Potential Adjusted for Population Density and Cooling Demand[J]. Atmosphere, 2021, 12(11): 1379. DOI: 10.3390/atmos12111379.
+
+Zhou L, Zhao J, Huang H Y, 等. Flexible Polymer Photonic Films with Embedded Microvoids for High-Performance Passive Daytime Radiative Cooling[J]. ACS Photonics, 2021, 8(11): 3301-3307. DOI: 10.1021/acsphotonics.1c01149.
 
 Zhou L, Rada J, Zhang H, 等. Sustainable and Inexpensive Polydimethylsiloxane Sponges for Daytime Radiative Cooling[J]. Advanced Science, 2021, 8(23): e2102502. DOI: 10.1002/advs.202102502.
 
+Li P, Wang A, Fan J, 等. Thermo‐Optically Designed Scalable Photonic Films with High Thermal Conductivity for Subambient and Above‐Ambient Radiative Cooling[J]. Advanced Functional Materials, 2021, 32(5). DOI: 10.1002/adfm.202109542.
+
+Sun Y, Ji Y, Javed M, 等. Preparation of Passive Daytime Cooling Fabric with the Synergistic Effect of Radiative Cooling and Evaporative Cooling[J]. Advanced Materials Technologies, 2021, 7(3). DOI: 10.1002/admt.202100803.
+
 Zhou L, Rada J, Song H, 等. Colorful surfaces for radiative cooling[J]. Journal of Photonics for Energy, 2021, 11(04): 1-11. DOI: 10.1117/1.jpe.11.042107.
 
+Lee K W, Lim W, Jeon M S, 等. Visibly Clear Radiative Cooling Metamaterials for Enhanced Thermal Management in Solar Cells and Windows[J]. Advanced Functional Materials, 2021, 32(1). DOI: 10.1002/adfm.202105882.
+
 Mishra B R, Sundaram S, Varghese N J, 等. Disordered metamaterial coating for daytime passive radiative cooling[J]. AIP Advances, 2021, 11(10). DOI: 10.1063/5.0064572.
+
+Lin K, Chao L, Lee H H, 等. Potential building energy savings by passive strategies combining daytime radiative coolers and thermochromic smart windows[J]. Case Studies in Thermal Engineering, 2021, 28: 101517. DOI: 10.1016/j.csite.2021.101517.
+
+Wang J, Sun J, Guo T, 等. High‐Strength Flexible Membrane with Rational Pore Architecture as a Selective Radiator for High‐Efficiency Daytime Radiative Cooling[J]. Advanced Materials Technologies, 2021, 7(1). DOI: 10.1002/admt.202100528.
+
+Liu X, Xiao C, Wang P, 等. Biomimetic Photonic Multiform Composite for High‐Performance Radiative Cooling[J]. Advanced Optical Materials, 2021, 9(22). DOI: 10.1002/adom.202101151.
+
+Yang Z, Zhang J. Bioinspired Radiative Cooling Structure with Randomly Stacked Fibers for Efficient All-Day Passive Cooling[J]. ACS Applied Materials & Interfaces, 2021, 13(36): 43387-43395. DOI: 10.1021/acsami.1c12267.
+
+Wang W, Zou Q, Wang N, 等. Janus Multilayer for Radiative Cooling and Heating in Double-Side Photonic Thermal System[J]. ACS Applied Materials & Interfaces, 2021, 13(36): 42813-42821. DOI: 10.1021/acsami.1c11552.
 
 Lin K, Chao L, Ho T C, 等. A flexible and scalable solution for daytime passive radiative cooling using polymer sheets[J]. Energy and Buildings, 2021, 252: 111400. DOI: 10.1016/j.enbuild.2021.111400.
 
@@ -802,11 +1430,23 @@ Yoon T Y, Son S, Min S, 等. Colloidal deposition of colored daytime radiative c
 
 Jayathilaka W A D M, Chinnappan A, Ghosh R, 等. Highly Efficient Polystyrene/Metal Oxide Fiber Composites for Passive Radiative Cooling[J]. Advanced Engineering Materials, 2021, 24(1). DOI: 10.1002/adem.202100694.
 
+Chen J, Lu L, Gong Q, 等. Techno-economic and environmental performance assessment of radiative sky cooling-based super-cool roof applications in China[J]. Energy Conversion and Management, 2021, 245: 114621. DOI: 10.1016/j.enconman.2021.114621.
+
+Wang S, Zhou Y, Jiang T, 等. Thermochromic smart windows with highly regulated radiative cooling and solar transmission[J]. Nano Energy, 2021, 89: 106440. DOI: 10.1016/j.nanoen.2021.106440.
+
+Zhao B, Wang C, Hu M, 等. Light and thermal management of the semi-transparent radiative cooling glass for buildings[J]. Energy, 2021, 238: 121761. DOI: 10.1016/j.energy.2021.121761.
+
 Yang L, Feng C, Bai L, 等. Flexible shape-stabilized phase change materials with passive radiative cooling capability for thermal management[J]. Chemical Engineering Journal, 2021, 425: 131466. DOI: 10.1016/j.cej.2021.131466.
+
+Gamage S, Banerjee D, Alam M M, 等. Reflective and transparent cellulose-based passive radiative coolers[J]. Cellulose, 2021, 28(14): 9383-9393. DOI: 10.1007/s10570-021-04112-1.
+
+Chen X, He M, Feng S, 等. Cellulose-based porous polymer film with auto-deposited TiO2 as spectrally selective materials for passive daytime radiative cooling[J]. Optical Materials, 2021, 120: 111431. DOI: 10.1016/j.optmat.2021.111431.
 
 Zhai Q, Zhu Q. Radiative cooling film with self-cleaning function[J]. Solar Energy Materials and Solar Cells, 2021, 228: 111117. DOI: 10.1016/j.solmat.2021.111117.
 
 Cheng Z, Han H, Wang F, 等. Efficient radiative cooling coating with biomimetic human skin wrinkle structure[J]. Nano Energy, 2021, 89: 106377. DOI: 10.1016/j.nanoen.2021.106377.
+
+Wang K, Luo G, Guo X, 等. Radiative cooling of commercial silicon solar cells using a pyramid-textured PDMS film[J]. Solar Energy, 2021, 225: 245-251. DOI: 10.1016/j.solener.2021.07.025.
 
 Wang X, Liu Y, Zhao W, 等. Colored radiative cooling: How to balance color display and radiative cooling performance[J]. International Journal of Thermal Sciences, 2021, 170: 107172. DOI: 10.1016/j.ijthermalsci.2021.107172.
 
@@ -814,11 +1454,31 @@ Yalçın R A, Blandre E, Joulain K, 等. Colored radiative cooling coatings with
 
 Zeng S, Pian S, Su M, 等. Hierarchical-morphology metafabric for scalable passive daytime radiative cooling[J]. Science, 2021, 373(6555): 692-696. DOI: 10.1126/science.abi5484.
 
+Vilà R, Martorell I, Medrano M, 等. Adaptive covers for combined radiative cooling and solar heating. A review of existing technology and materials[J]. Solar Energy Materials and Solar Cells, 2021, 230: 111275. DOI: 10.1016/j.solmat.2021.111275.
+
 Wang H, Xue C, Guo X J, 等. Superhydrophobic porous film for daytime radiative cooling[J]. Applied Materials Today, 2021, 24: 101100. DOI: 10.1016/j.apmt.2021.101100.
+
+Tian Y, Liu X, Li J, 等. Scalable, fire-retardant, and spectrally robust melamine-formaldehyde photonic bulk for efficient daytime radiative cooling[J]. Applied Materials Today, 2021, 24: 101103. DOI: 10.1016/j.apmt.2021.101103.
+
+Feng J, Khan A, Doan Q, 等. The heat mitigation potential and climatic impact of super-cool broadband radiative coolers on a city scale[J]. Cell Reports Physical Science, 2021, 2(7): 100485. DOI: 10.1016/j.xcrp.2021.100485.
+
+Chowdhury F I, Xu Q, Sinha K, 等. Cellulose-upgraded polymer films for radiative sky cooling[J]. Journal of Quantitative Spectroscopy and Radiative Transfer, 2021, 272: 107824. DOI: 10.1016/j.jqsrt.2021.107824.
+
+Yu X, Chan J, Chen C. Review of radiative cooling materials: Performance evaluation and design approaches[J]. Nano Energy, 2021, 88: 106259. DOI: 10.1016/j.nanoen.2021.106259.
+
+Jing W, Zhang S, Zhang W, 等. Scalable and Flexible Electrospun Film for Daytime Subambient Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2021, 13(25): 29558-29566. DOI: 10.1021/acsami.1c05364.
+
+Perrakis G, Tasolamprou A C, Kenanakis G, 等. Combined nano and micro structuring for enhanced radiative cooling and efficiency of photovoltaic cells[J]. Scientific Reports, 2021, 11(1): 11552. DOI: 10.1038/s41598-021-91061-1.
+
+Weng Y, Zhang W, Jiang Y, 等. Effective daytime radiative cooling via a template method based PDMS sponge emitter with synergistic thermo-optical activity[J]. Solar Energy Materials and Solar Cells, 2021, 230: 111205. DOI: 10.1016/j.solmat.2021.111205.
 
 Liu Y, Li J, Liu C. Surface Pattern over a Thick Silica Film to Realize Passive Radiative Cooling[J]. Materials, 2021, 14(10): 2637. DOI: 10.3390/ma14102637.
 
 Chen G, Wang Y, Qiu J, 等. A facile bioinspired strategy for accelerating water collection enabled by passive radiative cooling and wettability engineering[J]. Materials & Design, 2021, 206: 109829. DOI: 10.1016/j.matdes.2021.109829.
+
+Banik U, Agrawal A, Meddeb H, 等. Efficient Thin Polymer Coating as a Selective Thermal Emitter for Passive Daytime Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2021, 13(20): 24130-24137. DOI: 10.1021/acsami.1c04056.
+
+Zhang Y, Tan X, Qi G, 等. Effective radiative cooling with ZrO2/PDMS reflective coating[J]. Solar Energy Materials and Solar Cells, 2021, 229: 111129. DOI: 10.1016/j.solmat.2021.111129.
 
 Tian Y, Shao H, Liu X, 等. Superhydrophobic and Recyclable Cellulose-Fiber-Based Composites for High-Efficiency Passive Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2021, 13(19): 22521-22530. DOI: 10.1021/acsami.1c04046.
 
@@ -826,11 +1486,33 @@ Chae D, Lim H, So S, 等. Spectrally Selective Nanoparticle Mixture Coating for 
 
 Wang S, Wang Y, Zou Y, 等. Biologically Inspired Scalable-Manufactured Dual-layer Coating with a Hierarchical Micropattern for Highly Efficient Passive Radiative Cooling and Robust Superhydrophobicity[J]. ACS Applied Materials & Interfaces, 2021, 13(18): 21888-21897. DOI: 10.1021/acsami.1c05651.
 
+Chen G, Wang Y, Qiu J, 等. A visibly transparent radiative cooling film with self-cleaning function produced by solution processing[J]. Journal of Material Science and Technology, 2021, 90: 76-84. DOI: 10.1016/j.jmst.2021.01.092.
+
+Chen M, Pang D, Chen X, 等. Enhancing infrared emission behavior of polymer coatings for radiative cooling applications[J]. Journal of Physics D Applied Physics, 2021, 54(29): 295501. DOI: 10.1088/1361-6463/abfb19.
+
+Kim M, Lee D, Son S, 等. Visibly Transparent Radiative Cooler under Direct Sunlight[J]. Advanced Optical Materials, 2021, 9(13). DOI: 10.1002/adom.202002226.
+
+Ma H, Wang L, Dou S, 等. Flexible Daytime Radiative Cooling Enhanced by Enabling Three-Phase Composites with Scattering Interfaces between Silica Microspheres and Hierarchical Porous Coatings[J]. ACS Applied Materials & Interfaces, 2021, 13(16): 19282-19290. DOI: 10.1021/acsami.1c02145.
+
 Li X, Peoples J, Yao P, 等. Ultrawhite BaSO 4 Paints and Films for Remarkable Daytime Subambient Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2021, 13(18): 21733-21739. DOI: 10.1021/acsami.1c02368.
+
+Yang Z, Sun H, Xi Y, 等. Bio-inspired structure using random, three-dimensional pores in the polymeric matrix for daytime radiative cooling[J]. Solar Energy Materials and Solar Cells, 2021, 227: 111101. DOI: 10.1016/j.solmat.2021.111101.
+
+Whitworth G L, Jaramillo‐Fernandez J, Pariente J Á, 等. Simulations of micro-sphere/shell 2D silica photonic crystals for radiative cooling[J]. Optics Express, 2021, 29(11): 16857. DOI: 10.1364/oe.420989.
 
 Ulpiani G, Ranzi G, Feng J, 等. Expanding the applicability of daytime radiative cooling: Technological developments and limitations[J]. Energy and Buildings, 2021, 243: 110990. DOI: 10.1016/j.enbuild.2021.110990.
 
+Chen M, Pang D, Chen X, 等. Investigating the effective radiative cooling performance of random dielectric microsphere coatings[J]. International Journal of Heat and Mass Transfer, 2021, 173: 121263. DOI: 10.1016/j.ijheatmasstransfer.2021.121263.
+
 Zhou M, Song H, Xu X, 等. Vapor condensation with daytime radiative cooling[J]. Proceedings of the National Academy of Sciences, 2021, 118(14). DOI: 10.1073/pnas.2019292118.
+
+Farooq A S, Zhang P, Gao Y, 等. Emerging radiative materials and prospective applications of radiative sky cooling - A review[J]. Renewable and Sustainable Energy Reviews, 2021, 144: 110910. DOI: 10.1016/j.rser.2021.110910.
+
+Zhu H, Li Q, Tao C, 等. Multispectral camouflage for infrared, visible, lasers and microwave with radiative cooling[J]. Nature Communications, 2021, 12(1): 1805. DOI: 10.1038/s41467-021-22051-0.
+
+Chae D, Son S, Lim H C, 等. Scalable and paint-format microparticle–polymer composite enabling high-performance daytime radiative cooling[J]. Materials Today Physics, 2021, 18: 100389. DOI: 10.1016/j.mtphys.2021.100389.
+
+Zhang J, Zhou Z, Tang H, 等. Mechanically Robust and Spectrally Selective Convection Shield for Daytime Subambient Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2021, 13(12): 14132-14140. DOI: 10.1021/acsami.0c21204.
 
 Pradhan J K, Pratap D, Ramakrishna S A. Thin nanoporous anodic alumina film on aluminium for passive radiative cooling[J]. Pramana, 2021, 95(1). DOI: 10.1007/s12043-021-02076-2.
 
@@ -840,9 +1522,13 @@ Zhang J, Zhou Z, Quan J, 等. A flexible film to block solar radiation for dayti
 
 Huang W, Chen Y, Luo Y, 等. Scalable Aqueous Processing‐Based Passive Daytime Radiative Cooling Coatings[J]. Advanced Functional Materials, 2021, 31(19). DOI: 10.1002/adfm.202010334.
 
+Li Z, Ahmed S, Ma T. Investigating the Effect of Radiative Cooling on the Operating Temperature of Photovoltaic Modules[J]. Solar RRL, 2021, 5(4). DOI: 10.1002/solr.202000735.
+
 Dang S, Xiang J, Yao H, 等. Radiative cooling of colored paint based on Fe3+ doped Y2Ce2O7[J]. arXiv (Cornell University), 2021. DOI: 10.48550/arxiv.2102.12686.
 
 Chen M, Pang D, Mandal J, 等. Designing Mesoporous Photonic Structures for High-Performance Passive Daytime Radiative Cooling[J]. Nano Letters, 2021, 21(3): 1412-1418. DOI: 10.1021/acs.nanolett.0c04241.
+
+Zhou K X, Miljkovic N, Cai L. Performance analysis on system-level integration and operation of daytime radiative cooling technology for air-conditioning in buildings[J]. Energy and Buildings, 2021, 235: 110749. DOI: 10.1016/j.enbuild.2021.110749.
 
 Zhou K X, Li W, Patel B B, 等. Three-Dimensional Printable Nanoporous Polymer Matrix Composites for Daytime Radiative Cooling[J]. Nano Letters, 2021, 21(3): 1493-1499. DOI: 10.1021/acs.nanolett.0c04810.
 
@@ -854,9 +1540,15 @@ Yang Y. Designing Porous Polymers for Daytime Radiative Cooling[J]. Video Procee
 
 Jenblat S S, Volkova O V. Estimation of multi-layer coating efficiency for passive radiative cooling[J]. Omsk Scientific Bulletin Series Aviation-Rocket and Power Engineering, 2021, 5(2): 37-46. DOI: 10.25206/2588-0373-2021-5-2-37-46.
 
+Han D, Fei J, Mandal J, 等. Highly Reflective Polymeric Coating for Passive Radiative Cooling Under Tropical Climate[J]. Solar Energy Materials and Solar Cells, 2021, 240: 111723. DOI: 10.1016/j.solmat.2022.111723.
+
 Hebrink T, Zehentmaier S. Passive radiative cooling[J]. International Conference on Textile Composites and Inflatable Structures (STRUCTURAL MEMBRANES), 2021. DOI: 10.23967/membranes.2021.013.
 
 Perrakis G, Tasolamprou A C, Kenanakis G, 等. Passive radiative cooling for the temperature and efficiency control of photovoltaics[J]. Conference on Lasers and Electro-Optics, 2021, : ATh4E.5. DOI: 10.1364/cleo_at.2021.ath4e.5.
+
+Dumoulin J, Drouard E, Amara M. Radiative sky cooling of solar cells: fundamental modelling and cooling potential of single-junction devices[J]. Sustainable Energy & Fuels, 2021, 5(7): 2085-2096. DOI: 10.1039/d0se01536a.
+
+Kim M, Lee D, Yang Y, 等. Switchable diurnal radiative cooling by doped VO2[J]. Opto-Electronic Advances, 2021, 4(5): 200006. DOI: 10.29026/oea.2021.200006.
 
 Hannah K. Tailoring Optical and Thermal Properties of Nanostructured Materials for Passive Radiative Cooling[J]. Deep Blue (University of Michigan), 2021. DOI: 10.7302/2967.
 
@@ -864,9 +1556,15 @@ Zhang Y, Chen X, Cai B, 等. Photonics Empowered Passive Radiative Cooling[J]. A
 
 Zhu Y, Ye Y, Wang D, 等. Simple dual-layer emitter for daytime radiative cooling[J]. OSA Continuum, 2020, 4(2): 416. DOI: 10.1364/osac.398685.
 
+Kim G, Park K, Hwang K, 等. Black textile with bottom metallized surface having enhanced radiative cooling under solar irradiation[J]. Nano Energy, 2020, 82: 105715. DOI: 10.1016/j.nanoen.2020.105715.
+
+Son S, Liu Y, Chae D, 等. Cross-Linked Porous Polymeric Coating without a Metal-Reflective Layer for Sub-Ambient Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2020, 12(52): 57832-57839. DOI: 10.1021/acsami.0c14792.
+
 Kim M, Seo J, Yoon S, 等. Optimization and performance analysis of a multilayer structure for daytime radiative cooling[J]. Journal of Quantitative Spectroscopy and Radiative Transfer, 2020, 260: 107475. DOI: 10.1016/j.jqsrt.2020.107475.
 
 Li X, Sun B, Sui C, 等. Integration of daytime radiative cooling and solar heating for year-round energy saving in buildings[J]. Nature Communications, 2020, 11(1): 6101. DOI: 10.1038/s41467-020-19790-x.
+
+Jeon S, Son S, Lee S Y, 等. Multifunctional Daytime Radiative Cooling Devices with Simultaneous Light-Emitting and Radiative Cooling Functional Layers[J]. ACS Applied Materials & Interfaces, 2020, 12(49): 54763-54772. DOI: 10.1021/acsami.0c16241.
 
 Zhong S, Yi L, Zhang J, 等. Self-cleaning and spectrally selective coating on cotton fabric for passive daytime radiative cooling[J]. Chemical Engineering Journal, 2020, 407: 127104. DOI: 10.1016/j.cej.2020.127104.
 
@@ -874,7 +1572,11 @@ Suhendri ‎, Hu M, Su Y, 等. Implementation of Passive Radiative Cooling Techn
 
 Chen G, Wang Y, Qiu J, 等. Robust Inorganic Daytime Radiative Cooling Coating Based on a Phosphate Geopolymer[J]. ACS Applied Materials & Interfaces, 2020, 12(49): 54963-54971. DOI: 10.1021/acsami.0c15799.
 
+Anand J, Sailor D J, Baniassadi A. The relative role of solar reflectance and thermal emittance for passive daytime radiative cooling technologies applied to rooftops[J]. Sustainable Cities and Society, 2020, 65: 102612. DOI: 10.1016/j.scs.2020.102612.
+
 Li D, Liu X, Li W, 等. Scalable and hierarchically designed polymer film as a selective thermal emitter for high-performance all-day radiative cooling[J]. Nature Nanotechnology, 2020, 16(2): 153-158. DOI: 10.1038/s41565-020-00800-4.
+
+Chen J, Lu L. Development of radiative cooling and its integration with buildings: A comprehensive review[J]. Solar Energy, 2020, 212: 125-151. DOI: 10.1016/j.solener.2020.10.013.
 
 Hsu P C, Li X. Photon-engineered radiative cooling textiles[J]. Science, 2020, 370(6518): 784-785. DOI: 10.1126/science.abe4476.
 
@@ -886,25 +1588,59 @@ Wang Z, Kortge D, Zhu J, 等. Lightweight, Passive Radiative Cooling to Enhance 
 
 Zhong H, Zhang P, Li Y, 等. Highly Solar-Reflective Structures for Daytime Radiative Cooling under High Humidity[J]. ACS Applied Materials & Interfaces, 2020, 12(46): 51409-51417. DOI: 10.1021/acsami.0c14075.
 
+Lin K, Han J, Li K, 等. Radiative cooling: Fundamental physics, atmospheric influences, materials and structural engineering, applications and beyond[J]. Nano Energy, 2020, 80: 105517. DOI: 10.1016/j.nanoen.2020.105517.
+
+Zhao B, Pei G, Raman A P. Modeling and optimization of radiative cooling based thermoelectric generators[J]. Applied Physics Letters, 2020, 117(16). DOI: 10.1063/5.0022667.
+
 Xu J, Zhang J, Fu B, 等. All-Day Freshwater Harvesting through Combined Solar-Driven Interfacial Desalination and Passive Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2020, 12(42): 47612-47622. DOI: 10.1021/acsami.0c14773.
 
 Son S, Jeon S, Chae D, 等. Colored emitters with silica-embedded perovskite nanocrystals for efficient daytime radiative cooling[J]. Nano Energy, 2020, 79: 105461. DOI: 10.1016/j.nanoen.2020.105461.
 
 Li X, Peoples J, Huang Z, 等. Full Daytime Sub-ambient Radiative Cooling in Commercial-like Paints with High Figure of Merit[J]. Cell Reports Physical Science, 2020, 1(10): 100221. DOI: 10.1016/j.xcrp.2020.100221.
 
+Yang Z, Jiang T, Zhang J. Passive daytime radiative cooling inorganic-polymeric composite artificial lawn for the alternative to the natural lawn[J]. Solar Energy Materials and Solar Cells, 2020, 219: 110783. DOI: 10.1016/j.solmat.2020.110783.
+
+Xue X, Qiu M, Li Y, 等. Creating an Eco‐Friendly Building Coating with Smart Subambient Radiative Cooling[J]. Advanced Materials, 2020, 32(42): e1906751. DOI: 10.1002/adma.201906751.
+
+Ulpiani G, Ranzi G, Shah K W, 等. On the energy modulation of daytime radiative coolers: A review on infrared emissivity dynamic switch against overcooling[J]. Solar Energy, 2020, 209: 278-301. DOI: 10.1016/j.solener.2020.08.077.
+
 Bijarniya J P, Sarkar J, Maiti P. Review on passive daytime radiative cooling: Fundamentals, recent researches, challenges and opportunities[J]. Renewable and Sustainable Energy Reviews, 2020, 133: 110263. DOI: 10.1016/j.rser.2020.110263.
 
+Zhu R, Hu D, Chen Z, 等. Plasmon-Enhanced Infrared Emission Approaching the Theoretical Limit of Radiative Cooling Ability[J]. Nano Letters, 2020, 20(10): 6974-6980. DOI: 10.1021/acs.nanolett.0c01457.
+
+Taylor S, Long L, McBurney R, 等. Spectrally-selective vanadium dioxide based tunable metafilm emitter for dynamic radiative cooling[J]. Solar Energy Materials and Solar Cells, 2020, 217: 110739. DOI: 10.1016/j.solmat.2020.110739.
+
 Yang Y. Scalable radiative cooling paints based on random porous polymers[J]. Nanoengineering: Fabrication, Properties, Optics, Thin Films, and Devices, 2020, : 10. DOI: 10.1117/12.2566304.
+
+Chae D, Son S, Liu Y, 等. High‐Performance Daytime Radiative Cooler and Near‐Ideal Selective Emitter Enabled by Transparent Sapphire Substrate[J]. Advanced Science, 2020, 7(19): 2001577. DOI: 10.1002/advs.202001577.
 
 Carlosena L, Ruiz–Pardo Á, Feng J, 等. On the energy potential of daytime radiative cooling for urban heat island mitigation[J]. Solar Energy, 2020, 208: 430-444. DOI: 10.1016/j.solener.2020.08.015.
 
 Goyal A K, Kumar A. Recent advances and progresses in photonic devices for passive radiative cooling application: a review[J]. Journal of Nanophotonics, 2020, 14(03): 1-20. DOI: 10.1117/1.jnp.14.030901.
 
+Liu C, Fan J, Bao H. Hydrophilic radiative cooler for direct water condensation in humid weather[J]. Solar Energy Materials and Solar Cells, 2020, 216: 110700. DOI: 10.1016/j.solmat.2020.110700.
+
+Yi Z, Lv Y, Xu D, 等. Energy saving analysis of a transparent radiative cooling film for buildings with roof glazing[J]. Energy and Built Environment, 2020, 2(2): 214-222. DOI: 10.1016/j.enbenv.2020.07.003.
+
+Bijarniya J P, Sarkar J, Maiti P. Environmental effect on the performance of passive daytime photonic radiative cooling and building energy-saving potential[J]. Journal of Cleaner Production, 2020, 274: 123119. DOI: 10.1016/j.jclepro.2020.123119.
+
+Li W, Li Y, Shah K W. A materials perspective on radiative cooling structures for buildings[J]. Solar Energy, 2020, 207: 247-269. DOI: 10.1016/j.solener.2020.06.095.
+
 Li Y, Li L, Guo L, 等. Systematical analysis of ideal absorptivity for passive radiative cooling[J]. Optical Materials Express, 2020, 10(8): 1767. DOI: 10.1364/ome.10.001767.
+
+Liu X, Pian S, Zhou R, 等. Tunable radiative cooling based on a stretchable selective optical filter[J]. Journal of the Optical Society of America B, 2020, 37(9): 2534. DOI: 10.1364/josab.394671.
+
+Chen L, Zhang K, Ma M, 等. Sub-ambient radiative cooling and its application in buildings[J]. Building Simulation, 2020, 13(6): 1165-1189. DOI: 10.1007/s12273-020-0646-x.
 
 Yang Y, Zhang Y. Passive daytime radiative cooling: Principle, application, and economic analysis[J]. MRS Energy & Sustainability, 2020, 7(1). DOI: 10.1557/mre.2020.18.
 
 Zhang H, Ly K C S, Liu X, 等. Biologically inspired flexible photonic films for efficient passive radiative cooling[J]. Proceedings of the National Academy of Sciences, 2020, 117(26): 14657-14666. DOI: 10.1073/pnas.2001802117.
+
+Mandal J, Yang Y, Yu N, 等. Paints as a Scalable and Effective Radiative Cooling Technology for Buildings[J]. Joule, 2020, 4(7): 1350-1356. DOI: 10.1016/j.joule.2020.04.010.
+
+Cheng Z, Shuai Y, Dayang G, 等. Optical properties and cooling performance analyses of single-layer radiative cooling coating with mixture of TiO2 particles and SiO2 particles[J]. Science China Technological Sciences, 2020, 64(5): 1017-1029. DOI: 10.1007/s11431-020-1586-9.
+
+Shen D, Yu C, Wang W. Investigation on the thermal performance of the novel phase change materials wall with radiative cooling[J]. Applied Thermal Engineering, 2020, 176: 115479. DOI: 10.1016/j.applthermaleng.2020.115479.
 
 Wu C H, Huang C H, Li Y F, 等. Utilization of Basic Oxygen Furnace Slag in Geopolymeric Coating for Passive Radiative Cooling Application[J]. Sustainability, 2020, 12(10): 3967. DOI: 10.3390/su12103967.
 
@@ -918,6 +1654,12 @@ Chen Y, Mandal J, Li W, 等. Colored and paintable bilayer coatings with high so
 
 Yalçın R A, Blandre E, Joulain K, 等. Colored Radiative Cooling Coatings with Nanoparticles[J]. ACS Photonics, 2020, 7(5): 1312-1322. DOI: 10.1021/acsphotonics.0c00513.
 
+Cheng Z, Fuqiang W, Dayang G, 等. Low-cost radiative cooling blade coating with ultrahigh visible light transmittance and emission within an “atmospheric window”[J]. Solar Energy Materials and Solar Cells, 2020, 213: 110563. DOI: 10.1016/j.solmat.2020.110563.
+
+Yang Y, Long L, Meng S, 等. Bulk material based selective infrared emitter for sub-ambient daytime radiative cooling[J]. Solar Energy Materials and Solar Cells, 2020, 211: 110548. DOI: 10.1016/j.solmat.2020.110548.
+
+Perrakis G, Tasolamprou A C, Kenanakis G, 等. Passive radiative cooling and other photonic approaches for the temperature control of photovoltaics: a comparative study for crystalline silicon-based architectures[J]. Optics Express, 2020, 28(13): 18548. DOI: 10.1364/oe.388208.
+
 Wu W, Lin S, Wei M, 等. Flexible passive radiative cooling inspired by Saharan silver ants[J]. Solar Energy Materials and Solar Cells, 2020, 210: 110512. DOI: 10.1016/j.solmat.2020.110512.
 
 Zhang H, Fan D. Improving Heat Dissipation and Temperature Uniformity in Radiative Cooling Coating[J]. Energy Technology, 2020, 8(5). DOI: 10.1002/ente.201901362.
@@ -926,9 +1668,15 @@ Keçebaş M A, Mengüç M P, Koşar A, 等. Spectrally selective filter design f
 
 Li Z, Chen Q, Song Y L, 等. Fundamentals, Materials, and Applications for Daytime Radiative Cooling[J]. Advanced Materials Technologies, 2020, 5(5). DOI: 10.1002/admt.201901007.
 
+Banik U, Sasaki K, Reininghaus N, 等. Enhancing passive radiative cooling properties of flexible CIGS solar cells for space applications using single layer silicon oxycarbonitride films[J]. Solar Energy Materials and Solar Cells, 2020, 209: 110456. DOI: 10.1016/j.solmat.2020.110456.
+
 Yu X, Chen C. A simulation study for comparing the cooling performance of different daytime radiative cooling materials[J]. Solar Energy Materials and Solar Cells, 2020, 209: 110459. DOI: 10.1016/j.solmat.2020.110459.
 
+Lv T, Huang J, Liu W, 等. From sky back to sky: Embedded transparent cellulose membrane to improve the thermal performance of solar module by radiative cooling[J]. Case Studies in Thermal Engineering, 2020, 18: 100596. DOI: 10.1016/j.csite.2020.100596.
+
 Feng J, Gao K, Santamouris M, 等. Dynamic impact of climate on the performance of daytime radiative cooling materials[J]. Solar Energy Materials and Solar Cells, 2020, 208: 110426. DOI: 10.1016/j.solmat.2020.110426.
+
+Meng S, Long L, Wu Z, 等. Scalable dual-layer film with broadband infrared emission for sub-ambient daytime radiative cooling[J]. Solar Energy Materials and Solar Cells, 2020, 208: 110393. DOI: 10.1016/j.solmat.2020.110393.
 
 Camara S, Борисович С А. Analytical review of passive radiative cooling systems[J]. Journal International Academy of Refrigeration, 2020, 19(2): 37-44. DOI: 10.17586/1606-4313-2020-19-2-37-44.
 
@@ -942,17 +1690,29 @@ Torgerson E, Hellhake J. Polymer solar filter for enabling direct daytime radiat
 
 Liu C, Ay C, Tsai C Y, 等. The Application of Passive Radiative Cooling in Greenhouses[J]. Sustainability, 2019, 11(23): 6703. DOI: 10.3390/su11236703.
 
+Zhou Y, Zheng S, Zhang G. Machine learning-based optimal design of a phase change material integrated renewable system with on-site PV, radiative cooling and hybrid ventilations—study of modelling and application in five climatic regions[J]. Energy, 2019, 192: 116608. DOI: 10.1016/j.energy.2019.116608.
+
+Yang J, Gao X, Wu Y, 等. Nanoporous silica microspheres–ploymethylpentene (TPX) hybrid films toward effective daytime radiative cooling[J]. Solar Energy Materials and Solar Cells, 2019, 206: 110301. DOI: 10.1016/j.solmat.2019.110301.
+
 Jeong S Y, Tso C Y, Wong Y M, 等. Daytime passive radiative cooling by ultra emissive bio-inspired polymeric surface[J]. Solar Energy Materials and Solar Cells, 2019, 206: 110296. DOI: 10.1016/j.solmat.2019.110296.
 
 Wang X, Liu X, Li Z, 等. Scalable Flexible Hybrid Membranes with Photonic Structures for Daytime Radiative Cooling[J]. Advanced Functional Materials, 2019, 30(5). DOI: 10.1002/adfm.201907562.
 
 Han D, Ng B F, Wan M P. Preliminary study of passive radiative cooling under Singapore's tropical climate[J]. Solar Energy Materials and Solar Cells, 2019, 206: 110270. DOI: 10.1016/j.solmat.2019.110270.
 
+Xiao R, Hou C, Yang W, 等. Infrared-Radiation-Enhanced Nanofiber Membrane for Sky Radiative Cooling of the Human Body[J]. ACS Applied Materials & Interfaces, 2019, 11(47): 44673-44681. DOI: 10.1021/acsami.9b13933.
+
 Pech-May N W, Retsch M. Tunable daytime passive radiative cooling based on a broadband angle selective low-pass filter[J]. Nanoscale Advances, 2019, 2(1): 249-255. DOI: 10.1039/c9na00557a.
+
+Jaramillo‐Fernandez J, Whitworth G L, Pariente J Á, 等. A Self‐Assembled 2D Thermofunctional Material for Radiative Cooling[J]. Small, 2019, 15(52): e1905290. DOI: 10.1002/smll.201905290.
 
 Fan J, Fu C, Fu T. Yttria-stabilized zirconia coating for passive daytime radiative cooling in humid environment[J]. Applied Thermal Engineering, 2019, 165: 114585. DOI: 10.1016/j.applthermaleng.2019.114585.
 
 Mandal J, Jia M, Overvig A, 等. Porous Polymers with Switchable Optical Transmittance for Optical and Thermal Regulation[J]. Joule, 2019, 3(12): 3088-3099. DOI: 10.1016/j.joule.2019.09.016.
+
+Leroy A, Bhatia B, Kelsall C C, 等. High-performance subambient radiative cooling enabled by optically selective and thermally insulating polyethylene aerogel[J]. Science Advances, 2019, 5(10): eaat9480. DOI: 10.1126/sciadv.aat9480.
+
+Zhao D, Yin X, Xu J, 等. Radiative sky cooling-assisted thermoelectric cooling system for building applications[J]. Energy, 2019, 190: 116322. DOI: 10.1016/j.energy.2019.116322.
 
 Kong A, Cai B, Shi P, 等. Ultra-broadband all-dielectric metamaterial thermal emitter for passive radiative cooling[J]. Optics Express, 2019, 27(21): 30102. DOI: 10.1364/oe.27.030102.
 
@@ -960,11 +1720,21 @@ Sheng C, An Y, Du J, 等. Colored Radiative Cooler under Optical Tamm Resonance[
 
 Feng J, Santamouris M, Shah K W, 等. Thermal analysis in daytime radiative cooling[J]. IOP Conference Series Materials Science and Engineering, 2019, 609(7): 072064. DOI: 10.1088/1757-899x/609/7/072064.
 
+Wei G, Yang D, Zhang T, 等. Fabrication of multifunctional coating with high luminous transmittance, self-cleaning and radiative cooling performances for energy-efficient windows[J]. Solar Energy Materials and Solar Cells, 2019, 202: 110125. DOI: 10.1016/j.solmat.2019.110125.
+
+Yao K, Ma H, Huang M, 等. Near-Perfect Selective Photonic Crystal Emitter with Nanoscale Layers for Daytime Radiative Cooling[J]. ACS Applied Nano Materials, 2019, 2(9): 5512-5519. DOI: 10.1021/acsanm.9b01097.
+
 Zhou L, Song H, Liang J, 等. A polydimethylsiloxane-coated metal structure for all-day radiative cooling[J]. Nature Sustainability, 2019, 2(8): 718-724. DOI: 10.1038/s41893-019-0348-5.
+
+Zhu Y, Wang D, Fang C, 等. A Multilayer Emitter Close to Ideal Solar Reflectance for Efficient Daytime Radiative Cooling[J]. Polymers, 2019, 11(7): 1203. DOI: 10.3390/polym11071203.
 
 Aili A, Wei Z, Chen Y, 等. Selection of polymers with functional groups for daytime radiative cooling[J]. Materials Today Physics, 2019, 10: 100127. DOI: 10.1016/j.mtphys.2019.100127.
 
 Zhang Z, Liu D, Xia Z. Preparation of silica thin film by hot pressing process for passive radiative cooling[J]. Fourth International Conference on Thin Film Physics and Applications, 2019, : 22. DOI: 10.1117/12.2539200.
+
+Gao M, Han X, Chen F, 等. Approach to fabricating high-performance cooler with near-ideal emissive spectrum for above-ambient air temperature radiative cooling[J]. Solar Energy Materials and Solar Cells, 2019, 200: 110013. DOI: 10.1016/j.solmat.2019.110013.
+
+Jeong S Y, Tso C Y, Ha J, 等. Field investigation of a photonic multi-layered TiO2 passive radiative cooler in sub-tropical climate[J]. Renewable Energy, 2019, 146: 44-55. DOI: 10.1016/j.renene.2019.06.119.
 
 Li T, Zhai Y, He S, 等. A radiative cooling structural material[J]. Science, 2019, 364(6442): 760-763. DOI: 10.1126/science.aau9101.
 
@@ -974,11 +1744,27 @@ Liu D, Xia Z, Shi K, 等. A thermally stable cooler for efficient passive radiat
 
 Zhao B, Ao X, Chen N, 等. General strategy of passive sub-ambient daytime radiative cooling[J]. Solar Energy Materials and Solar Cells, 2019, 199: 108-113. DOI: 10.1016/j.solmat.2019.04.028.
 
+Zhao D, Aili A, Zhai Y, 等. Radiative sky cooling: Fundamental principles, materials, and applications[J]. Applied Physics Reviews, 2019, 6(2). DOI: 10.1063/1.5087281.
+
+Long L, Yang Y, Wang L. Simultaneously enhanced solar absorption and radiative cooling with thin silica micro-grating coatings for silicon solar cells[J]. Solar Energy Materials and Solar Cells, 2019, 197: 19-24. DOI: 10.1016/j.solmat.2019.04.006.
+
+Zhou Z, Wang Z, Bermel P A. Radiative cooling for low-bandgap photovoltaics under concentrated sunlight[J]. Optics Express, 2019, 27(8): A404. DOI: 10.1364/oe.27.00a404.
+
+Cheng Z, Wang F, Wang H, 等. Effect of embedded polydisperse glass microspheres on radiative cooling of a coating[J]. International Journal of Thermal Sciences, 2019, 140: 358-367. DOI: 10.1016/j.ijthermalsci.2019.03.014.
+
+Hu M, Zhao B, Ao X, 等. Experimental study on a hybrid photo-thermal and radiative cooling collector using black acrylic paint as the panel coating[J]. Renewable Energy, 2019, 139: 1217-1226. DOI: 10.1016/j.renene.2019.03.013.
+
+Lee E, Luo T. Black body-like radiative cooling for flexible thin-film solar cells[J]. Solar Energy Materials and Solar Cells, 2019, 194: 222-228. DOI: 10.1016/j.solmat.2019.02.015.
+
+Li M, Coimbra C F. On the effective spectral emissivity of clear skies and the radiative cooling potential of selectively designed materials[J]. International Journal of Heat and Mass Transfer, 2019, 135: 1053-1062. DOI: 10.1016/j.ijheatmasstransfer.2019.02.040.
+
 Li N, Wang J, Liu D, 等. Selective spectral optical properties and structure of aluminum phosphate for daytime passive radiative cooling application[J]. Solar Energy Materials and Solar Cells, 2019, 194: 103-110. DOI: 10.1016/j.solmat.2019.01.036.
 
 Zhou Z, Wang X, Zhou J, 等. A High-efficient Daytime Radiative Cooling Film[J]. International Photonics and Optoelectronics Meetings, 2019, : JW4A.16. DOI: 10.1364/isst.2019.jw4a.16.
 
 Bhatia B, Leroy A, Shen Y, 等. Passive sub-ambient daytime radiative cooling[J]. OSA Advanced Photonics Congress, 2019, : PM2C.2. DOI: 10.1364/pvled.2019.pm2c.2.
+
+An Y, Sheng C, Li X. Radiative cooling of solar cells: opto-electro-thermal physics and modeling[J]. Nanoscale, 2019, 11(36): 17073-17083. DOI: 10.1039/c9nr04110a.
 
 Zhao B, Hu M, Ao X, 等. Radiative cooling: A review of fundamentals, materials, applications, and prospects[J]. Applied Energy, 2018, 236: 489-513. DOI: 10.1016/j.apenergy.2018.12.018.
 
@@ -988,13 +1774,23 @@ Santamouris M, Feng J. Recent Progress in Daytime Radiative Cooling: Is It the A
 
 Bhatia B, Leroy A, Shen Y, 等. Passive directional sub-ambient daytime radiative cooling[J]. Nature Communications, 2018, 9(1): 5001. DOI: 10.1038/s41467-018-07293-9.
 
+Fu Y, Yang J, Su Y, 等. Daytime passive radiative cooler using porous alumina[J]. Solar Energy Materials and Solar Cells, 2018, 191: 50-54. DOI: 10.1016/j.solmat.2018.10.027.
+
 Lee G J, Kim Y J, Kim H M, 等. Colored Passive Radiative Cooler: Colored, Daytime Radiative Coolers with Thin‐Film Resonators for Aesthetic Purposes (Advanced Optical Materials 22/2018)[J]. Advanced Optical Materials, 2018, 6(22). DOI: 10.1002/adom.201870085.
 
 Zhao D, Aili A, Zhai Y, 等. Subambient Cooling of Water: Toward Real-World Applications of Daytime Radiative Cooling[J]. Joule, 2018, 3(1): 111-123. DOI: 10.1016/j.joule.2018.10.006.
 
+Parsons A M, Sharp K. The effects of multiple covers with condensation and optical degradation of a polyethylene windscreen on the performance of a sky cooling system[J]. International Journal of Sustainable Energy, 2018, 38(5): 469-485. DOI: 10.1080/14786451.2018.1532428.
+
+Yuan H, Yang C, Zheng X, 等. Effective, angle-independent radiative cooler based on one-dimensional photonic crystal[J]. Optics Express, 2018, 26(21): 27885. DOI: 10.1364/oe.26.027885.
+
 Mandal J, Fu Y, Overvig A, 等. Hierarchically porous polymer coatings for highly efficient passive daytime radiative cooling[J]. Science, 2018, 362(6412): 315-319. DOI: 10.1126/science.aat9513.
 
+Jeong S Y, Tso C Y, Zouagui M, 等. A numerical study of daytime passive radiative coolers for space cooling in buildings[J]. Building Simulation, 2018, 11(5): 1011-1028. DOI: 10.1007/s12273-018-0474-4.
+
 Lee G J, Kim Y J, Kim H M, 等. Colored, Daytime Radiative Coolers with Thin‐Film Resonators for Aesthetic Purposes[J]. Advanced Optical Materials, 2018, 6(22). DOI: 10.1002/adom.201800707.
+
+ONO M, Chen K, Li W, 等. Self-adaptive radiative cooling based on phase change materials[J]. Optics Express, 2018, 26(18): A777. DOI: 10.1364/oe.26.00a777.
 
 Yang P, Chen C, Zhang Z M. A dual-layer structure with record-high solar reflectance for daytime radiative cooling[J]. Solar Energy, 2018, 169: 316-324. DOI: 10.1016/j.solener.2018.04.031.
 
@@ -1004,19 +1800,35 @@ Atiganyanun S, Plumley J B, Han S J, 等. Effective Radiative Cooling by Paint-F
 
 Peng Y, Chen J, Song Y, 等. Nanoporous polyethylene microfibres for large-scale radiative cooling fabric[J]. Nature Sustainability, 2018, 1(2): 105-112. DOI: 10.1038/s41893-018-0023-2.
 
+Zeyghami M, Goswami D Y, Stefanakos E K. A review of clear sky radiative cooling developments and applications in renewable power systems and passive building cooling[J]. Solar Energy Materials and Solar Cells, 2018, 178: 115-128. DOI: 10.1016/j.solmat.2018.01.015.
+
 Lee G J, Kim H M, Kim Y J, 等. Passive radiative cooling structure with vivid colors[J]. Conference on Lasers and Electro-Optics, 2018, : ATh3P.5. DOI: 10.1364/cleo_at.2018.ath3p.5.
 
 Naghshine B B, Saboonchi A. Optimized thin film coatings for passive radiative cooling applications[J]. Optics Communications, 2017, 410: 416-423. DOI: 10.1016/j.optcom.2017.10.047.
 
+Wang W, Fernandez N, Katipamula S, 等. Performance assessment of a photonic radiative cooling system for office buildings[J]. Renewable Energy, 2017, 118: 265-277. DOI: 10.1016/j.renene.2017.10.062.
+
+Wu D, Liu C, Xu Z, 等. The design of ultra-broadband selective near-perfect absorber based on photonic structures to achieve near-ideal daytime radiative cooling[J]. Materials & Design, 2017, 139: 104-111. DOI: 10.1016/j.matdes.2017.10.077.
+
 Goldstein E A, Raman A P, Fan S. Sub-ambient non-evaporative fluid cooling with the sky[J]. Nature Energy, 2017, 2(9). DOI: 10.1038/nenergy.2017.143.
 
+Zhao B, Hu M, Ao X, 等. Conceptual development of a building-integrated photovoltaic–radiative cooling system and preliminary performance analysis in Eastern China[J]. Applied Energy, 2017, 205: 626-634. DOI: 10.1016/j.apenergy.2017.08.011.
+
+Zou C, Ren G, Hossain M M, 等. Metal‐Loaded Dielectric Resonator Metasurfaces for Radiative Cooling[J]. Advanced Optical Materials, 2017, 5(20). DOI: 10.1002/adom.201700460.
+
 Keçebaş M A, Mengüç M P, Koşar A, 等. Passive radiative cooling design with broadband optical thin-film filters[J]. Journal of Quantitative Spectroscopy and Radiative Transfer, 2017, 198: 179-186. DOI: 10.1016/j.jqsrt.2017.03.046.
+
+Bao H, Chen Y, Wang B, 等. Double-layer nanoparticle-based coatings for efficient terrestrial radiative cooling[J]. Solar Energy Materials and Solar Cells, 2017, 168: 78-84. DOI: 10.1016/j.solmat.2017.04.020.
+
+Sun X, Sun Y, Zhou Z, 等. Radiative sky cooling: fundamental physics, materials, structures, and applications[J]. Nanophotonics, 2017, 6(5): 997-1015. DOI: 10.1515/nanoph-2017-0020.
 
 Zhai Y, Ma Y, David S N, 等. Scalable-manufactured randomized glass-polymer hybrid metamaterial for daytime radiative cooling[J]. Science, 2017, 355(6329): 1062-1066. DOI: 10.1126/science.aai7899.
 
 Kou J L, Jurado Z, Chen Z, 等. Daytime Radiative Cooling Using Near-Black Infrared Emitters[J]. ACS Photonics, 2017, 4(3): 626-630. DOI: 10.1021/acsphotonics.6b00991.
 
 Tso C Y, Chan K, Chao C Y. A field investigation of passive radiative cooling under Hong Kong’s climate[J]. Renewable Energy, 2017, 106: 52-61. DOI: 10.1016/j.renene.2017.01.018.
+
+Family R, Mengüç M P. Materials for Radiative Cooling: A Review[J]. Procedia Environmental Sciences, 2017, 38: 752-759. DOI: 10.1016/j.proenv.2017.03.158.
 
 Chen Z, Zhu L, Raman A P, 等. Radiative cooling to deep sub-freezing temperatures through a 24-h day–night cycle[J]. Nature Communications, 2016, 7(1): 13729. DOI: 10.1038/ncomms13729.
 
@@ -1032,12 +1844,48 @@ Benlattar M, Oualim E M, Mazroui M, 等. Stainless-Steel Thin Film as Passive Ra
 
 Zhu L, Raman A P, Fan S. Radiative cooling of solar absorbers using a visibly transparent photonic crystal thermal blackbody[J]. Proceedings of the National Academy of Sciences, 2015, 112(40): 12282-12287. DOI: 10.1073/pnas.1509453112.
 
+Hossain M M, Jia B, Gu M. A Metamaterial Emitter for Highly Efficient Radiative Cooling[J]. Advanced Optical Materials, 2015, 3(8): 1047-1051. DOI: 10.1002/adom.201500119.
+
+Hu M, Pei G, Li L, 等. Theoretical and Experimental Study of Spectral Selectivity Surface for Both Solar Heating and Radiative Cooling[J]. International Journal of Photoenergy, 2015, 2015: 1-9. DOI: 10.1155/2015/807875.
+
 Inamori T, Ozaki N, Saisutjarit P, 等. Passive radiative cooling of a HTS coil for attitude orbit control in micro-spacecraft[J]. Advances in Space Research, 2014, 55(4): 1211-1221. DOI: 10.1016/j.asr.2014.10.035.
 
 Raman A P, Anoma M A, Zhu L, 等. Passive radiative cooling below ambient air temperature under direct sunlight[J]. Nature, 2014, 515(7528): 540-544. DOI: 10.1038/nature13883.
 
 Zhu L, Raman A P, Wang K X, 等. Radiative cooling of solar cells[J]. Optica, 2014, 1(1): 32. DOI: 10.1364/optica.1.000032.
 
+Hanif M, Mahlia T, Zare A, 等. Potential energy savings by radiative cooling system for a building in tropical climate[J]. Renewable and Sustainable Energy Reviews, 2014, 32: 642-650. DOI: 10.1016/j.rser.2014.01.053.
+
 Zhu L, Raman A P, Fan S. Color-preserving daytime radiative cooling[J]. Applied Physics Letters, 2013, 103(22). DOI: 10.1063/1.4835995.
 
+Hsiao T J, Eyassu T, Henderson K, 等. Monolayer graphene dispersion and radiative cooling for high power LED[J]. Nanotechnology, 2013, 24(39): 395401. DOI: 10.1088/0957-4484/24/39/395401.
+
+Gentle A R, Dybdal K, Smith G B. Polymeric mesh for durable infra-red transparent convection shields: Applications in cool roofs and sky cooling[J]. Solar Energy Materials and Solar Cells, 2013, 115: 79-85. DOI: 10.1016/j.solmat.2013.03.001.
+
 Rephaeli E, Raman A P, Fan S. Ultrabroadband Photonic Structures To Achieve High-Performance Daytime Radiative Cooling[J]. Nano Letters, 2013, 13(4): 1457-1461. DOI: 10.1021/nl4004283.
+
+Zhang S, Niu J. Cooling performance of nocturnal radiative cooling combined with microencapsulated phase change material (MPCM) slurry storage[J]. Energy and Buildings, 2012, 54: 122-130. DOI: 10.1016/j.enbuild.2012.07.041.
+
+Eicker U, Dalibard A. Photovoltaic–thermal collectors for night radiative cooling of buildings[J]. Solar Energy, 2011, 85(7): 1322-1335. DOI: 10.1016/j.solener.2011.03.015.
+
+Suryawanshi C N, Lin C. Radiative Cooling: Lattice Quantization and Surface Emissivity in Thin Coatings[J]. ACS Applied Materials & Interfaces, 2009, 1(6): 1334-1338. DOI: 10.1021/am900200r.
+
+Dobson K D. Thin semiconductor films for radiative cooling applications[J]. Solar Energy Materials and Solar Cells, 2003, 80(3): 283-296. DOI: 10.1016/j.solmat.2003.06.007.
+
+Engelhard T, Jones E D, Viney I, 等. Deposition of tellurium films by decomposition of electrochemically-generated H2Te: application to radiative cooling devices[J]. Thin Solid Films, 2000, 370(1-2): 101-105. DOI: 10.1016/s0040-6090(00)00942-1.
+
+Erell E, Etzion Y. Radiative cooling of buildings with flat-plate solar collectors[J]. Building and Environment, 2000, 35(4): 297-305. DOI: 10.1016/s0360-1323(99)00019-0.
+
+Ezekwe C I. Performance of a heat pipe assisted night sky radiative cooler[J]. Energy Conversion and Management, 1990, 30(4): 403-408. DOI: 10.1016/0196-8904(90)90041-v.
+
+Hamberg I, Svensson J S E M, Eriksson T S, 等. Radiative cooling and frost formation on surfaces with different thermal emittance: theoretical analysis and practical experience[J]. Applied Optics, 1987, 26(11): 2131. DOI: 10.1364/ao.26.002131.
+
+Eriksson T, Jiang S J, Granqvist C. Surface coatings for radiative cooling applications: Silicon dioxide and silicon nitride made by reactive rf-sputtering[J]. Solar Energy Materials, 1985, 12(5): 319-325. DOI: 10.1016/0165-1633(85)90001-2.
+
+Eriksson T, Lushiku E, Granqvist C G. Materials for radiative cooling to low temperature[J]. Solar Energy Materials, 1984, 11(3): 149-161. DOI: 10.1016/0165-1633(84)90067-4.
+
+Granqvist C G, Hjortsberg A. Radiative cooling to low temperatures: General considerations and application to selectively emitting SiO films[J]. Journal of Applied Physics, 1981, 52(6): 4205-4220. DOI: 10.1063/1.329270.
+
+Granqvist C, Hjortsberg A. Surfaces for radiative cooling: Silicon monoxide films on aluminum[J]. Applied Physics Letters, 1980, 36(2): 139-141. DOI: 10.1063/1.91406.
+
+Harrison A W, Walton M. Radiative cooling of TiO2 white paint[J]. Solar Energy, 1978, 20(2): 185-188. DOI: 10.1016/0038-092x(78)90195-0.

@@ -13,6 +13,6 @@
     "build": "node scripts/build.mjs",
     "preview": "node scripts/serve.mjs",
     "check": "node scripts/check.mjs",
-    "apply-classification": "node scripts/apply-classification-csv.mjs"
+    "apply-classification": "node scripts/apply-classification-csv.mjs",`n    "audit-expand": "node scripts/audit-expand.mjs"
   }
 }
