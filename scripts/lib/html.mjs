@@ -33,6 +33,7 @@ const NAV = [
   { key: 'white', href: '/browse/white/', label: '白色' },
   { key: 'colored', href: '/browse/colored/', label: '彩色' },
   { key: 'transparent', href: '/browse/transparent/', label: '透明' },
+  { key: 'patents', href: '/patents/', label: '专利' },
   { key: 'research', href: '/type/research/', label: '研究型论文' },
   { key: 'review', href: '/type/review/', label: '综述' },
   { key: 'latest', href: '/latest/', label: '最新' },
@@ -113,6 +114,7 @@ export function sidebar(stats, { activeCat = '', activeSub = '', activeAll = fal
       </div>
       <div class="side-card">
         <div class="side-title"><span>快捷入口</span></div>
+        <a class="side-all${activePage === 'patents' ? ' on' : ''}" href="/patents/"><span>专利</span><span>${stats.patentsTotal || 0}</span></a>
         <a class="side-all${activePage === 'latest' ? ' on' : ''}" href="/latest/"><span>最新文献</span><span>${stats.total}</span></a>
         <a class="side-all${activePage === 'journals' ? ' on' : ''}" href="/journals/"><span>期刊目录</span><span>${stats.journals}</span></a>
         <a class="side-all${activePage === 'keywords' ? ' on' : ''}" href="/keywords/"><span>关键词索引</span><span>${stats.keywords.length}</span></a>
