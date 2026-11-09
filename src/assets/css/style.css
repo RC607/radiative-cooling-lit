@@ -606,3 +606,9 @@ pre.code {
   .layout { display: block; padding: 0; }
   body { background: #fff; }
 }
+
+/* 专利作为独立文献类别 */
+.dot.patents { background: linear-gradient(135deg, #f59e0b, #b45309); }
+.cat-card.patents { border-color: #f3e2c7; }
+.cat-card.patents:hover { border-color: #e8c79a; }
+.cat-cards { grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }

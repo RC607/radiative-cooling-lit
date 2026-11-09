@@ -56,6 +56,25 @@ export function home(corpus) {
         .join('')}
     </a>`;
 
+  const maxPat = Math.max(1, ...(stats.patentSubs || []).map((s) => s.count));
+  const patentCard = stats.patentsTotal
+    ? `
+    <a class="cat-card patents" href="/patents/">
+      <div class="ch"><span class="dot patents"></span><h2>专利</h2>
+        <span class="cc">${stats.patentsTotal} 件 / ${(stats.patentSubs || []).length} 个细分</span></div>
+      <p>白色辐射制冷涂料/涂层、彩色辐射制冷涂料/涂层、辐射制冷膜三类中国专利，仅展示题录与说明书摘要。</p>
+      ${(stats.patentSubs || [])
+        .map(
+          (s) => `<div class="sub-bar">
+            <span class="name">${esc(s.name)}</span>
+            <span class="track"><span class="fill" style="width:${Math.round((s.count / maxPat) * 100)}%"></span></span>
+            <span class="num">${s.count}</span>
+          </div>`,
+        )
+        .join('')}
+    </a>`
+    : '';
+
   const body = `
     <section class="hero">
       <h1>辐射制冷领域文献检索</h1>
@@ -90,7 +109,7 @@ export function home(corpus) {
         <div class="sub">13 个细分主题</div></div>
     </section>
 
-    <section class="cat-cards">${stats.categories.map(catCard).join('')}</section>
+    <section class="cat-cards">${stats.categories.map(catCard).join('')}${patentCard}</section>
 
     <div class="home-bottom">
       <section class="panel">

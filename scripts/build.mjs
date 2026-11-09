@@ -8,7 +8,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildData } from './build-data.mjs';
 import { loadCorpus } from './lib/corpus.mjs';
-import { loadPatents, patentsIndex, patentDetail } from './lib/patents.mjs';
+import { loadPatents, patentsIndex, patentDetail, SUBS } from './lib/patents.mjs';
 import { BUILD_STAMP, BASE_URL, SITE } from './lib/html.mjs';
 import * as pages from './lib/pages.mjs';
 
@@ -63,6 +63,10 @@ function build() {
   const { stats } = corpus;
   const patents = loadPatents(ROOT);
   stats.patentsTotal = patents.length;
+  stats.patentSubs = SUBS.map((s) => ({
+    ...s,
+    count: patents.filter((p) => p.sub === s.key).length,
+  }));
 
   fs.rmSync(DIST, { recursive: true, force: true });
   fs.mkdirSync(DIST, { recursive: true });
@@ -123,8 +127,9 @@ function build() {
   /* 文献详情 */
   for (const p of corpus.items) add(pages.paper(corpus, p));
 
-  /* 专利：列表 + 详情 */
+  /* 专利：列表 + 三个细分 + 详情 */
   add(patentsIndex({ patents, stats }));
+  for (const s of SUBS) add(patentsIndex({ patents, stats, sub: s.key }));
   for (const p of patents) add(patentDetail(p, { stats }));
 
   /* 404 */

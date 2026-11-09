@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { esc, layout, sidebar, breadcrumbs } from './html.mjs';
 
-const SUBS = [
+export const SUBS = [
   { key: 'white_coating', name: '白色辐射制冷涂料/涂层' },
   { key: 'colored_coating', name: '彩色辐射制冷涂料/涂层' },
   { key: 'film', name: '辐射制冷膜' },
@@ -54,22 +54,31 @@ function card(p) {
   </article>`;
 }
 
-export function patentsIndex({ patents, stats }) {
+export function patentsIndex({ patents, stats, sub = 'all' }) {
   const count = (key) => patents.filter((p) => p.sub === key).length;
-  const tabs = SUBS.map(
-    (s) => `<button class="btn sm" type="button" data-sub="${s.key}">${s.name}（${count(s.key)}）</button>`,
-  ).join('');
+  const cur = SUBS.find((s) => s.key === sub);
+  const list = sub === 'all' ? patents : patents.filter((p) => p.sub === sub);
+  const href = (key) => (key === 'all' ? '/patents/' : `/patents/${key}/`);
+  const tab = (key, name, n) =>
+    `<a class="btn sm${key === sub ? ' on' : ''}" href="${href(key)}">${name}（${n}）</a>`;
+  const tabs = [
+    tab('all', '全部', patents.length),
+    ...SUBS.map((s) => tab(s.key, s.name, count(s.key))),
+  ].join('');
   const main = `
-    ${breadcrumbs([{ label: '首页', href: '/' }, { label: '专利' }])}
+    ${breadcrumbs([
+      { label: '首页', href: '/' },
+      { label: '专利', href: '/patents/' },
+      ...(cur ? [{ label: cur.name }] : []),
+    ])}
     <div class="page-head">
-      <h1>专利</h1>
+      <h1>专利${cur ? ` · ${esc(cur.name)}` : ''}</h1>
       <div class="desc">白色辐射制冷涂料/涂层、彩色辐射制冷涂料/涂层、辐射制冷膜三类中国专利，按申请日倒序；
         仅展示题录与说明书摘要，不提供专利全文。</div>
-      <div class="count">共 ${patents.length} 件</div>
+      <div class="count">共 ${list.length} 件</div>
     </div>
 
     <div class="toolbar">
-      <button class="btn sm on" type="button" data-sub="all">全部（${patents.length}）</button>
       ${tabs}
       <span class="grow"></span>
       <input id="pat-q" type="search" placeholder="筛选专利名称、申请人、公开号"
@@ -77,41 +86,31 @@ export function patentsIndex({ patents, stats }) {
     </div>
 
     <div class="result-list" id="pat-list">
-      ${patents.map(card).join('') || '<div class="empty"><h3>暂无专利数据</h3></div>'}
+      ${list.map(card).join('') || '<div class="empty"><h3>暂无专利数据</h3></div>'}
     </div>
 
     <script>
     (() => {
       const q = document.getElementById('pat-q');
       const items = [...document.querySelectorAll('#pat-list .paper')];
-      const tabs = [...document.querySelectorAll('button[data-sub]')];
-      let sub = 'all';
-      const apply = () => {
+      q.addEventListener('input', () => {
         const t = (q.value || '').trim().toLowerCase();
         items.forEach((el) => {
-          const okSub = sub === 'all' || el.dataset.sub === sub;
-          const okTxt = !t || (el.dataset.text || '').includes(t);
-          el.hidden = !(okSub && okTxt);
+          el.hidden = Boolean(t) && !(el.dataset.text || '').includes(t);
         });
-      };
-      q.addEventListener('input', apply);
-      tabs.forEach((b) => b.addEventListener('click', () => {
-        sub = b.dataset.sub;
-        tabs.forEach((x) => x.classList.toggle('on', x === b));
-        apply();
-      }));
+      });
     })();
     </script>`;
 
   return {
-    path: '/patents/',
+    path: href(sub),
     html: layout({
-      title: '专利',
+      title: cur ? `专利 · ${cur.name}` : '专利',
       description: '白色/彩色辐射制冷涂料涂层与辐射制冷膜专利题录与说明书摘要',
-      path: '/patents/',
+      path: href(sub),
       active: 'patents',
       stats,
-      sidebarHtml: sidebar(stats, { activePage: 'patents' }),
+      sidebarHtml: sidebar(stats, { activePage: 'patents', activePatentSub: sub }),
       main,
     }),
   };

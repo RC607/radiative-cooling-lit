@@ -74,7 +74,7 @@ export function topbar(active = '') {
   </header>`;
 }
 
-export function sidebar(stats, { activeCat = '', activeSub = '', activeAll = false, activeType = '', activePage = '' } = {}) {
+export function sidebar(stats, { activeCat = '', activeSub = '', activeAll = false, activeType = '', activePage = '', activePatentSub = '' } = {}) {
   const catRows = stats.categories
     .map((c) => {
       const subs = c.subs
@@ -99,14 +99,25 @@ export function sidebar(stats, { activeCat = '', activeSub = '', activeAll = fal
     )
     .join('');
 
+  const patentRows = (stats.patentSubs || [])
+    .map(
+      (s) => `<a class="sub-item${activePatentSub === s.key ? ' on' : ''}" href="/patents/${s.key}/">
+        <span class="nm">${esc(s.name)}</span><span class="count">${s.count}</span></a>`,
+    )
+    .join('');
+
   return `
   <aside class="sidebar" id="sidebar" aria-label="分类导航">
     <details class="side-toggle" open>
       <summary>分类与筛选</summary>
       <div class="side-card">
-        <div class="side-title"><span>文献分类</span><span>${stats.total} 篇</span></div>
+        <div class="side-title"><span>文献分类</span><span>${stats.total + (stats.patentsTotal || 0)} 项</span></div>
         <a class="side-all${activeAll ? ' on' : ''}" href="/"><span>全部文献</span><span>${stats.total}</span></a>
         ${catRows}
+        <a class="cat-head${activePage === 'patents' && !activePatentSub ? ' on' : ''}" href="/patents/">
+          <span class="dot patents"></span><span>专利</span><span class="count">${stats.patentsTotal || 0}</span>
+        </a>
+        <div class="sub-list">${patentRows}</div>
         <div class="side-divider"></div>
         <div class="side-title"><span>文献类型</span></div>
         ${typeRows}
@@ -114,7 +125,6 @@ export function sidebar(stats, { activeCat = '', activeSub = '', activeAll = fal
       </div>
       <div class="side-card">
         <div class="side-title"><span>快捷入口</span></div>
-        <a class="side-all${activePage === 'patents' ? ' on' : ''}" href="/patents/"><span>专利</span><span>${stats.patentsTotal || 0}</span></a>
         <a class="side-all${activePage === 'latest' ? ' on' : ''}" href="/latest/"><span>最新文献</span><span>${stats.total}</span></a>
         <a class="side-all${activePage === 'journals' ? ' on' : ''}" href="/journals/"><span>期刊目录</span><span>${stats.journals}</span></a>
         <a class="side-all${activePage === 'keywords' ? ' on' : ''}" href="/keywords/"><span>关键词索引</span><span>${stats.keywords.length}</span></a>
