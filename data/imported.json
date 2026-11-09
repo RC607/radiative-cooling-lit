@@ -34280,5 +34280,41 @@
   "imported_at": "2026-11-08 06:32",
   "url": "https://doi.org/10.1007/s00339-025-08391-4",
   "cited": 3
+ },
+ {
+  "id": "RC-N-899",
+  "category": "white",
+  "sub": "special",
+  "title_zh": "Angle-confined bipolar emission for radiative cooling",
+  "title_en": "Angle-confined bipolar emission for radiative cooling",
+  "authors": [
+   "Hang Wei",
+   "Ben Chen",
+   "Rui Wang",
+   "Zhenhai Yang",
+   "Xuewen Si",
+   "Chenhui Zhang",
+   "Shuliang Dou",
+   "Yao Li",
+   "Yaohui Zhan"
+  ],
+  "journal": "Materials & Design",
+  "year": 2026,
+  "published": "2026-11-01",
+  "volume": "",
+  "issue": "",
+  "pages": "117467",
+  "doi": "10.1016/j.matdes.2026.117467",
+  "keywords": [
+   "radiative cooling",
+   "photothermal emission"
+  ],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "Radiative cooling offers a promising strategy to mitigate global warming by passively dissipating heat into outer space. While conventional strategies-based spectral emission control is approaching its physical limits, angular emission control has emerged as a new avenue for improving radiative cooling performance. However, the theoretical limits and cooling potential of idealized angle-confined emitters, particularly under varying surface inclinations and dynamic thermodynamic trade-offs, remain largely unexplored. Here, we introduce and validate a comprehensive theoretical framework to evaluate the cooling potential of angle-confined bipolar thermal emission. Inspired by the directional radiation characteristics of the Berreman mode, we establish an idealized, polarization-insensitive bipolar emission model to systematically investigate its performance across all possible surface inclinations from horizontal to vertical. Our findings reveal that such bipolar emitters consistently surpass isotropic counterparts by optimally balancing beneficial skyward radiation against detrimental ground-induced thermal loads, achieving a theoretical temperature reduction of up to 14.6 K at a 55 ° tilt angle. This work not only provides a generalized design methodology for angle-confined radiative coolers but also reveals the profound thermodynamic limits of bipolar emission, offering fundamental physical insights for next-generation directional thermal management.",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-09 18:45",
+  "url": "https://doi.org/10.1016/j.matdes.2026.117467"
  }
 ]
