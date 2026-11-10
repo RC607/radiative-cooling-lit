@@ -1,3 +1,7 @@
+Alghassab M A. Experimental outdoor evaluation of adaptive radiative cooling and a dew-relocating shutter for renewable-energy photovoltaic systems[J]. Case Studies in Thermal Engineering, 2026, 88: 108694. DOI: 10.1016/j.csite.2026.108694.
+
+Liu X D, Pu Q R, Zhang G, 等. Hierarchically Porous PDMS/ZIF-8@h-BN Bilayer Composite Membrane Enabling Synergistic Passive Daytime Radiative Cooling and Efficient Thermal Conduction for Electronic Thermal Management[J]. ACS Applied Materials & Interfaces, 2026. DOI: 10.1021/acsami.6c18174.
+
 Wen Z, Zhong J, Hao L P, 等. Impact‐Tolerant Radiative Cooling Enabled by Bioinspired Multiscale Glass Composite Coatings[J]. Small, 2026. DOI: 10.1002/smll.76671.
 
 Jiang J, Wang Y, Wang L, 等. A Bioinspired Photon‐Gated Phase‐Change Textile for Two‐Stage Heat‐Flux Regulation of Building Envelopes[J]. Advanced Functional Materials, 2026. DOI: 10.1002/adfm.79422.

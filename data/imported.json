@@ -34316,5 +34316,60 @@
   "source": "自动同步",
   "imported_at": "2026-11-09 18:45",
   "url": "https://doi.org/10.1016/j.matdes.2026.117467"
+ },
+ {
+  "id": "RC-N-900",
+  "category": "white",
+  "sub": "hybrid",
+  "title_zh": "Hierarchically Porous PDMS/ZIF-8@h-BN Bilayer Composite Membrane Enabling Synergistic Passive Daytime Radiative Cooling and Efficient Thermal Conduction for Electronic Thermal Management",
+  "title_en": "Hierarchically Porous PDMS/ZIF-8@h-BN Bilayer Composite Membrane Enabling Synergistic Passive Daytime Radiative Cooling and Efficient Thermal Conduction for Electronic Thermal Management",
+  "authors": [
+   "Xi-Di Liu",
+   "Qin-ru Pu",
+   "Guorui Zhang",
+   "Jian-she Xia",
+   "Jing‐hui Yang",
+   "Yong Wang"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "year": 2026,
+  "published": "2026-11-09",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.1021/acsami.6c18174",
+  "keywords": [],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "The advancement of 5G and emerging 6G communications drives the integration and miniaturization of outdoor electronics, triggering an exponential surge in chip heat flux and severe challenges for low-energy passive thermal management. Passive daytime radiative cooling (PDRC) has emerged as a novel zero-energy cooling technology. Herein, a bilayer PDRC composite (B-PDRC) integrating radiative cooling and in-plane thermal conduction is designed and fabricated. The top radiative cooling layer is a hierarchically porous Polydimethylsiloxane (PDMS)/zeolitic imidazolate framework-8 (ZIF-8) foam prepared via a template-sacrificial method combined with vacuum impregnation, while the bottom thermally conductive layer is a PDMS/hexagonal boron nitride (h-BN) dense film fabricated by solution casting. The multiscale scattering induced by micron-sized pores and 600-800 nm ZIF-8 nanoparticles delivers a high solar reflectance of 94.45%, and the C-N bonds of ZIF-8 boost the average atmospheric window emissivity to 93.22%, compensating for the emissivity valley of neat PDMS. The h-BN fillers construct continuous thermal conduction paths, elevating the in-plane thermal conductivity to 0.92 W m-1 K-1 at 20 wt % of h-BN, a 179% enhancement compared to neat PDMS. Indoor tests demonstrate a maximum temperature drop of 11.9 °C for a charging smartphone covered with B-PDRC. Outdoor measurements under sunny conditions achieve a maximum subambient cooling of 8.8 °C, and a 14.8 °C temperature reduction for an operating smartphone. Furthermore, B-PDRC exhibits excellent hydrophobic self-cleaning per…",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-10 18:40",
+  "url": "https://doi.org/10.1021/acsami.6c18174"
+ },
+ {
+  "id": "RC-N-901",
+  "category": "white",
+  "sub": "adaptive",
+  "title_zh": "Experimental outdoor evaluation of adaptive radiative cooling and a dew-relocating shutter for renewable-energy photovoltaic systems",
+  "title_en": "Experimental outdoor evaluation of adaptive radiative cooling and a dew-relocating shutter for renewable-energy photovoltaic systems",
+  "authors": [
+   "Mohammed A. Alghassab"
+  ],
+  "journal": "Case Studies in Thermal Engineering",
+  "year": 2026,
+  "published": "2026-11-09",
+  "volume": "88",
+  "issue": "",
+  "pages": "108694",
+  "doi": "10.1016/j.csite.2026.108694",
+  "keywords": [],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "Daytime radiative cooling can reduce photovoltaic (PV) operating temperatures but may intensify nocturnal overcooling, dew formation, and dust adhesion. This study experimentally evaluated a transparent polydimethylsiloxane (PDMS) radiative-cooling film integrated with an adaptive low-emissivity shutter under hot-arid outdoor conditions in Najran, Saudi Arabia. Eight 100-W monocrystalline PERC modules were investigated using a replicated 2 × 2 factorial design comprising bare (PV-B), film-only (PV-RC), shutter-only (PV-AS), and integrated (PV-AD) configurations. The PDMS film exhibited a solar-weighted transmittance of 0.914 and an atmospheric-window emissivity of 0.918, with a 2.09% optical power penalty. Film presence reduced the adjusted peak-period front-glass temperature by 4.24 °C, although the associated cooling gain did not fully offset optical attenuation under clean conditions. The optimized shutter configuration employed a 30-mm gap, a 1.55 °C activation threshold, and a 1.08 °C hysteresis width. Adaptive shielding reduced PV-surface Dew Exposure Index by 74.9%, wetness duration by 75.7%, and dew mass by 83.8%, primarily relocating condensation to the externally drained shutter surface. Shutter actuation required 0.40 Wh night −1 , with controller and sensor consumption accounted for separately. Despite a 0.33% clean-condition net-energy deficit, PV-AD achieved a day-45 soiling ratio of 0.955 compared with 0.896 for PV-B. Over the 45-day natural-soiling period, cumulative net energy increased from 21.00 to 21.59 kWh, representing a 2.81% improvement. These findin…",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-10 18:40",
+  "url": "https://doi.org/10.1016/j.csite.2026.108694"
  }
 ]
