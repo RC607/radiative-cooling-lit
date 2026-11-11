@@ -1,3 +1,13 @@
+Shi X, Xu K, Jin H, 等. DIW-Printed Biomass-Based Radiative Coolers with Phase Change for Extended Thermoelectric Output[J]. ACS Applied Polymer Materials, 2026. DOI: 10.1021/acsapm.6c04206.
+
+Aldred W A. Cooling Milk Without Power: The Night-Sky and Evaporation Bound for an Evening Milking[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24113086.
+
+Aldred W A. Passive Cooling for Medicine Storage in a Hot Clinic Without Reliable Power: A Radiative, Evaporative and Thermal-Mass Cabinet Design and Its Computed Climate Envelope[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24109045.
+
+Aldred W A. The Passive Radiative Cooling Ceiling, Recomputed: Planck-Spectrum Integrals for Selective and Blackbody Emitters at Three Water-Vapour Loadings[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24103100.
+
+Pathak T. Climate-Responsive Data Centre Envelope Performance Under Contrasting Nepalese Climates[J]. Preprints.org, 2026. DOI: 10.20944/preprints202611.0905.v1.
+
 Alghassab M A. Experimental outdoor evaluation of adaptive radiative cooling and a dew-relocating shutter for renewable-energy photovoltaic systems[J]. Case Studies in Thermal Engineering, 2026, 88: 108694. DOI: 10.1016/j.csite.2026.108694.
 
 Liu X D, Pu Q R, Zhang G, 等. Hierarchically Porous PDMS/ZIF-8@h-BN Bilayer Composite Membrane Enabling Synergistic Passive Daytime Radiative Cooling and Efficient Thermal Conduction for Electronic Thermal Management[J]. ACS Applied Materials & Interfaces, 2026. DOI: 10.1021/acsami.6c18174.

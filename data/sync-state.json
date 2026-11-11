@@ -1,15 +1,18 @@
 {
- "last_run": "2026-11-10T18:40:02.332Z",
- "last_success": "2026-11-10T18:40:02.332Z",
- "last_new": 2,
- "total_added": 41,
+ "last_run": "2026-11-11T18:46:22.247Z",
+ "last_success": "2026-11-11T18:46:22.247Z",
+ "last_new": 5,
+ "total_added": 46,
  "last_error": "",
- "scans": 10,
+ "scans": 11,
  "last_ids": [
-  "RC-N-900",
-  "RC-N-901"
+  "RC-N-902",
+  "RC-N-903",
+  "RC-N-904",
+  "RC-N-905",
+  "RC-N-906"
  ],
- "scanned": 837,
+ "scanned": 836,
  "window_days": 60,
  "queries": 9
 }
