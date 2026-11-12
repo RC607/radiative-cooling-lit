@@ -1,8 +1,14 @@
+Xu D, Chen J, Duan R, 等. CNC/ZnO-Modified PET Fabrics via Surface Dissolution for UV-Blocking and Radiative Cooling[J]. ACS Applied Polymer Materials, 2026. DOI: 10.1021/acsapm.6c03310.
+
+Li Z, Chen J, Li X, 等. Comparative assessment of angular-selective radiative cooling performance for urban buildings under future climate scenarios[J]. Applied Energy, 2026, 427: 129266. DOI: 10.1016/j.apenergy.2026.129266.
+
 Shi X, Xu K, Jin H, 等. DIW-Printed Biomass-Based Radiative Coolers with Phase Change for Extended Thermoelectric Output[J]. ACS Applied Polymer Materials, 2026. DOI: 10.1021/acsapm.6c04206.
 
 Aldred W A. Cooling Milk Without Power: The Night-Sky and Evaporation Bound for an Evening Milking[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24113086.
 
 Aldred W A. Passive Cooling for Medicine Storage in a Hot Clinic Without Reliable Power: A Radiative, Evaporative and Thermal-Mass Cabinet Design and Its Computed Climate Envelope[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24109045.
+
+Xie D, Wang Y, Zhao Y, 等. Scalable Hydrogel‐Programmed Porous Photonic Cement for Passive Daytime Cooling[J]. Advanced Materials, 2026. DOI: 10.1002/adma.75691.
 
 Aldred W A. The Passive Radiative Cooling Ceiling, Recomputed: Planck-Spectrum Integrals for Selective and Blackbody Emitters at Three Water-Vapour Loadings[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24103100.
 
