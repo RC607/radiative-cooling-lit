@@ -34601,5 +34601,60 @@
   "source": "自动同步",
   "imported_at": "2026-11-12 18:44",
   "url": "https://doi.org/10.1002/adma.75691"
+ },
+ {
+  "id": "RC-N-910",
+  "category": "transparent",
+  "sub": "smart-window",
+  "title_zh": "Spectral Admissibility Limits of Multifunctional Photovoltaic Films for Mobile-Cabin Glazing",
+  "title_en": "Spectral Admissibility Limits of Multifunctional Photovoltaic Films for Mobile-Cabin Glazing",
+  "authors": [
+   "K. Durczak"
+  ],
+  "journal": "Materials",
+  "year": 2026,
+  "published": "2026-11-12",
+  "volume": "19",
+  "issue": "22",
+  "pages": "4800",
+  "doi": "10.3390/ma19224800",
+  "keywords": [],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "Semitransparent thin-film photovoltaics can combine electricity generation, daylight transmission, and solar energy rejection, while passive radiative cooling introduces an additional requirement for atmospheric window emission. However, simultaneous functionality cannot be established by combining properties measured in separate devices. This study introduces spectral admissibility of multifunctional architectures (SAMA), an evidence-constrained method combining metric compatibility, non-compensatory admissibility, non-dominance screening, deterministic critical margins, and the identification of spectral-function gaps. Three directly comparable semitransparent organic photovoltaic states were assessed using average visible transmittance (AVT), power conversion efficiency (PCE), and total solar energy rejection (T-SER). The ABPF architecture achieved AVT of 49.62%, PCE of 12.19%, and T-SER of 77.49%, dominating the 11 nm Ag reference. The 40 nm TeO2 architecture remained non-dominated owing to its higher AVT of 50.86%. The critical symmetric perturbation for the ABPF–Ag PCE ordering was 0.175 percentage points. Independent transparent radiative cooling materials demonstrated high atmospheric window emissivity, but this property remains unverified for the photovoltaic states. SAMA distinguishes demonstrated performance, threshold-dependent admissibility, and unresolved integration potential, providing an upstream materials selection procedure for multifunctional glazing.",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-13 18:42",
+  "url": "https://doi.org/10.3390/ma19224800"
+ },
+ {
+  "id": "RC-N-911",
+  "category": "white",
+  "sub": "hybrid",
+  "title_zh": "Superhydrophobic Self-Cleaning Polyvinyl Alcohol-Based Films for Enhanced Passive Radiative Cooling and Durability",
+  "title_en": "Superhydrophobic Self-Cleaning Polyvinyl Alcohol-Based Films for Enhanced Passive Radiative Cooling and Durability",
+  "authors": [
+   "Changlian Xu",
+   "Jialin Liu",
+   "Jiangtao Yao",
+   "Ruohan Xiong",
+   "Yuqing Song",
+   "Xiaoxun Xu"
+  ],
+  "journal": "ACS Applied Materials & Interfaces",
+  "year": 2026,
+  "published": "2026-11-12",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.1021/acsami.6c20791",
+  "keywords": [],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "Developing sustainable and durable superhydrophobic passive radiative cooling materials is crucial for reducing building energy consumption in a warming world, yet conventional radiative cooling materials often rely on nonrenewable polymeric substrates and fluorosiloxane-based surface modifiers, and present materials have poor durability of superhydrophobicity under harsh conditions, limiting their environmental sustainability and long-term applicability. Herein, we develop a biomass-derived superhydrophobic radiative cooling film by integrating waste straw cellulose with starch and poly(vinyl alcohol) as a renewable film-forming matrix, TiO2 as a solar-reflection filler, and a fluorosiloxane-free surface engineering strategy. The resulting cooling film exhibits a solar reflectance of 76.06% and an infrared emissivity of 96.66% within the atmospheric window. The film achieves an average temperature reduction of 28.2 °C relative to the blank cavity during the test period. Moreover, the superhydrophobic surface imparts excellent self-cleaning capability and enables the film to withstand acid/alkali corrosion, water washing, and prolonged high-temperature treatment (>100 °C for 8 h), demonstrating its robust environmental durability. Beyond passive thermal regulation, the cooling film exhibits an excellent water collection rate of 2476.2 mg cm-2 h-1. The combination of renewable agricultural waste as the structural feedstock, fluorosiloxane-free superhydrophobicity, efficient solar reflection, high infrared emission, and multifunctional environmental stability distinguishes th…",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-13 18:42",
+  "url": "https://doi.org/10.1021/acsami.6c20791"
  }
 ]
