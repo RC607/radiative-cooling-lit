@@ -1,3 +1,11 @@
+Aldred W A. Design Blueprint: Passive Radiative Cooling Panels for Lunar Daytime Equipment Temperature Control[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24190259.
+
+Zhao Y, Li X, Wu S, 等. Multifunctional Thermo‐Electronic Smart Fabrics Integrating Radiative Cooling and Energy Harvesting for Self‐Powered Intelligent Perception[J]. Advanced Energy Materials, 2026. DOI: 10.1002/aenm.71835.
+
+Aldred W A. Passive Radiative Cooling Panels for Lunar Daytime Equipment Temperature Control[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24189132.
+
+Aldred W A. Radiative Cooling Time Bounds for the Hot Gas in the Galactic Bubbles[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24203001.
+
 Durczak K. Spectral Admissibility Limits of Multifunctional Photovoltaic Films for Mobile-Cabin Glazing[J]. Materials, 2026, 19(22): 4800. DOI: 10.3390/ma19224800.
 
 Xu C, Liu J, Yao J, 等. Superhydrophobic Self-Cleaning Polyvinyl Alcohol-Based Films for Enhanced Passive Radiative Cooling and Durability[J]. ACS Applied Materials & Interfaces, 2026. DOI: 10.1021/acsami.6c20791.
