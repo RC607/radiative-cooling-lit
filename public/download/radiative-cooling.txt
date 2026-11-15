@@ -1,3 +1,5 @@
+Wang J, Li X, Shao C, 等. Hyperbranched polysiloxane-modified waterborne silicone rubber coatings for passive daytime radiative cooling[J]. Progress in Organic Coatings, 2026, 223: 110758. DOI: 10.1016/j.porgcoat.2026.110758.
+
 Aldred W A. Design Blueprint: Passive Radiative Cooling Panels for Lunar Daytime Equipment Temperature Control[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24190259.
 
 Zhao Y, Li X, Wu S, 等. Multifunctional Thermo‐Electronic Smart Fabrics Integrating Radiative Cooling and Energy Harvesting for Self‐Powered Intelligent Perception[J]. Advanced Energy Materials, 2026. DOI: 10.1002/aenm.71835.
@@ -69,6 +71,8 @@ Zhang N, Luo R, Zeng L, 等. Hydration‐Induced Environmentally‐Adaptive Ther
 Kim M, Kim M J, Eum Y, 等. Index-matched hollow silica colloidal crystals for structurally colored radiative cooling on white reflectors[J]. Nano Energy, 2026, 158: 112342. DOI: 10.1016/j.nanoen.2026.112342.
 
 Zhou J, Zhu Y, 姚丽川, 等. Insect-fat-body-inspired porous phase-change radiative cooling film for thermal buffering protection of outdoor electronic devices[J]. Chemical Engineering Journal, 2026, : 183902. DOI: 10.1016/j.cej.2026.183902.
+
+Hu G, 李兴建, 孙润军, 等. Radiative cooling fabrics for personal thermal management: from material design to multifunctional integration[J]. Sustainable materials and technologies, 2026, : e02350. DOI: 10.1016/j.susmat.2026.e02350.
 
 Fan Y, Zhu J, Li J, 等. Bioinspired composite fibrous membranes with phase-change radiative cooling for all-weather personal thermal management[J]. Advanced Composites and Hybrid Materials, 2026. DOI: 10.1007/s42114-026-02163-1.
 

@@ -34769,5 +34769,72 @@
   "source": "自动同步",
   "imported_at": "2026-11-14 18:32",
   "url": "https://doi.org/10.5281/zenodo.24203001"
+ },
+ {
+  "id": "RC-N-916",
+  "category": "white",
+  "sub": "organic",
+  "title_zh": "Hyperbranched polysiloxane-modified waterborne silicone rubber coatings for passive daytime radiative cooling",
+  "title_en": "Hyperbranched polysiloxane-modified waterborne silicone rubber coatings for passive daytime radiative cooling",
+  "authors": [
+   "Jingyu Wang",
+   "Xunzhang Li",
+   "Chaochen Shao",
+   "Xingchao Ma",
+   "Jian Jiang",
+   "Yuhang Li",
+   "Shuaiqing Cheng",
+   "Kai Xi"
+  ],
+  "journal": "Progress in Organic Coatings",
+  "year": 2026,
+  "published": "2026-11-14",
+  "volume": "223",
+  "issue": "",
+  "pages": "110758",
+  "doi": "10.1016/j.porgcoat.2026.110758",
+  "keywords": [],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-15 18:34",
+  "url": "https://doi.org/10.1016/j.porgcoat.2026.110758"
+ },
+ {
+  "id": "RC-N-917",
+  "category": "white",
+  "sub": "wearable",
+  "title_zh": "Radiative cooling fabrics for personal thermal management: from material design to multifunctional integration",
+  "title_en": "Radiative cooling fabrics for personal thermal management: from material design to multifunctional integration",
+  "authors": [
+   "Guangrong Hu",
+   "李兴建",
+   "孙润军",
+   "Liang Wei"
+  ],
+  "journal": "Sustainable materials and technologies",
+  "year": 2026,
+  "published": "2026-11-01",
+  "volume": "",
+  "issue": "",
+  "pages": "e02350",
+  "doi": "10.1016/j.susmat.2026.e02350",
+  "keywords": [
+   "personal thermal management",
+   "textile materials",
+   "thermal comfort",
+   "multifunctional textiles",
+   "material design",
+   "wearable devices"
+  ],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-15 18:34",
+  "url": "https://doi.org/10.1016/j.susmat.2026.e02350"
  }
 ]
