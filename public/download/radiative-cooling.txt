@@ -1,6 +1,10 @@
 Wang J, Li X, Shao C, 等. Hyperbranched polysiloxane-modified waterborne silicone rubber coatings for passive daytime radiative cooling[J]. Progress in Organic Coatings, 2026, 223: 110758. DOI: 10.1016/j.porgcoat.2026.110758.
 
+Green A W, Miller Z M, Williams E R, 等. Radiative Cooling Limits Collisional Heating of Large Ions[J]. Journal of the American Society for Mass Spectrometry, 2026. DOI: 10.1021/jasms.6c00376.
+
 Aldred W A. Design Blueprint: Passive Radiative Cooling Panels for Lunar Daytime Equipment Temperature Control[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24190259.
+
+Boumendil P, Joulin P A, Rodier Q, 等. Multi-scale simulations of wind farm impacts on nighttime near-surface temperature in complex terrain[J]. Wind energy science, 2026, 11(11): 4255-4280. DOI: 10.5194/wes-11-4255-2026.
 
 Zhao Y, Li X, Wu S, 等. Multifunctional Thermo‐Electronic Smart Fabrics Integrating Radiative Cooling and Energy Harvesting for Self‐Powered Intelligent Perception[J]. Advanced Energy Materials, 2026. DOI: 10.1002/aenm.71835.
 

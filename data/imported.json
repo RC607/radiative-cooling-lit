@@ -34836,5 +34836,79 @@
   "source": "自动同步",
   "imported_at": "2026-11-15 18:34",
   "url": "https://doi.org/10.1016/j.susmat.2026.e02350"
+ },
+ {
+  "id": "RC-N-918",
+  "category": "white",
+  "sub": "inorganic",
+  "title_zh": "Radiative Cooling Limits Collisional Heating of Large Ions",
+  "title_en": "Radiative Cooling Limits Collisional Heating of Large Ions",
+  "authors": [
+   "Austin W. Green",
+   "Zachary M. Miller",
+   "Evan R. Williams",
+   "James S. Prell"
+  ],
+  "journal": "Journal of the American Society for Mass Spectrometry",
+  "year": 2026,
+  "published": "2026-11-14",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.1021/jasms.6c00376",
+  "keywords": [
+   "radiative cooling",
+   "collisional heating",
+   "blackbody infrared radiative dissociation",
+   "vibrational temperature",
+   "ion activation",
+   "collision-induced dissociation",
+   "collision-induced unfolding",
+   "charge detection mass spectrometry"
+  ],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "Abstract Activation of ions inside a mass spectrometer to induce dissociation or conformational changes can be a powerful way to investigate their structure. Although the most common way to activate ions in contemporary instruments is by collisions with a neutral buffer gas, ions also constantly exchange photons with the ambient radiation field of the instrument. In blackbody infrared radiative dissociation (BIRD) experiments performed in Fourier-transform ion cyclotron resonance or ion trap instruments at low pressure, radiative energy exchange alone can be sufficient to dissociate or unfold ions on the upper-millisecond to several-minute timescale, depending on the thermochemical barrier and radiation temperature. Collisional activation, as implemented in most commercial platforms, typically occurs on the microsecond- to few-millisecond timescale, a roughly thousandfold shorter kinetic window than in BIRD experiments. Radiative energy exchange effects on collisional heating and cooling for large biomolecular ions in these experiments are poorly understood, and computing radiative energy exchange rates for ions >∼1 MDa has been intractable due to the enormous density of states of these ions. Here, we introduce an algorithm for computing radiative energy exchange rates for large ions as a function of ion mass, composition, and initial vibrational temperature. Scaling of radiative emission rates with ion size and vibrational temperature, and the competition between radiative cooling and collisional heating, are studied by incorporating results from this algorithm into the Io…",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-16 18:46",
+  "url": "https://doi.org/10.1021/jasms.6c00376"
+ },
+ {
+  "id": "RC-N-919",
+  "category": "white",
+  "sub": "inorganic",
+  "title_zh": "Multi-scale simulations of wind farm impacts on nighttime near-surface temperature in complex terrain",
+  "title_en": "Multi-scale simulations of wind farm impacts on nighttime near-surface temperature in complex terrain",
+  "authors": [
+   "Paul Boumendil",
+   "Pierre-Antoine Joulin",
+   "Quentin Rodier",
+   "Valéry Masson"
+  ],
+  "journal": "Wind energy science",
+  "year": 2026,
+  "published": "2026-11-13",
+  "volume": "11",
+  "issue": "11",
+  "pages": "4255-4280",
+  "doi": "10.5194/wes-11-4255-2026",
+  "keywords": [
+   "wind turbine wakes",
+   "wind farm impacts",
+   "complex terrain",
+   "actuator disk model",
+   "katabatic winds",
+   "temperature inversion",
+   "radiative cooling",
+   "frost risk"
+  ],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "Various studies have shown that wind turbine wakes can induce temperature variations. Investigating these effects near the ground is particularly important for assessing their potential impact on vegetation and human activities. In this study, the multi-scale Meso-NH/SURFEX/EOL modeling framework, which includes coupled atmosphere, land-surface and actuator models, is used to evaluate the impact of the Ensemble Éolien Catalan wind farm on ground and near-surface temperatures, as well as terrain-specific flow dynamics during a stable nocturnal radiative cooling event associated with frost risk in nearby vineyards. The simulations are performed using nested domains to dynamically downscale the atmospheric conditions from the operational weather forecast AROME-1.3km to a horizontal resolution of 5 m, allowing explicit representation of turbine wakes through rotative actuator disk representation. Turbine-induced meteorological variations are quantified by comparing simulations performed with and without the actuator model. The results reveal that near-surface meteorological responses arise from the combined influence of individual turbine wakes and the large-scale impact of the wind farm, which modifies the flow dynamics and temperature field. In the wind farm, a mean near-surface warming of approximately 0.4 °C is found, with localized temperature increases reaching up to 1.6 °C in the near wake of individual turbines. The strongest perturbations occur for turbines located within valleys, where strong temperature inversions enhance turbine-induced temperature changes. In addit…",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-16 18:46",
+  "url": "https://doi.org/10.5194/wes-11-4255-2026"
  }
 ]
