@@ -1,3 +1,17 @@
+Fu J, Li N, Yu J, 等. A Sandwich-Structured Dual-Mode Fabric with Temperature-Adaptive Spectral Tunability for All-Season Outdoor Personal Thermal Management[J]. ACS Applied Materials & Interfaces, 2026. DOI: 10.1021/acsami.6c14688.
+
+Li Z, Wang H, Li Y, 等. All-inorganic multilayer emitter with ITO/SiO2/Al structure for passive daytime radiative cooling[J]. Applied Thermal Engineering, 2026, 310: 134004. DOI: 10.1016/j.applthermaleng.2026.134004.
+
+Zheng Q, Liu X, Xue Z, 等. Bio‐Integrated Core–shell Textiles for Spatially Decoupled Radiative Cooling and Thermoelectric Antibacterial Protection[J]. Small, 2026. DOI: 10.1002/smll.76757.
+
+Yue X, Zhao Q, Khan I, 等. N/P synergistic flame-retardant cellulose aerogel with self-cleaning and biodegradable for passive radiative cooling[J]. Solar Energy Materials and Solar Cells, 2026, 311: 114838. DOI: 10.1016/j.solmat.2026.114838.
+
+Guo Y, Dan Y, Wang Q, 等. Modeling and performance assessment of a dual-function collector featuring a transparent compound parabolic concentrator for simultaneous solar energy harvesting and radiative cooling[J]. Applied Energy, 2026, 427: 129253. DOI: 10.1016/j.apenergy.2026.129253.
+
+Jung Y, Ko S H. Thermal-regulating smart windows for a sustainable future[J]. Communications Materials, 2026, 7(1). DOI: 10.1038/s43246-026-01431-3.
+
+Luo Y, Yang M, Han Q, 等. Robust PDMS / PVDF ‐ HFP / ZrO 2 Superhydrophobic Coating for Efficient Daytime Radiative Cooling[J]. Polymer Engineering and Science, 2026. DOI: 10.1002/pen.71034.
+
 Wang J, Li X, Shao C, 等. Hyperbranched polysiloxane-modified waterborne silicone rubber coatings for passive daytime radiative cooling[J]. Progress in Organic Coatings, 2026, 223: 110758. DOI: 10.1016/j.porgcoat.2026.110758.
 
 Green A W, Miller Z M, Williams E R, 等. Radiative Cooling Limits Collisional Heating of Large Ions[J]. Journal of the American Society for Mass Spectrometry, 2026. DOI: 10.1021/jasms.6c00376.
