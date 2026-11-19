@@ -1,3 +1,7 @@
+Gu Y, Chen R, Bai Y, 等. Machine learning-guided nanocomposite design: Multifunctional radiative cooling coatings with high solar reflectivity and adaptive color switching[J]. Renewable Energy, 2026, 279: 126743. DOI: 10.1016/j.renene.2026.126743.
+
+Karamoozian A, Firozjaei M K, Mijani N, 等. Radiative cooling of urban parks in 31 Iranian provincial capitals: data, inputs, outputs and analyses[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24353329.
+
 Fu J, Li N, Yu J, 等. A Sandwich-Structured Dual-Mode Fabric with Temperature-Adaptive Spectral Tunability for All-Season Outdoor Personal Thermal Management[J]. ACS Applied Materials & Interfaces, 2026. DOI: 10.1021/acsami.6c14688.
 
 Li Z, Wang H, Li Y, 等. All-inorganic multilayer emitter with ITO/SiO2/Al structure for passive daytime radiative cooling[J]. Applied Thermal Engineering, 2026, 310: 134004. DOI: 10.1016/j.applthermaleng.2026.134004.
@@ -11,6 +15,8 @@ Guo Y, Dan Y, Wang Q, 等. Modeling and performance assessment of a dual-functio
 Jung Y, Ko S H. Thermal-regulating smart windows for a sustainable future[J]. Communications Materials, 2026, 7(1). DOI: 10.1038/s43246-026-01431-3.
 
 Luo Y, Yang M, Han Q, 等. Robust PDMS / PVDF ‐ HFP / ZrO 2 Superhydrophobic Coating for Efficient Daytime Radiative Cooling[J]. Polymer Engineering and Science, 2026. DOI: 10.1002/pen.71034.
+
+Wang C, Wong M Y, Zhang Y, 等. Thermochromic Spectrum‑Selective Photovoltaic Glazing with Building Energy Saving and Adaptive Daylighting[J]. Advances in Applied Energy, 2026, 24: 100324. DOI: 10.1016/j.adapen.2026.100324.
 
 Wang J, Li X, Shao C, 等. Hyperbranched polysiloxane-modified waterborne silicone rubber coatings for passive daytime radiative cooling[J]. Progress in Organic Coatings, 2026, 223: 110758. DOI: 10.1016/j.porgcoat.2026.110758.
 
@@ -35,6 +41,8 @@ Xu D, Chen J, Duan R, 等. CNC/ZnO-Modified PET Fabrics via Surface Dissolution 
 Li Z, Chen J, Li X, 等. Comparative assessment of angular-selective radiative cooling performance for urban buildings under future climate scenarios[J]. Applied Energy, 2026, 427: 129266. DOI: 10.1016/j.apenergy.2026.129266.
 
 Shi X, Xu K, Jin H, 等. DIW-Printed Biomass-Based Radiative Coolers with Phase Change for Extended Thermoelectric Output[J]. ACS Applied Polymer Materials, 2026. DOI: 10.1021/acsapm.6c04206.
+
+Kuravi S. Educating engineers in ambient energy for buildings: a senior-level course on passive design and environmental energy flows[J]. Solar Compass, 2026, 20: 100197. DOI: 10.1016/j.solcom.2026.100197.
 
 Aldred W A. Cooling Milk Without Power: The Night-Sky and Evaporation Bound for an Evening Milking[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24113086.
 
