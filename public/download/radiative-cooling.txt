@@ -1,3 +1,9 @@
+Yang Y, Yang X Y, Zhang Y, 等. Hierarchical polyvinylidene fluoride-based bilayer porous film for dual-mode solar heating and passive radiative cooling[J]. Solar Energy, 2026, 321: 115388. DOI: 10.1016/j.solener.2026.115388.
+
+Zhang H, Yu Z, 林洙泫, 等. Nano-SiO2/Al2O3 enhanced UV coating for efficient daytime radiative cooling[J]. Progress in Organic Coatings, 2026, 223: 110772. DOI: 10.1016/j.porgcoat.2026.110772.
+
+Fu M, 柳海霞, Xu Z, 等. Interfacial engineering of a tea polyphenol-coated ZnO/mica nanocomposite for enhanced UV protection and radiative cooling[J]. Nanoscale, 2026. DOI: 10.1039/d6nr03363f.
+
 Gu Y, Chen R, Bai Y, 等. Machine learning-guided nanocomposite design: Multifunctional radiative cooling coatings with high solar reflectivity and adaptive color switching[J]. Renewable Energy, 2026, 279: 126743. DOI: 10.1016/j.renene.2026.126743.
 
 Karamoozian A, Firozjaei M K, Mijani N, 等. Radiative cooling of urban parks in 31 Iranian provincial capitals: data, inputs, outputs and analyses[J]. Zenodo (CERN European Organization for Nuclear Research), 2026. DOI: 10.5281/zenodo.24353329.
@@ -165,6 +171,8 @@ Mao J, Jin S, Wang N, 等. Adaptive and Multicolored Electrochromic Smart Window
 Huang S, Li Z, Liu Y, 等. Biobased Boston Ivy‐Inspired Cryogel Integrating Radiative Cooling and Phase Change Energy Storage for Adaptive Thermal Regulation[J]. Advanced Science, 2026, : e78323. DOI: 10.1002/advs.78323.
 
 Asfahan H M, Jia S, Zahra S M, 等. Radiative Cooling Floating Covers Cool Lakes and Suppress Evaporation[J]. Advanced Materials, 2026, : e75404. DOI: 10.1002/adma.75404.
+
+Zhang X, Yang K, Xie F, 等. Research progress on photoluminescent daytime radiative cooling devices[J]. Zhongguo kexue. Wulixue Lixue Tianwenxue, 2026, 56(11): 114605. DOI: 10.1360/sspma-2025-0591.
 
 You T, Huang S, Lin Z, 等. Radiative cooling coating for ballastless tracks: Climate-driven regional suitability and temperature regulation[J]. Energy, 2026, 366: 142717. DOI: 10.1016/j.energy.2026.142717.
 

@@ -1,17 +1,17 @@
 {
- "last_run": "2026-11-19T18:51:38.954Z",
- "last_success": "2026-11-19T18:51:38.954Z",
+ "last_run": "2026-11-20T18:52:09.141Z",
+ "last_success": "2026-11-20T18:52:09.141Z",
  "last_new": 4,
- "total_added": 70,
+ "total_added": 74,
  "last_error": "",
- "scans": 18,
+ "scans": 19,
  "last_ids": [
-  "RC-N-927",
-  "RC-N-928",
-  "RC-N-929",
-  "RC-N-930"
+  "RC-N-931",
+  "RC-N-932",
+  "RC-N-933",
+  "RC-N-934"
  ],
- "scanned": 839,
+ "scanned": 846,
  "window_days": 60,
  "queries": 9
 }
