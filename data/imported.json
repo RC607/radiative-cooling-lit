@@ -35439,5 +35439,40 @@
   "source": "自动同步",
   "imported_at": "2026-11-20 18:52",
   "url": "https://doi.org/10.1360/sspma-2025-0591"
+ },
+ {
+  "id": "RC-N-935",
+  "category": "white",
+  "sub": "adaptive",
+  "title_zh": "An Aerogel Composite Cooler with Radiative-Phase-Change Hybrid Cooling for Highly Effective Outdoor Electronics Thermal Management",
+  "title_en": "An Aerogel Composite Cooler with Radiative-Phase-Change Hybrid Cooling for Highly Effective Outdoor Electronics Thermal Management",
+  "authors": [
+   "Litong Zhang",
+   "ziqi Li",
+   "Akbar Bashir",
+   "Jie Cui",
+   "Huifang Zeng",
+   "Zeyu Cen",
+   "Xin Gao",
+   "Xing Ouyang",
+   "Chen Liu",
+   "Yanlong Tai",
+   "Dazhu Chen"
+  ],
+  "journal": "Authorea",
+  "year": 2026,
+  "published": "2026-11-20",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "doi": "10.22541/authorea.15012556/v1",
+  "keywords": [],
+  "abstract_zh": "（网络收录文献，暂未整理中文简介；英文原文摘要见下方。）",
+  "abstract_en": "Conventional radiative cooling suffers from limited cooling capacity, while phase change based temperature control techniques are plagued by material leakage, making them insufficient to satisfy the growing requirements of outdoor electronics. Herein, we propose a leakproof radiative-phase-change hybrid cooling aerogel composite (RPHCAC) cooler that integrates directionally structured chitosan (CS)/carbon nanotubes (CNTs) aerogel encapsulating beeswax (BW) as the phase change material (PCM) inside a coating of polydimethylsiloxane/hexagonal boron nitride (PDMS/h BN), which achieves a high solar reflectivity of 95.6% with a high latent heat of 163.4 J g-1. Importantly, aerogel composite cooler exhibits a water contact angle of approximately 123.9°, maintaining its water‑repellent character with self‑cleaning functionality. Under direct sunlight, this RPHCAC cooler attains an average temperature reduction of 11.7 °C below ambient and displays a maximum temperature drop of 47.5 °C when further subjected to an intense thermal shock of 2000 W ⋅m−2, which is primarily attributed to the temperature pinning effect of the PCM and the good optical property of the PDMS/h BN coating. By integrating radiative cooling with latent heat storage, this work offers an effective strategy to safeguard outdoor electronics against solar radiation, thus pushing passive thermal management technologies closer to real world deployment.",
+  "review": false,
+  "type": "研究型论文",
+  "source": "自动同步",
+  "imported_at": "2026-11-21 18:36",
+  "url": "https://doi.org/10.22541/authorea.15012556/v1"
  }
 ]
