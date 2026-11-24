@@ -1,8 +1,12 @@
+Xi S, Tan X, Qi G, 等. Hydrophobic Porous Flexible Composite Films with Balanced Optical and Thermal Properties for Outdoor Radiative Cooling[J]. Materials, 2026, 19(23): 4945. DOI: 10.3390/ma19234945.
+
 Zhang L, Li Z, Bashir A, 等. An Aerogel Composite Cooler with Radiative-Phase-Change Hybrid Cooling for Highly Effective Outdoor Electronics Thermal Management[J]. Authorea, 2026. DOI: 10.22541/authorea.15012556/v1.
 
 Yang Y, Yang X Y, Zhang Y, 等. Hierarchical polyvinylidene fluoride-based bilayer porous film for dual-mode solar heating and passive radiative cooling[J]. Solar Energy, 2026, 321: 115388. DOI: 10.1016/j.solener.2026.115388.
 
 Zhang H, Yu Z, 林洙泫, 等. Nano-SiO2/Al2O3 enhanced UV coating for efficient daytime radiative cooling[J]. Progress in Organic Coatings, 2026, 223: 110772. DOI: 10.1016/j.porgcoat.2026.110772.
+
+Li Y, Fu X, Cao L, 等. Hierarchical Polymer-Dielectric Radiative Cooling Membrane for Thermal Management[J]. Energy, 2026, 369: 143212. DOI: 10.1016/j.energy.2026.143212.
 
 Fu M, 柳海霞, Xu Z, 等. Interfacial engineering of a tea polyphenol-coated ZnO/mica nanocomposite for enhanced UV protection and radiative cooling[J]. Nanoscale, 2026. DOI: 10.1039/d6nr03363f.
 
