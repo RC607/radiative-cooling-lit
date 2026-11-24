@@ -87,7 +87,7 @@ function downloadText(filename, text) {
 async function loadCitations() {
   if (state.cite) return state.cite;
   if (!state.citePromise) {
-    state.citePromise = fetch('/data/citations.json', { headers: { Accept: 'application/json' } })
+    state.citePromise = fetch(`/data/citations.json?v=${document.body.dataset.build || ''}`, { headers: { Accept: 'application/json' } })
       .then((r) => {
         if (!r.ok) throw new Error('题录数据加载失败');
         return r.json();
@@ -165,7 +165,7 @@ async function renderFavorites() {
   }
   root.innerHTML = '<div class="loading"><span class="spinner"></span>正在读取文献…</div>';
   try {
-    const res = await fetch('/data/index.json', { headers: { Accept: 'application/json' } });
+    const res = await fetch(`/data/index.json?v=${document.body.dataset.build || ''}`, { headers: { Accept: 'application/json' } });
     if (!res.ok) throw new Error('文献索引加载失败');
     const index = await res.json();
     const byId = new Map(index.map((p) => [p.id, p]));

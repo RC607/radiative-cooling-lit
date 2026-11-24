@@ -35474,5 +35474,45 @@
   "source": "自动同步",
   "imported_at": "2026-11-21 18:36",
   "url": "https://doi.org/10.22541/authorea.15012556/v1"
+ },
+ {
+  "id": "RC-N-899",
+  "category": "white",
+  "sub": "special",
+  "title_zh": "The radiative cooling of selective surfaces",
+  "title_en": "The radiative cooling of selective surfaces",
+  "authors": [
+   "Sergio Catalanotti",
+   "V. Cuomo",
+   "G. Piro",
+   "D. Ruggi",
+   "V. Silvestrini",
+   "G. Troise"
+  ],
+  "journal": "Solar Energy",
+  "year": 1975,
+  "published": "1975-05-01",
+  "volume": "17",
+  "issue": "2",
+  "pages": "83-89",
+  "doi": "10.1016/0038-092x(75)90062-6",
+  "keywords": [
+   "radiative cooling",
+   "selective surfaces",
+   "atmospheric window",
+   "thermal radiation",
+   "clear-sky conditions",
+   "daytime cooling",
+   "blackbody radiators",
+   "emissivity"
+  ],
+  "abstract_zh": "",
+  "abstract_en": "",
+  "review": false,
+  "type": "研究型论文",
+  "source": "经典文献",
+  "imported_at": "2026-11-24 11:13",
+  "url": "https://doi.org/10.1016/0038-092x(75)90062-6",
+  "cited": 626
  }
 ]

@@ -167,7 +167,7 @@ ${noindex ? '<meta name="robots" content="noindex, follow">' : ''}
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/assets/css/style.css?v=${SITE.version}">
 </head>
-<body${bodyClass ? ` class="${bodyClass}"` : ''}>
+<body data-build="${BUILD_STAMP}"${bodyClass ? ` class="${bodyClass}"` : ''}>
 <a class="skip-link" href="#main">跳到正文</a>
 ${topbar(active)}
 <div class="layout${sidebarHtml ? '' : ' no-sidebar'}">

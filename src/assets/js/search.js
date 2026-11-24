@@ -209,8 +209,8 @@ function toast(msg) {
 /* ── 数据加载 ───────────────────────────────────────────────────────── */
 async function loadData() {
   const [metaRes, corpusRes] = await Promise.all([
-    fetch('/data/meta.json', { headers: { Accept: 'application/json' } }),
-    fetch('/data/literature.json', { headers: { Accept: 'application/json' } }),
+    fetch(`/data/meta.json?v=${document.body.dataset.build || ''}`, { headers: { Accept: 'application/json' } }),
+    fetch(`/data/literature.json?v=${document.body.dataset.build || ''}`, { headers: { Accept: 'application/json' } }),
   ]);
   if (!metaRes.ok) throw new Error(`元数据加载失败（HTTP ${metaRes.status}）`);
   if (!corpusRes.ok) throw new Error(`文献数据加载失败（HTTP ${corpusRes.status}）`);
@@ -774,7 +774,7 @@ function bind() {
         return;
       }
       try {
-        const res = await fetch('/data/citations.json', { headers: { Accept: 'application/json' } });
+        const res = await fetch(`/data/citations.json?v=${document.body.dataset.build || ''}`, { headers: { Accept: 'application/json' } });
         if (!res.ok) throw new Error('题录数据加载失败');
         const all = await res.json();
         const text = PAGE_IDS.map((id) => all[id] && all[id].bibtex).filter(Boolean).join('\n\n');
