@@ -1963,3 +1963,5 @@ Granqvist C G, Hjortsberg A. Radiative cooling to low temperatures: General cons
 Granqvist C, Hjortsberg A. Surfaces for radiative cooling: Silicon monoxide films on aluminum[J]. Applied Physics Letters, 1980, 36(2): 139-141. DOI: 10.1063/1.91406.
 
 Harrison A W, Walton M. Radiative cooling of TiO2 white paint[J]. Solar Energy, 1978, 20(2): 185-188. DOI: 10.1016/0038-092x(78)90195-0.
+
+Catalanotti S, Cuomo V, Piro G, 等. The radiative cooling of selective surfaces[J]. Solar Energy, 1975, 17(2): 83-89. DOI: 10.1016/0038-092x(75)90062-6.
