@@ -1,3 +1,9 @@
+Yang Y, Tan R, Hu Q, 等. Ice Plant-Inspired Hierarchical Nanofibrous Film for Outdoor-Stable Passive Radiative Cooling[J]. ACS Applied Materials & Interfaces, 2026. DOI: 10.1021/acsami.6c19440.
+
+Zaveri A, Raman A P. Nonreciprocal radiative cooling in asymmetric terrestrial environments[J]. Optics Express, 2026, 34(24): 46754. DOI: 10.1364/oe.612586.
+
+Tushe N A, Karua P, Tang S, 等. Shape-memory-enabled structural reconfiguration for overcoming the seasonal trade-off in radiative thermal management[J]. Applied Thermal Engineering, 2026, 311: 134128. DOI: 10.1016/j.applthermaleng.2026.134128.
+
 Xi S, Tan X, Qi G, 等. Hydrophobic Porous Flexible Composite Films with Balanced Optical and Thermal Properties for Outdoor Radiative Cooling[J]. Materials, 2026, 19(23): 4945. DOI: 10.3390/ma19234945.
 
 Zhang L, Li Z, Bashir A, 等. An Aerogel Composite Cooler with Radiative-Phase-Change Hybrid Cooling for Highly Effective Outdoor Electronics Thermal Management[J]. Authorea, 2026. DOI: 10.22541/authorea.15012556/v1.

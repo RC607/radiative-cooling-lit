@@ -1,15 +1,16 @@
 {
- "last_run": "2026-11-25T18:44:17.388Z",
- "last_success": "2026-11-25T18:44:17.388Z",
- "last_new": 0,
- "total_added": 40,
+ "last_run": "2026-11-27T18:50:09.606Z",
+ "last_success": "2026-11-27T18:50:09.606Z",
+ "last_new": 3,
+ "total_added": 43,
  "last_error": "",
- "scans": 10,
+ "scans": 11,
  "last_ids": [
-  "RC-N-937",
-  "RC-N-938"
+  "RC-N-939",
+  "RC-N-940",
+  "RC-N-941"
  ],
- "scanned": 848,
+ "scanned": 853,
  "window_days": 60,
  "queries": 9
 }
